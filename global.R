@@ -12,11 +12,8 @@ suppressPackageStartupMessages({
   library(data.table)
   library(shinyjs) # Hides un-used tabs
   library(manipulateWidget)
-  library(sf)
   # devtools::install_github("ropensci/plotly")
   library(plotly)
-  library(leaflet)
-  library(fst)
   library(magrittr)
 })
 
@@ -26,4 +23,4 @@ suppressPackageStartupMessages({
 files <- list.files(path = "R/", full.names = TRUE)
 sapply(files, source)
 
-enableBookmarking("url")
+

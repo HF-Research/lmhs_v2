@@ -1,0 +1,17 @@
+﻿person_type,topic,question,stratification_level,stratification_value_1,stratification_value_2,value
+patient,physical,a1,age_sex,male,65,24.6064061
+patient,physical,a1,age_sex,male,45,14.23959182
+patient,physical,a1,age_sex,female,65,83.6582266
+patient,physical,a1,age_sex,female,65,6.182127659
+patient,physical,a2,age_sex,male,65,28.62793872
+patient,physical,a2,age_sex,male,45,44.69519877
+patient,physical,a2,age_sex,female,65,14.35857232
+patient,physical,a2,age_sex,female,65,0.825496621
+patient,emotion,b1,age_sex,male,65,11.18043223
+patient,emotion,b1,age_sex,male,45,44.65421035
+patient,emotion,b1,age_sex,female,65,67.75131958
+patient,emotion,b1,age_sex,female,65,49.99414896
+patient,physical,a1,region,hovd,65,69.05301644
+patient,physical,a1,region,syd,45,75.07447681
+patient,physical,a1,region,midt,65,47.3522991
+patient,physical,a1,region,nord,65,21.93795952
