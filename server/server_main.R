@@ -1,34 +1,130 @@
-output$question_choices <- renderUI({
-  req(input$respondend_type)
+# UI INPUT ----------------------------------------------------------------
 
-  # Gives a dynamic button UI. The buttons change depending on the selected
-  # outcome Keep variables that have "count" in their name.
-  #
-  # This next code allows the variable chosen by the user to remain, when
-  # switching to a new outcome, while on a aggr_level not supported with the new
-  # outcome. F.x. Switch from all-CVD, 30-day mortality, kommune-level, to
-  # hjerteklapoperation. Hjerteklaoperation only supports 30-day mort at
-  # national level, so the variable is switched to incidence.
-  #
-  # If the previous selected var is not available, test to see if it is
-  # available in the previously selected aggr_level. If not to both, set
-  # selected_var to be the first variable.
+observeEvent(input$person_type,{
+  topic_choices <- d$topics_by_person[[input$person_type]]
+  freezeReactiveValue(input, "topic")
+  updateSelectizeInput(
+    session,
+    inputId = "topic",
+    label = choose_topic,
+    choices = topic_choices,
+    selected = topic_choices[1]
+  )
 
-  question_choices_out <-
-    make_var_choices(
-      selected_var = (validateSelectedVars()$selected_var),
-      var_names = (validateSelectedVars()$var_names),
-      valid_selection = (validateSelectedVars()$valid_selection),
-      aggr_selected_next = aggr_selected_next,
-      outcome_code = input$oCVD,
-      valid_output_combos = valid_output_combos
+})
+
+listen_question <- reactive({
+  list(input$person_type,input$topic)
+})
+observeEvent(listen_question() ,{
+
+  freezeReactiveValue(input, "question")
+
+  question_choices <-
+    d$q_by_topic_person[[paste0(input$person_type, ".", input$topic)]]
+
+  updateSelectizeInput(
+    session,
+    inputId = "question",
+    label = choose_question,
+    choices = question_choices,
+    selected = question_choices[1]
+  )
+
+})
+
+# PLOT --------------------------------------------------------------------
+
+plot_data <- reactive({
+  d$dat[person_type == input$person_type &
+          topic == input$topic &
+          question == input$question &
+          stratification_level == input$stratification]
+})
+output$plot <- plotly::renderPlotly({
+  req(input$person_type,
+      input$topic,
+      input$question,
+      input$stratification)
+
+
+  if (input$stratification == "age_sex") {
+    tooltip <-
+      paste0("%{text}: <br><b>%{y:,.", num_digits, "f}<extra></extra>")
+    plot_out <- plot_data() %>%
+      plot_ly() %>%
+      add_trace(
+        x = ~ stratification_value_1,
+        y = ~ value,
+        color = ~ stratification_value_2,
+        text =  ~ stratification_value_2,
+        colors = graph_colors,
+        type = "bar",
+        hovertemplate = tooltip
+      )
+  } else{
+    plot_out <- plot_data() %>%
+      plot_ly() %>%
+      add_trace(
+        x = ~ stratification_value_1,
+        y = ~ value,
+        type = "bar"
+      )
+  }
+  plot_title <- "Test title"
+  axis_title_x <-
+    names(stratification_choices[stratification_choices == input$stratification])
+  axis_title_y <- "Test y value"
+  plot_out %>%
+    layout(
+      margin = list(t = 70),
+      title = list(
+        text = plot_title,
+        x = 0,
+        yanchor = "bottom",
+        font = list(family = c("Roboto"),
+                    size = 25)
+      ),
+      xaxis = list(
+        title = list(text = axis_title_x,
+                     font = list(size = axis_font_size)),
+        tickfont = list(size = tick_font_size)
+      ),
+      yaxis = list(
+        title = list(text = axis_title_y,
+                     font = list(size = axis_font_size)),
+        tickfont = list(size = tick_font_size),
+        range = c(0, 100),
+        tickformat = paste0(",.", num_digits)
+      ),
+      hoverlabel = list(font = list(size = 18)),
+      hovermode = "x unified",
+      legend = list(
+        itemsizing = "constant",
+        font = list(size = legend_font_size)
+      )
+
+
+    ) %>%
+    config(
+      locale = "da",
+      modeBarButtonsToRemove = c(
+        "zoomIn2d",
+        "zoomOut2d",
+        "zoom2d",
+        "pan2d",
+        "select2d",
+        "lasso2d",
+        "autoScale2d",
+        "resetScale2d"
+      ),
+      toImageButtonOptions = list(
+        filename = paste0("LMHS- "),
+        width = 1000,
+        height = 500,
+        scale = "2"
+      )
     )
 
-  selectInput(
-    inputId = "question_choices",
-    label = choose_question,
-    choices = question_choices_out$var_names,
-    selectize = TRUE,
-    selected = question_choices_out$selected_var
-  )
+
 })

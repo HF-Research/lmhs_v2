@@ -12,9 +12,16 @@ ui <- function(request) {
     ),
     tags$a(
       img(
-        src = "hf-logo.png",
+        src = "hf_logo.svg",
         align = "left",
         style = "padding-top: 20px; padding-bottom: 40px; padding-left: 2.5rem;",
+        height = "110px"
+      ), href = "https://hjerteforeningen.dk/", target ="_blank"),
+    tags$a(
+      img(
+        src = "LMH_logo4.png",
+        align = "left",
+        style = "padding-top: 1px; padding-bottom: 5px; padding-left: 2.5rem;",
         height = "110px"
       ), href = "https://hjerteforeningen.dk/", target ="_blank"),
     fluidPage(
