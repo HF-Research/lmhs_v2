@@ -1,0 +1,21 @@
+﻿survey,topic,en,dk,question_start,question_end
+pat,1,heart,Din hjertesygdom,1,1
+pat,2,treatment,Behandling på sygehuset,2,6
+pat,3,personelle,Kontakt med sundhedspersonale,7,13
+pat,4,information,Information,14,14
+pat,5,paar,Pårørende,15,15
+pat,6,medicne,Medicin,16,16
+pat,7,counciling,Rådgivning,17,19
+pat,8,work,Arbejdsliv,20,20
+pat,9,social_eco,Sociale/økonomiske forhold,21,22
+pat,10,everyday,Hverdagen,23,25
+pat,11,health,Heldbred og trivsel,26,47
+pat,12,corona,Corona,48,50
+paar,1,relation,Din relation til den hjertesyge,2,2
+paar,2,daily life,Nye opgaver og ændret hverdagsliv,3,8
+paar,3,healthcare,Mødet med sundhedsvæsenet,9,17
+paar,4,counciling,Rådgivning,18,19
+paar,5,work,Arbejdsliv,20,22
+paar,6,health,Heldbred,23,46
+paar,7,corona,Corona,47,48
+paar,8,background,Baggrundsoplysninger,49,49

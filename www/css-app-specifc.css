@@ -176,6 +176,15 @@ label{
   .btn{
     font-size: 1.7rem;
   }
+  
+  
+  .btn.btn-default-no-hover {
+  background-color: var(--hfBlue);
+  border-color: var(--hfBlueMedium);
+  color:var(--white);
+
+}
+  
   .btn.radiobtn.btn-default.active {
     background-color:var(--hfBlue);
     border-color:var(--hfBlue);
@@ -222,7 +231,6 @@ label{
   font-weight:bold;
   color:white;
 }
-
 
 
 /**** DROPDOWN *****/
@@ -287,7 +295,9 @@ td {
 
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
-
+.results_container{
+  min-height: 315px;
+}
 .well_input{
   background-color:white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -296,9 +306,13 @@ td {
 
 .row{
   margin-left:-10px;
-  margin-right:-10px;
+  margin-right:-10px
 }
 
+
+.gauge_row{
+  max-width: 400px;
+}
 .well_description {
   background-color:white;
   margin-left: auto;
@@ -336,7 +350,6 @@ td {
 
 
 
-
 /******   ABOUT TABPAGE   *******/
   .col_about_dt {
     max-width:1260px;
@@ -359,6 +372,18 @@ td {
 
 .modal-body{
   font-size: 1.7rem;
+}
+
+
+/******   FONT STYLING   *******/
+
+.helper_text{
+  font-style:italic;
+  font-size:1.7rem;
+}
+.small_header{
+  font-size:2rem;
+  font-weight: bold;
 }
 /**** OVERRIDES FROM MAIN STLYLE SHEET ****/
   .btn{

@@ -1,0 +1,441 @@
+﻿question,group,Questionnaire no.,value,label,group_label,display,non_strat_cutpoints,stratified
+hads_anxiety,0,NA,0,0,HADS anxiety 0 - 7,0,1,1
+hads_anxiety,1,NA,1,2,HADS anxiety 8 - 10,0,1,1
+hads_anxiety,2,NA,2,1,HADS anxiety >=11,1,1,1
+hads_depression,0,NA,0,0,HADS depression 0 - 7,0,1,1
+hads_depression,1,NA,1,2,HADS depression 8 - 10,0,1,1
+hads_depression,2,NA,2,1,HADS depression >=11,1,1,1
+s_10,1,3g,1,Slet ikke,Slet ikke,0,NA,0
+s_10,2,3g,2,Lidt,Lidt,0,NA,0
+s_10,3,3g,3,En del,En del,0,NA,0
+s_10,4,3g,4,Meget,Meget,0,NA,0
+s_10,5,3g,5,Ikke relevant,Ikke relevant,0,NA,0
+s_104,1,3h,1,Slet ikke,Slet ikke,0,NA,0
+s_104,2,3h,2,Lidt,Lidt,0,NA,0
+s_104,3,3h,3,En del,En del,0,NA,0
+s_104,4,3h,4,Meget,Meget,0,NA,0
+s_104,5,3h,5,Ikke relevant,Ikke relevant,0,NA,0
+s_107,1,3i,1,Slet ikke,Slet ikke,0,NA,0
+s_107,2,3i,2,Lidt,Lidt,0,NA,0
+s_107,3,3i,3,En del,En del,0,NA,0
+s_107,4,3i,4,Meget,Meget,0,NA,0
+s_107,5,3i,5,Ikke relevant,Ikke relevant,0,NA,0
+s_109,1,4.1,1,"Den hjertesyge forventede eller ønskede, at jeg påtog mig en større rolle, end jeg selv ønskede","Den hjertesyge forventede eller ønskede, at jeg påtog mig en større rolle, end jeg selv ønskede",0,NA,0
+s_109,2,4.1,2,"Jeg ønskede en større rolle, end den hjertesyge tillod","Jeg ønskede en større rolle, end den hjertesyge tillod",0,NA,0
+s_110,3,18f,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_110,0,18f,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_110,1,18f,3,"Nej, men jeg havde behov for...",Individuel samtale med anden pårørende,1,1,0
+s_110,2,18f,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_112,0,20.3,3,"Nej, aldrig","Nej, aldrig",0,NA,1
+s_112,1,20.3,2,"Ja, én enkelt gang","Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)",1,NA,1
+s_114,1,3.1,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_114,0,3.1,3,I mindre grad,I mindre grad,0,NA,0
+s_114,2,3.1,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_123,1,16.1,1,Mere end jeg havde lyst til,Mere end jeg havde lyst til,0,NA,0
+s_123,2,16.1,2,Mindre end jeg havde lyst til,Mindre end jeg havde lyst til,0,NA,0
+s_124,0,18.1a,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_124,1,18.1a,3,Hverken god eller dårlig,Samtaler med en psykolog,1,1,0
+s_124,3,18.1a,5,Ved ikke,Ved ikke,0,1,0
+s_125,0,18.1b,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_125,1,18.1b,3,Hverken god eller dårlig,Samtalegrupper med andre pårørende,1,1,0
+s_125,3,18.1b,5,Ved ikke,Ved ikke,0,1,0
+s_126,0,18.1c,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_126,1,18.1c,3,Hverken god eller dårlig,Samtaler med socialrådgiver,1,1,0
+s_126,3,18.1c,5,Ved ikke,Ved ikke,0,1,0
+s_127,0,18.1d,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_127,1,18.1d,3,Hverken god eller dårlig,"Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",1,1,0
+s_127,3,18.1d,5,Ved ikke,Ved ikke,0,1,0
+s_128,0,18.1e,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_128,1,18.1e,3,Hverken god eller dårlig,Aflastning ift. praktiske opgaver,1,1,0
+s_128,3,18.1e,5,Ved ikke,Ved ikke,0,1,0
+s_129,0,18.1f,1,Særdeles god,Særdeles god / Overvejende god,0,1,0
+s_129,1,18.1f,3,Hverken god eller dårlig,Individuel samtale med andre pårørende,1,1,0
+s_129,3,18.1f,5,Ved ikke,Ved ikke,0,1,0
+s_134,2,49.1,2,Kvinde,Kvinde,0,NA,0
+s_134,1,49.1,1,Mand,Mand,0,NA,0
+s_135,1,49.2,1,7 eller færre års skolegang,7 eller færre års skolegang,0,NA,0
+s_135,2,49.2,2,8-9 års skolegang,8-9 års skolegang,0,NA,0
+s_135,3,49.2,3,10-11 års skolegang,10-11 års skolegang,0,NA,0
+s_135,4,49.2,4,"Studenter- eller HF-eksamen (inkl. HHX, HTX)","Studenter- eller HF-eksamen (inkl. HHX, HTX)",0,NA,0
+s_135,5,49.2,5,Andet (herunder udenlandsk skole),Andet (herunder udenlandsk skole),0,NA,0
+s_136,1,49.3,1,"Ét eller flere kortere kurser (f.eks. specialarbejderkurser, arbejdsmarkedskurser m.v.)","Ét eller flere kortere kurser (f.eks. specialarbejderkurser, arbejdsmarkedskurser m.v.)",0,NA,0
+s_136,2,49.3,2,"Erhvervsfaglig uddannelse (f.eks. kontor- eller butiksassistent, frisør, murer, lægesekretær, social- og sundhedshjælper, land mand)","Erhvervsfaglig uddannelse (f.eks. kontor- eller butiksassistent, frisør, murer, lægesekretær, social- og sundhedshjælper, land mand)",0,NA,0
+s_136,3,49.3,3,"Kort videregående uddannelse, 2-3 år (f.eks. markedsøkonom, politibetjent, laborant, maskintekniker, datamatiker, multimediedesigner, økonoma, tandplejer)","Kort videregående uddannelse, 2-3 år (f.eks. markedsøkonom, politibetjent, laborant, maskintekniker, datamatiker, multimediedesigner, økonoma, tandplejer)",0,NA,0
+s_136,4,49.3,4,"Mellemlang videregående uddannelse, 3-4 år (f.eks. folkeskolelærer, socialrådgiver, bygningskonstruktør, sygeplejerske, fysioterapeut, diplomingeniør, pædagog, bachelor)","Mellemlang videregående uddannelse, 3-4 år (f.eks. folkeskolelærer, socialrådgiver, bygningskonstruktør, sygeplejerske, fysioterapeut, diplomingeniør, pædagog, bachelor)",0,NA,0
+s_136,5,49.3,5,"Lang videregående uddannelse, mere end 4 år (f.eks. civilingeniør, cand. mag., læge, psykolog)","Lang videregående uddannelse, mere end 4 år (f.eks. civilingeniør, cand. mag., læge, psykolog)",0,NA,0
+s_136,6,49.3,6,Anden uddannelse,Anden uddannelse,0,NA,0
+s_136,7,?,7,Ingen øvrig uddannelse,Ingen øvrig uddannelse,0,NA,0
+s_137,1,49.4,1,Region Nordjylland,Region Nordjylland,0,NA,0
+s_137,2,49.4,2,Region Midtjylland,Region Midtjylland,0,NA,0
+s_137,3,49.4,3,Region Syddanmark,Region Syddanmark,0,NA,0
+s_137,5,49.4,5,Region Sjælland,Region Sjælland,0,NA,0
+s_137,4,49.4,4,Region Hovedstaden,Region Hovedstaden,0,NA,0
+s_138,1,NA,1,Ja,Ja,0,NA,0
+s_138,2,NA,2,Nej,Nej,0,NA,0
+s_143,1,27b,1,Hele tiden,Hele tiden,0,NA,0
+s_143,2,27b,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_143,3,27b,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,NA,0
+s_143,4,27b,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,NA,0
+s_143,5,27b,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_143,6,27b,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_144,1,27c,1,Hele tiden,Hele tiden,0,NA,0
+s_144,2,27c,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_144,3,27c,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,NA,0
+s_144,4,27c,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,NA,0
+s_144,5,27c,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_144,6,27c,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_145,1,27d,1,Hele tiden,Hele tiden,0,NA,0
+s_145,2,27d,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_145,3,27d,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,NA,0
+s_145,4,27d,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,NA,0
+s_145,5,27d,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_145,6,27d,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_146,1,27e,1,Hele tiden,Hele tiden,0,NA,0
+s_146,2,27e,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_146,3,27e,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,NA,0
+s_146,4,27e,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,NA,0
+s_146,5,27e,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_146,6,27e,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_147,1,28a,1,Hele tiden,Hele tiden,0,NA,0
+s_147,2,28a,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_147,3,28a,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,NA,0
+s_147,4,28a,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,NA,0
+s_147,5,28a,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_147,6,28a,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_148,1,28b,1,Hele tiden,Hele tiden,0,NA,0
+s_148,2,28b,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_148,3,28b,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,NA,0
+s_148,4,28b,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,NA,0
+s_148,5,28b,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_148,6,28b,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_149,1,29a,1,Hele tiden,Hele tiden,1,NA,1
+s_149,2,29a,2,Det meste af tiden,Det meste af tiden,2,NA,1
+s_149,3,29a,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,3,NA,1
+s_149,4,29a,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,4,NA,1
+s_149,5,29a,5,Lidt af tiden,Lidt af tiden,5,NA,1
+s_149,6,29a,6,På intet tidspunkt,På intet tidspunkt,6,NA,1
+s_150,1,29b,1,Hele tiden,Hele tiden,1,NA,1
+s_150,2,29b,2,Det meste af tiden,Det meste af tiden,2,NA,1
+s_150,3,29b,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,3,NA,1
+s_150,4,29b,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,4,NA,1
+s_150,5,29b,5,Lidt af tiden,Lidt af tiden,5,NA,1
+s_150,6,29b,6,På intet tidspunkt,På intet tidspunkt,6,NA,1
+s_164,0,10a,1,I høj grad,I høj grad,0,NA,0
+s_164,1,10a,3,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_164,2,10a,5,Ved ikke,Ved ikke,0,NA,0
+s_164,6,10a,6,Ikke relevant - jeg havde ikke behov for hjælp,Ikke relevant - jeg havde ikke behov for hjælp,0,NA,0
+s_165,0,10b,1,I høj grad,I høj grad,0,NA,0
+s_165,1,10b,3,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_165,2,10b,5,Ved ikke,Ved ikke,0,NA,0
+s_165,6,10b,6,Ikke relevant - jeg havde ikke behov for hjælp,Ikke relevant - jeg havde ikke behov for hjælp,0,NA,0
+s_171,0,4,1,I høj grad,I høj grad,0,NA,1
+s_171,1,4,3,I mindre grad,I mindre grad / Slet ikke,1,NA,1
+s_171,2,4,5,Ved ikke,Ved ikke,0,NA,1
+s_171,6,4,6,Ikke relevant - fx. fordi jeg ingen rolle havde i behandlingsforløbet,Ikke relevant - fx. fordi jeg ingen rolle havde i behandlingsforløbet,0,NA,1
+s_172,0,15,1,Altid/så godt som altid,Altid/så godt som altid,0,NA,1
+s_172,1,15,3,Kun nogle gange,Kun nogle gange / Sjældent/aldrig,1,NA,1
+s_172,2,15,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,1
+s_173,0,16,1,Altid/så godt som altid,Altid/så godt som altid,0,NA,1
+s_173,1,16,3,Kun nogle gange,Kun nogle gange / Sjældent/aldrig,1,NA,1
+s_173,2,16,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,1
+s_174,1,25a,1,I høj grad,I høj grad / I nogen grad,1,NA,0
+s_174,0,25a,3,I mindre grad,I mindre grad,0,NA,0
+s_174,2,25a,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_175,1,25b,1,I høj grad,I nogen grad/i høj grad,1,NA,1
+s_175,0,25b,3,I mindre grad,I mindre grad,0,NA,1
+s_175,2,25b,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,1
+s_176,1,25c,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_176,0,25c,3,I mindre grad,I mindre grad,0,NA,0
+s_176,2,25c,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_177,1,25d,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_177,0,25d,3,I mindre grad,I mindre grad,0,NA,0
+s_177,2,25d,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_178,1,25e,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_178,0,25e,3,I mindre grad,I mindre grad,0,NA,0
+s_178,2,25e,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_179,1,25f,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_179,0,25f,3,I mindre grad,I mindre grad,0,NA,0
+s_179,2,25f,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_180,1,25g,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_180,0,25g,3,I mindre grad,I mindre grad,0,NA,0
+s_180,2,25g,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_181,3,30,1,Det meste af tiden,Det meste af tiden,0,1,0
+s_181,2,30,2,En stor del af tiden,En stor del af tiden,0,1,0
+s_181,1,30,3,En gang imellem,En gang imellem,0,1,0
+s_181,0,30,4,Aldrig,Aldrig,0,1,0
+s_182,0,31,1,Helt som før,Helt som før,0,1,0
+s_182,1,31,2,Ikke helt som før,Ikke helt som før,0,1,0
+s_182,2,31,3,Kun en smule,Kun en smule,0,1,0
+s_182,3,31,4,Næste ikke,Næste ikke,0,1,0
+s_183,3,32,1,Helt afgjort og ganske slemt,Helt afgjort og ganske slemt,0,1,0
+s_183,2,32,2,"Ja, men det er ikke så slemt","Ja, men det er ikke så slemt",0,1,0
+s_183,1,32,3,"En smule, men det bekymrer mig ikke","En smule, men det bekymrer mig ikke",0,1,0
+s_183,0,32,4,Slet ikke,Slet ikke,0,1,0
+s_184,0,33,1,Lige så meget som altid,Lige så meget som altid,0,1,0
+s_184,1,33,2,Ikke helt som før,Ikke helt som før,0,1,0
+s_184,2,33,3,Helt afgjort ikke som før,Helt afgjort ikke som før,0,1,0
+s_184,3,33,4,Slet ikke,Slet ikke,0,1,0
+s_185,3,34,2,Næsten hele tiden,Næsten hele tiden,0,1,0
+s_185,2,34,3,En stor del af tiden,En stor del af tiden,0,1,0
+s_185,1,34,4,"En gang imellem, men ikke så ofte","En gang imellem, men ikke så ofte",0,1,0
+s_185,0,34,5,Kun sjældent,Kun sjældent,0,1,0
+s_186,3,35,1,Aldrig,Aldrig,0,1,0
+s_186,2,35,2,Ikke ofte,Ikke ofte,0,1,0
+s_186,1,35,3,Somme tider,Somme tider,0,1,0
+s_186,0,35,4,Det meste af tiden,Det meste af tiden,0,1,0
+s_187,0,36,1,Altid,Altid,0,1,0
+s_187,1,36,2,Som regel,Som regel,0,1,0
+s_187,2,36,3,Ikke så ofte,Ikke så ofte,0,1,0
+s_187,3,36,4,Aldrig,Aldrig,0,1,0
+s_188,3,37,1,Næsten hele tiden,Næsten hele tiden,0,1,0
+s_188,2,37,2,Meget ofte,Meget ofte,0,1,0
+s_188,1,37,3,Somme tider,Somme tider,0,1,0
+s_188,0,37,4,Aldrig,Aldrig,0,1,0
+s_189,0,38,1,Aldrig,Aldrig,0,1,0
+s_189,1,38,2,En gang imellem,En gang imellem,0,1,0
+s_189,2,38,3,Ganske ofte,Ganske ofte,0,1,0
+s_189,3,38,4,Meget ofte,Meget ofte,0,1,0
+s_19,1,20,1,Ja,Ja,0,NA,0
+s_19,2,20,2,Nej,Nej,0,NA,0
+s_190,3,39,1,Helt afgjort,Helt afgjort,0,1,0
+s_190,2,39,2,"Jeg er ikke helt så omhyggelig, som jeg burde være","Jeg er ikke helt så omhyggelig, som jeg burde være",0,1,0
+s_190,1,39,3,Måske er jeg knap så omhyggelig som før,Måske er jeg knap så omhyggelig som før,0,1,0
+s_190,0,39,4,Jeg er lige så omhyggelig som altid,Jeg er lige så omhyggelig som altid,0,1,0
+s_191,3,40,1,Virkelig meget,Virkelig meget,0,1,0
+s_191,2,40,2,En hel del,En hel del,0,1,0
+s_191,1,40,3,Ikke så meget,Ikke så meget,0,1,0
+s_191,0,40,4,Slet ikke,Slet ikke,0,1,0
+s_192,0,41,1,Lige så meget som altid,Lige så meget som altid,0,1,0
+s_192,1,41,2,Knap så meget som jeg plejede,Knap så meget som jeg plejede,0,1,0
+s_192,2,41,3,Helt afgjort mindre end jeg plejede,Helt afgjort mindre end jeg plejede,0,1,0
+s_192,3,41,4,Næsten ikke,Næsten ikke,0,1,0
+s_193,3,42,1,Meget ofte,Meget ofte,0,1,0
+s_193,2,42,2,Ganske ofte,Ganske ofte,0,1,0
+s_193,1,42,3,Ikke særlig ofte,Ikke særlig ofte,0,1,0
+s_193,0,42,4,Aldrig,Aldrig,0,1,0
+s_194,0,43,1,Ofte,Ofte,0,1,0
+s_194,1,43,2,Somme tider,Somme tider,0,1,0
+s_194,2,43,3,Ikke ofte,Ikke ofte,0,1,0
+s_194,3,43,4,Meget sjældent,Meget sjældent,0,1,0
+s_195,0,5a,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_195,1,5a,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_195,2,5a,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_196,0,5b,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_196,1,5b,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_196,2,5b,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_197,0,5c,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_197,1,5c,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_197,2,5c,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_198,0,5d,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_198,1,5d,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_198,2,5d,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_199,0,5e,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_199,1,5e,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_199,2,5e,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_200,1,5f,1,"Nej, slet ikke","Nej, slet ikke / Ja, lidt",1,NA,0
+s_200,0,5f,3,"Ja, en del","Ja, en del",0,NA,0
+s_200,2,5f,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_201,0,5g,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_201,1,5g,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_201,2,5g,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_202,0,5h,1,"Nej, slet ikke","Nej, slet ikke",0,NA,0
+s_202,1,5h,3,"Ja, en del","Ja, en del / meget",1,NA,0
+s_202,2,5h,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_203,1,5i,1,"Nej, slet ikke","Nej, slet ikke / Ja, lidt",1,NA,0
+s_203,0,5i,3,"Ja, en del","Ja, en del",0,NA,0
+s_203,2,5i,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_204,1,6,1,I høj grad,I nogen grad/i høj grad,1,NA,1
+s_204,0,6,3,I mindre grad,I mindre grad,0,NA,1
+s_204,2,6,5,Ved ikke,Ved ikke,0,NA,1
+s_205,1,7,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_205,0,7,3,I mindre grad,I mindre grad,0,NA,0
+s_205,2,7,5,Ved ikke,Ved ikke,0,NA,0
+s_206,0,8,1,I høj grad,I høj grad,0,NA,0
+s_206,1,8,3,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_206,2,8,5,Ved ikke,Ved ikke,0,NA,0
+s_206,6,8,6,Ikke relevant - jeg havde ikke behov for hjælp og støtte,Ikke relevant - jeg havde ikke behov for hjælp og støtte,0,NA,0
+s_207,0,23,1,Fremragende,Fremragende,0,NA,1
+s_207,1,23,4,Mindre godt,Mindre godt / Dårligt,1,NA,1
+s_208,0,47,1,I høj grad,I høj grad,0,NA,1
+s_208,1,47,3,I mindre grad,I mindre grad / Slet ikke,1,NA,1
+s_208,2,47,5,Ved ikke,Ved ikke,0,NA,1
+s_209,1,48a,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_209,0,48a,3,I mindre grad,I mindre grad,0,NA,0
+s_209,2,48a,5,Ved ikke,Ved ikke,0,NA,0
+s_20_1,0,20.1a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_1,1,20.1a,1,Valgt,"Ja, jeg er blevet fyret",0,NA,0
+s_20_2,0,20.1b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_2,1,20.1b,1,Valgt,"Ja, jeg har måttet stoppe med at arbejde i en periode",0,NA,0
+s_20_3,0,20.1c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_3,1,20.1c,1,Valgt,"Ja, jeg er holdt op med at arbejde",0,NA,0
+s_20_4,0,20.1d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_4,1,20.1d,1,Valgt,"Ja, jeg har skiftet arbejde/karrierevej",0,NA,0
+s_20_5,0,20.1e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_5,1,20.1e,1,Valgt,"Ja, jeg har fået færre arbejdstimer om ugen",0,NA,0
+s_20_6,0,20.1f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_6,1,20.1f,1,Valgt,"Ja, jeg har fået andre andre arbejdsopgaver end tidligere.",0,NA,0
+s_20_7,0,20.1g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_7,1,20.1g,1,Valgt,"Nej, min arbejdssituation er den samme",0,NA,0
+s_20_8,0,20.1h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_20_8,1,20.1h,1,Valgt,Andet,0,NA,0
+s_210,1,48b,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_210,0,48b,3,I mindre grad,I mindre grad,0,NA,0
+s_210,2,48b,5,Ved ikke,Ved ikke,0,NA,0
+s_211,1,48c,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_211,0,48c,3,I mindre grad,I mindre grad,0,NA,0
+s_211,2,48c,5,Ved ikke,Ved ikke,0,NA,0
+s_212,1,48d,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_212,0,48d,3,I mindre grad,I mindre grad,0,NA,0
+s_212,2,48d,5,Ved ikke,Ved ikke,0,NA,0
+s_213,1,48e,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_213,0,48e,3,I mindre grad,I mindre grad,0,NA,0
+s_213,2,48e,5,Ved ikke,Ved ikke,0,NA,0
+s_22,0,20.2,1,Altid/så godt som altid,Altid/så godt som altid,0,NA,0
+s_22,1,20.2,3,Kun nogle gange,Kun nogle gange / Sjældent/aldrig,1,NA,0
+s_22,2,20.2,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_23_1,0,20.2.1a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_1,1,20.2.1a,1,Valgt,Jeg brugte opsparede feriedage eller feriefridage,0,NA,0
+s_23_2,0,20.2.1b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_2,1,20.2.1b,1,Valgt,Jeg arbejdede mere på andre tidspunkter eller brugte opsparet afspadsering,0,NA,0
+s_23_3,0,20.2.1c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_3,1,20.2.1c,1,Valgt,Jeg holdt fri/orlov med fuld løn,0,NA,0
+s_23_4,0,20.2.1d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_4,1,20.2.1d,1,Valgt,Jeg holdt fri/orlov med lønnedgang,0,NA,0
+s_23_5,0,20.2.1e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_5,1,20.2.1e,1,Valgt,Jeg byttede vagt med en anden,0,NA,0
+s_23_6,0,20.2.1f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_23_6,1,20.2.1f,1,Valgt,Andet - skriv venligst:,0,NA,0
+s_25,1,20.3,1,I høj grad,I nogen grad/i høj grad,1,NA,1
+s_25,0,20.4,3,I mindre grad,I mindre grad,0,NA,1
+s_25,2,20.4,5,Ved ikke,Ved ikke,0,NA,1
+s_26,1,22,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_26,0,22,3,I mindre grad,I mindre grad,0,NA,0
+s_26,2,22,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,NA,0
+s_27,1,21,1,Ja,Ja,0,NA,0
+s_27,0,21,2,Nej,Nej,0,NA,0
+s_3,1,2,1,Jeg er ægtefælle eller partner,Jeg er ægtefælle eller partner,0,NA,0
+s_3,2,2,2,Jeg er søn/datter,Jeg er søn/datter,0,NA,0
+s_3,3,2,3,Jeg er forælder,Jeg er forælder,0,NA,0
+s_3,4,2,4,Jeg er bror/søster,Jeg er bror/søster,0,NA,0
+s_3,5,2,5,Jeg er anden familie,Jeg er anden familie,0,NA,0
+s_3,6,2,6,"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)","Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)",0,NA,0
+s_4,1,3a,1,Slet ikke,Slet ikke,0,NA,0
+s_4,2,3a,2,Lidt,Lidt,0,NA,0
+s_4,3,3a,3,En del,En del,0,NA,0
+s_4,4,3a,4,Meget,Meget,0,NA,0
+s_4,5,3a,5,Ikke relevant,Ikke relevant,0,NA,0
+s_47,1,44,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_47,0,44,3,I mindre grad,I mindre grad,0,NA,0
+s_47,2,44,5,Ved ikke,Ved ikke,0,NA,0
+s_48,1,45,1,I høj grad,I nogen grad/i høj grad,1,NA,1
+s_48,0,45,3,I mindre grad,I mindre grad,0,NA,1
+s_48,2,45,5,Ved ikke,Ved ikke,0,NA,1
+s_49,1,46,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_49,0,46,3,I mindre grad,I mindre grad,0,NA,0
+s_49,2,46,5,Ved ikke,Ved ikke,0,NA,0
+s_5,1,3b,1,Slet ikke,Slet ikke,0,NA,0
+s_5,2,3b,2,Lidt,Lidt,0,NA,0
+s_5,3,3b,3,En del,En del,0,NA,0
+s_5,4,3b,4,Meget,Meget,0,NA,0
+s_5,5,3b,5,Ikke relevant,Ikke relevant,0,NA,0
+s_50,0,9,1,I høj grad,I høj grad,0,NA,1
+s_50,1,9,3,I mindre grad,I mindre grad / Slet ikke,1,NA,1
+s_50,2,9,5,Ved ikke,Ved ikke,0,NA,1
+s_50,6,9,6,"Ikke relevant - jeg var ikke med på sygehuset, hos egen læge eller i kommunen","Ikke relevant - jeg var ikke med på sygehuset, hos egen læge eller i kommunen",0,NA,1
+s_51,0,11,1,I høj grad,I høj grad,0,NA,1
+s_51,1,11,3,I mindre grad,I mindre grad / Slet ikke,1,NA,1
+s_51,2,11,5,Ved ikke,Ved ikke,0,NA,1
+s_51,6,11,6,Ikke relevant - jeg var ikke med på sygehuset,Ikke relevant - jeg var ikke med på sygehuset,0,NA,1
+s_52,0,12,1,I høj grad,I høj grad,0,NA,0
+s_52,1,12,3,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_52,2,12,5,Ved ikke,Ved ikke,0,NA,0
+s_52,6,12,6,Ikke relevant - jeg var ikke med på sygehuset,Ikke relevant - jeg var ikke med på sygehuset,0,NA,0
+s_53,0,13,1,I meget høj grad,I meget høj grad,0,NA,0
+s_53,1,13,3,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_53,2,13,5,Ved ikke,Ved ikke,0,NA,0
+s_53,7,13,7,Ikke relevant - jeg var ikke med på sygehuset,Ikke relevant - jeg var ikke med på sygehuset,0,NA,0
+s_54,0,14,1,I meget høj grad,I meget høj grad,0,NA,0
+s_54,1,14,4,I mindre grad,I mindre grad / Slet ikke,1,NA,0
+s_54,2,14,6,Ved ikke,Ved ikke,0,NA,0
+s_54,7,14,7,Ikke relevant - jeg var ikke med på sygehuset,Ikke relevant - jeg var ikke med på sygehuset,0,NA,0
+s_58,0,17,1,Altid/så godt som altid,Altid/så godt som altid,0,NA,0
+s_58,1,17,3,Kun nogle gange,Kun nogle gange / Sjældent/aldrig,1,NA,0
+s_58,2,17,5,Ved ikke/ikke relevant - fx fordi jeg ikke havde behov for støtte fra egen læge,Ved ikke/ikke relevant - fx fordi jeg ikke havde behov for støtte fra egen læge,0,NA,0
+s_6,1,3c,1,Slet ikke,Slet ikke,0,NA,0
+s_6,2,3c,2,Lidt,Lidt,0,NA,0
+s_6,3,3c,3,En del,En del,0,NA,0
+s_6,4,3c,4,Meget,Meget,0,NA,0
+s_6,5,3c,5,Ikke relevant,Ikke relevant,0,NA,0
+s_61,1,24a,1,Altid,Altid / Ofte,1,NA,0
+s_61,0,24a,3,Sommetider,Sommetider,0,NA,0
+s_62,1,24b,1,Altid,Altid / Ofte,1,NA,0
+s_62,0,24b,3,Sommetider,Sommetider,0,NA,0
+s_63,1,24c,1,Altid,Altid / Ofte,1,NA,0
+s_63,0,24c,3,Sommetider,Sommetider,0,NA,0
+s_64,1,27a,1,Hele tiden,Hele tiden,0,NA,0
+s_64,2,27a,2,Det meste af tiden,Det meste af tiden,0,NA,0
+s_64,3,27a,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,NA,0
+s_64,4,27a,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,NA,0
+s_64,5,27a,5,Lidt af tiden,Lidt af tiden,0,NA,0
+s_64,6,27a,6,På intet tidspunkt,På intet tidspunkt,0,NA,0
+s_7,1,3d,1,Slet ikke,Slet ikke,0,NA,0
+s_7,2,3d,2,Lidt,Lidt,0,NA,0
+s_7,3,3d,3,En del,En del,0,NA,0
+s_7,4,3d,4,Meget,Meget,0,NA,0
+s_7,5,3d,5,Ikke relevant,Ikke relevant,0,NA,0
+s_8,1,3e,1,Slet ikke,Slet ikke,0,NA,0
+s_8,2,3e,2,Lidt,Lidt,0,NA,0
+s_8,3,3e,3,En del,En del,0,NA,0
+s_8,4,3e,4,Meget,Meget,0,NA,0
+s_8,5,3e,5,Ikke relevant,Ikke relevant,0,NA,0
+s_87,3,18a,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_87,0,18a,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_87,1,18a,3,"Nej, men jeg havde behov for...",Samtaler med en psykolog,1,1,0
+s_87,2,18a,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_88,3,18b,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_88,0,18b,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_88,1,18b,3,"Nej, men jeg havde behov for...",Samtalegrupper med andre pårørende,1,1,0
+s_88,2,18b,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_89,3,18c,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_89,0,18c,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_89,1,18c,3,"Nej, men jeg havde behov for...",Samtaler med socialrådgiver,1,1,0
+s_89,2,18c,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_9,1,3f,1,Slet ikke,Slet ikke,0,NA,0
+s_9,2,3f,2,Lidt,Lidt,0,NA,0
+s_9,3,3f,3,En del,En del,0,NA,0
+s_9,4,3f,4,Meget,Meget,0,NA,0
+s_9,5,3f,5,Ikke relevant,Ikke relevant,0,NA,0
+s_90,3,18d,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_90,0,18d,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_90,1,18d,3,"Nej, men jeg havde behov for...","Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",1,1,0
+s_90,2,18d,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_91,3,18e,1,"Ja, jeg blev tilbudt...","Ja, jeg blev tilbudt...",0,1,0
+s_91,0,18e,2,"Ja, og jeg tog imod...","Ja, og jeg tog imod...",0,1,0
+s_91,1,18e,3,"Nej, men jeg havde behov for...",Aflastning ift. praktiske opgaver,1,1,0
+s_91,2,18e,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_92,1,19,1,I høj grad,I nogen grad/i høj grad,1,NA,0
+s_92,0,19,3,I mindre grad,I mindre grad,0,NA,0
+s_92,2,19,5,Ved ikke,Ved ikke,0,NA,0
+s_95,1,26a,1,Sjældent,Sjældent,0,NA,0
+s_95,2,26a,2,En gang imellem,En gang imellem,0,NA,0
+s_95,3,26a,3,Ofte,Ofte,0,NA,0
+s_96,1,26b,1,Sjældent,Sjældent,0,NA,0
+s_96,2,26b,2,En gang imellem,En gang imellem,0,NA,0
+s_96,3,26b,3,Ofte,Ofte,0,NA,0
+s_97,1,26c,1,Sjældent,Sjældent,0,NA,0
+s_97,2,26c,2,En gang imellem,En gang imellem,0,NA,0
+s_97,3,26c,3,Ofte,Ofte,0,NA,0
+stato_1,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_1,1,NA,1,Valgt,Ny,0,NA,0
+stato_2,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_2,1,NA,1,Valgt,Distribueret,0,NA,0
+stato_3,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_3,1,NA,1,Valgt,Nogen svar,0,NA,0
+stato_4,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_4,1,NA,1,Valgt,Gennemført,0,NA,0
+stato_5,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_5,1,NA,1,Valgt,Frafaldet,0,NA,0
+t_ils_hi_score,0,NA,0,,T-ILS score <7,0,1,1
+t_ils_hi_score,1,NA,1,,T-ILS score >=7,1,1,1
+who5,0,NA,0,,WHO-1 >=50,0,1,1
+who5,1,NA,1,,WHO-1 <50,1,1,1

@@ -1,0 +1,690 @@
+﻿question,group,Questionnaire no.,value,label,group_label,display,non_strat_cutpoints,stratified
+hads_anxiety,0,NA,0,0,HADS anxiety 0 - 7,0,1,1
+hads_anxiety,1,NA,1,2,HADS anxiety 8 - 10,0,1,1
+hads_anxiety,2,NA,2,1,HADS anxiety >=11,1,1,1
+hads_depression,0,NA,0,0,HADS depression 0 - 7,0,1,1
+hads_depression,1,NA,1,2,HADS depression 8 - 10,0,1,1
+hads_depression,2,NA,2,1,HADS depression >=11,1,1,1
+s_10,1,4,1,Ja,Ja,0,NA,0
+s_10,2,4,2,Nej,Nej,0,NA,0
+s_10,3,4,3,Ved ikke,Ved ikke,0,NA,0
+s_100,1,22f,1,Ja,Ja,0,NA,0
+s_100,0,22f,2,Nej,Nej,0,NA,0
+s_100,2,22f,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_101,1,22g,1,Ja,Ja,0,NA,0
+s_101,0,22g,2,Nej,Nej,0,NA,0
+s_101,2,22g,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_102,1,22h,1,Ja,Ja,0,NA,0
+s_102,0,22h,2,Nej,Nej,0,NA,0
+s_102,2,22h,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_11,0,4.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_11,1,4.1,3,I mindre grad,I mindre grad/slet ikke,0,NA,0
+s_11,2,4.1,4,Ved ikke,Ved ikke,0,NA,0
+s_11,6,4.1,6,Jeg blev ikke behandlet ambulant,Jeg blev ikke behandlet ambulant,0,NA,0
+s_111,3,23a,1,Nej,Nej,0,1,0
+s_111,2,23a,2,Lidt,Lidt,0,1,0
+s_111,1,23a,3,En del,En del,0,1,0
+s_111,0,23a,4,Meget,Meget,0,1,0
+s_112,3,23b,1,Nej,Nej,0,1,0
+s_112,2,23b,2,Lidt,Lidt,0,1,0
+s_112,1,23b,3,En del,En del,0,1,0
+s_112,0,23b,4,Meget,Meget,0,1,0
+s_113,3,23c,1,Nej,Nej,0,1,0
+s_113,2,23c,2,Lidt,Lidt,0,1,0
+s_113,1,23c,3,En del,En del,0,1,0
+s_113,0,23c,4,Meget,Meget,0,1,0
+s_114,3,23d,1,Nej,Nej,0,1,0
+s_114,2,23d,2,Lidt,Lidt,0,1,0
+s_114,1,23d,3,En del,En del,0,1,0
+s_114,0,23d,4,Meget,Meget,0,1,0
+s_115,3,23e,1,Nej,Nej,0,1,0
+s_115,2,23e,2,Lidt,Lidt,0,1,0
+s_115,1,23e,3,En del,En del,0,1,0
+s_115,0,23e,4,Meget,Meget,0,1,0
+s_116,3,24a,1,Nej,Nej,0,1,0
+s_116,2,24a,2,Lidt,Lidt,0,1,0
+s_116,1,24a,3,En del,En del,0,1,0
+s_116,0,24a,4,Meget,Meget,0,1,0
+s_117,3,24b,1,Nej,Nej,0,1,0
+s_117,2,24b,2,Lidt,Lidt,0,1,0
+s_117,1,24b,3,En del,En del,0,1,0
+s_117,0,24b,4,Meget,Meget,0,1,0
+s_118,3,24c,1,Nej,Nej,0,1,0
+s_118,2,24c,2,Lidt,Lidt,0,1,0
+s_118,1,24c,3,En del,En del,0,1,0
+s_118,0,24c,4,Meget,Meget,0,1,0
+s_119,3,24d,1,Nej,Nej,0,1,0
+s_119,2,24d,2,Lidt,Lidt,0,1,0
+s_119,1,24d,3,En del,En del,0,1,0
+s_119,0,24d,4,Meget,Meget,0,1,0
+s_12,0,4.2,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_12,1,4.2,3,I mindre grad,I mindre grad/slet ikke,0,NA,0
+s_12,2,4.2,4,Ved ikke,Ved ikke,0,NA,0
+s_120,3,24e,1,Nej,Nej,0,1,0
+s_120,2,24e,2,Lidt,Lidt,0,1,0
+s_120,1,24e,3,En del,En del,0,1,0
+s_120,0,24e,4,Meget,Meget,0,1,0
+s_121,3,24f,1,Nej,Nej,0,1,0
+s_121,2,24f,2,Lidt,Lidt,0,1,0
+s_121,1,24f,3,En del,En del,0,1,0
+s_121,0,24f,4,Meget,Meget,0,1,0
+s_122,3,24g,1,Nej,Nej,0,1,0
+s_122,2,24g,2,Lidt,Lidt,0,1,0
+s_122,1,24g,3,En del,En del,0,1,0
+s_122,0,24g,4,Meget,Meget,0,1,0
+s_123,3,24h,1,Nej,Nej,0,1,0
+s_123,2,24h,2,Lidt,Lidt,0,1,0
+s_123,1,24h,3,En del,En del,0,1,0
+s_123,0,24h,4,Meget,Meget,0,1,0
+s_124,3,24i,1,Nej,Nej,0,1,0
+s_124,2,24i,2,Lidt,Lidt,0,1,0
+s_124,1,24i,3,En del,En del,0,1,0
+s_124,0,24i,4,Meget,Meget,0,1,0
+s_125,0,24j,1,Nej,Nej,0,NA,0
+s_125,1,24j,2,Lidt,Lidt,0,NA,0
+s_126,0,24k,1,Nej,Nej,0,NA,0
+s_126,1,24k,2,Lidt,Lidt,0,NA,0
+s_127,1,47a,1,"Ja, hele tiden",Manglende eller nedsat lyst til sex,1,1,0
+s_127,0,47a,4,"Ja, men sjældent","Ja, men sjældent",0,1,0
+s_127,2,47a,6,Ikke relevant,Ikke relevant,0,1,0
+s_128,1,47c,1,"Ja, hele tiden",Fysiske problemer i forhold til at have sex,1,1,0
+s_128,0,47c,4,"Ja, men sjældent","Ja, men sjældent",0,1,0
+s_128,2,47c,6,Ikke relevant,Ikke relevant,0,1,0
+s_129,1,47b,1,"Ja, hele tiden",Nervøsitet for at have sex,1,1,0
+s_129,0,47b,4,"Ja, men sjældent","Ja, men sjældent",0,1,0
+s_129,2,47b,6,Ikke relevant,Ikke relevant,0,1,0
+s_130,0,26,1,Fremragende,Fremragende,0,NA,1
+s_130,1,26,4,Mindre godt,Dårligt / Mindre godt,1,NA,1
+s_132,1,27a,1,Altid,Altid,0,NA,0
+s_132,0,27a,3,Sommetider,Sommetider,0,NA,0
+s_133,1,27b,1,Altid,Altid,0,NA,0
+s_133,0,27b,3,Sommetider,Sommetider,0,NA,0
+s_134,1,27c,1,Altid,Altid,0,NA,0
+s_134,0,27c,3,Sommetider,Sommetider,0,NA,0
+s_143,1,29a,1,Sjældent,Sjældent,0,NA,0
+s_143,2,29a,2,En gang imellem,En gang imellem,0,NA,0
+s_143,3,29a,3,Ofte,Ofte,0,NA,0
+s_144,1,29c,1,Sjældent,Sjældent,0,NA,0
+s_144,2,29c,2,En gang imellem,En gang imellem,0,NA,0
+s_144,3,29c,3,Ofte,Ofte,0,NA,0
+s_145,1,29b,1,Sjældent,Sjældent,0,NA,0
+s_145,2,29b,2,En gang imellem,En gang imellem,0,NA,0
+s_145,3,29b,3,Ofte,Ofte,0,NA,0
+s_146,3,33,1,Det meste af tiden,Det meste af tiden,0,1,0
+s_146,2,33,2,En stor del af tiden,En stor del af tiden,0,1,0
+s_146,1,33,3,En gang imellem,En gang imellem,0,1,0
+s_146,0,33,4,Aldrig,Aldrig,0,1,0
+s_147,0,34,1,Helt som før,Helt som før,0,1,0
+s_147,1,34,2,Ikke helt som før,Ikke helt som før,0,1,0
+s_147,2,34,3,Kun en smule,Kun en smule,0,1,0
+s_147,3,34,4,Næsten ikke,Næsten ikke,0,1,0
+s_148,3,35,1,Helt afgjort og ganske slemt,Helt afgjort og ganske slemt,0,1,0
+s_148,2,35,2,"Ja, men det er ikke så slemt","Ja, men det er ikke så slemt",0,1,0
+s_148,1,35,3,"En smule, men det bekymrer mig ikke","En smule, men det bekymrer mig ikke",0,1,0
+s_148,0,35,4,Slet ikke,Slet ikke,0,1,0
+s_149,0,36,1,Lige så meget som altid,Lige så meget som altid,0,1,0
+s_149,1,36,2,Ikke helt som før,Ikke helt som før,0,1,0
+s_149,2,36,3,Helt afgjort ikke som før,Helt afgjort ikke som før,0,1,0
+s_149,3,36,4,Slet ikke,Slet ikke,0,1,0
+s_150,3,37,1,Næste hele tiden,Næste hele tiden,0,1,0
+s_150,2,37,2,En stor del af tiden,En stor del af tiden,0,1,0
+s_150,1,37,3,"En gang imellem, men ikke så ofte","En gang imellem, men ikke så ofte",0,1,0
+s_150,0,37,4,Kun sjældent,Kun sjældent,0,1,0
+s_151,3,38,1,Aldrig,Aldrig,0,1,0
+s_151,2,38,2,Ikke ofte,Ikke ofte,0,1,0
+s_151,1,38,3,Somme tider,Somme tider,0,1,0
+s_151,0,38,4,Det meste af tiden,Det meste af tiden,0,1,0
+s_152,0,39,1,Altid,Altid,0,1,0
+s_152,1,39,2,Som regel,Som regel,0,1,0
+s_152,2,39,3,Ikke så ofte,Ikke så ofte,0,1,0
+s_152,3,39,4,Aldrig,Aldrig,0,1,0
+s_153,3,40,1,Næsten hele tiden,Næsten hele tiden,0,1,0
+s_153,2,40,2,Meget ofte,Meget ofte,0,1,0
+s_153,1,40,3,Somme tider,Somme tider,0,1,0
+s_153,0,40,4,Aldrig,Aldrig,0,1,0
+s_154,0,41,1,Aldrig,Aldrig,0,1,0
+s_154,1,41,2,En gang imellem,En gang imellem,0,1,0
+s_154,2,41,3,Ganske ofte,Ganske ofte,0,1,0
+s_154,3,41,4,Meget ofte,Meget ofte,0,1,0
+s_155,3,42,1,Helt afgjort,Helt afgjort,0,1,0
+s_155,2,42,2,"Jeg er ikke helt så omhyggelig, som jeg burde være","Jeg er ikke helt så omhyggelig, som jeg burde være",0,1,0
+s_155,1,42,3,Måske er jeg knap så omhyggelig som før,Måske er jeg knap så omhyggelig som før,0,1,0
+s_155,0,42,4,Jeg er lige så omhyggelig som altid,Jeg er lige så omhyggelig som altid,0,1,0
+s_156,3,43,1,Virkelig meget,Virkelig meget,0,1,0
+s_156,2,43,2,En hel del,En hel del,0,1,0
+s_156,1,43,3,Ikke så meget,Ikke så meget,0,1,0
+s_156,0,43,4,Slet ikke,Slet ikke,0,1,0
+s_157,0,44,1,Lige så meget som altid,Lige så meget som altid,0,1,0
+s_157,1,44,2,Knap så meget som jeg plejede,Knap så meget som jeg plejede,0,1,0
+s_157,2,44,3,Helt afgjort mindre end jeg plejede,Helt afgjort mindre end jeg plejede,0,1,0
+s_157,3,44,4,Næsten ikke,Næsten ikke,0,1,0
+s_158,3,45,1,Meget ofte,Meget ofte,0,1,0
+s_158,2,45,2,Ganske ofte,Ganske ofte,0,1,0
+s_158,1,45,3,Ikke særlig ofte,Ikke særlig ofte,0,1,0
+s_158,0,45,4,Aldrig,Aldrig,0,1,0
+s_159,0,46,1,Ofte,Ofte,0,1,0
+s_159,1,46,2,Somme tider,Somme tider,0,1,0
+s_159,2,46,3,Ikke ofte,Ikke ofte,0,1,0
+s_159,3,46,4,Meget sjældent,Meget sjældent,0,1,0
+s_162,0,7,1,"Ja, i meget høj grad",I nogen grad/i høj grad,0,NA,1
+s_162,1,7,4,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_162,2,7,6,Ved ikke,Ved ikke,0,NA,1
+s_164,0,8,1,"Ja, i meget høj grad","Ja, i meget høj grad",0,NA,0
+s_164,1,8,4,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_164,2,8,6,Ved ikke/havde ikke behov,Ved ikke/havde ikke behov,0,NA,0
+s_165,0,9,1,"Ja, i meget høj grad",I nogen grad/i høj grad,0,NA,0
+s_165,1,9,4,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_165,2,9,6,Ved ikke,Ved ikke,0,NA,0
+s_166,0,10,1,"Ja, i meget høj grad",I nogen grad/i høj grad,0,NA,0
+s_166,1,10,4,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_166,2,10,6,Ved ikke,Ved ikke,0,NA,0
+s_167,0,11,1,"Ja, i meget høj grad",I nogen grad/i høj grad,0,NA,0
+s_167,1,11,4,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_167,2,11,6,Ved ikke,Ved ikke,0,NA,0
+s_168,0,16.1a,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_168,1,16.1a,3,I mindre grad,Hvorfor du fik/får medicin,1,1,0
+s_168,2,16.1a,4,Ved ikke,Ved ikke,0,1,0
+s_169,0,16.1b,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_169,1,16.1b,3,I mindre grad,Mulige bivirkninger af medicin,1,1,0
+s_169,2,16.1b,4,Ved ikke,Ved ikke,0,1,0
+s_170,0,16.1c,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_170,1,16.1c,3,I mindre grad,Hvor lang tid du skal/skulle tage medicin,1,1,0
+s_170,2,16.1c,4,Ved ikke,Ved ikke,0,1,0
+s_172_1,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_1,1,17.2,1,Valgt,Jeg havde ikke behov for det,0,NA,0
+s_172_2,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_2,1,17.2,1,Valgt,Jeg havde ikke lyst,0,NA,0
+s_172_3,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_3,1,17.2,1,Valgt,Jeg ville hellere selv finde en måde at komme mig på,0,NA,0
+s_172_4,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_4,1,17.2,1,Valgt,Tidspunktet på dagen passede mig ikke,0,NA,0
+s_172_5,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_5,1,17.2,1,Valgt,På grund af transport og/eller økonomi,0,NA,0
+s_172_6,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_6,1,17.2,1,Valgt,"På grund af barrierer i forhold til sprog, religion/kultur o.l.",0,NA,0
+s_172_7,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_7,1,17.2,1,Valgt,Andre årsager - skriv venligst,0,NA,0
+s_172_8,0,17.2,0,Ikke valgt,Ikke valgt,0,NA,0
+s_172_8,1,17.2,1,Valgt,Ikke relevant,0,NA,0
+s_17_1,0,6a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_1,1,6a,1,Valgt,Astma,0,NA,0
+s_17_10,0,6j,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_10,1,6j,1,Valgt,Kræft,0,NA,0
+s_17_11,0,6k,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_11,1,6k,1,Valgt,Migræne eller hyppig hovedpine,0,NA,0
+s_17_12,0,6l,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_12,1,6l,1,Valgt,Angst,0,NA,0
+s_17_13,0,6m,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_13,1,6m,1,Valgt,Depression,0,NA,0
+s_17_14,0,6n,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_14,1,6n,1,Valgt,Diskusprolaps eller andre rygsygdomme,0,NA,0
+s_17_15,0,6o,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_15,1,6o,1,Valgt,Anden længerevarende sygdom:,0,NA,0
+s_17_16,0,6p,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_16,1,6p,1,Valgt,Ingen andre længerevarende sygdomme,0,NA,0
+s_17_2,0,6b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_2,1,6b,1,Valgt,Allergi (ikke astma),0,NA,0
+s_17_3,0,6c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_3,1,6c,1,Valgt,Sukkersyge (diabetes),0,NA,0
+s_17_4,0,6d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_4,1,6d,1,Valgt,Forhøjet blodtryk,0,NA,0
+s_17_5,0,6e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_5,1,6e,1,Valgt,"Hjerneblødning, blodprop i hjernen",0,NA,0
+s_17_6,0,6f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_6,1,6f,1,Valgt,"Kronisk bronkitis, for store lunger, rygerlunger (emfysem, KOL)",0,NA,0
+s_17_7,0,6g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_7,1,6g,1,Valgt,Slidgigt,0,NA,0
+s_17_8,0,6h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_8,1,6h,1,Valgt,Leddegigt,0,NA,0
+s_17_9,0,6i,0,Ikke valgt,Ikke valgt,0,NA,0
+s_17_9,1,6i,1,Valgt,Knogleskørhed (Osteoporose),0,NA,0
+s_18,0,6.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_18,1,6.1,3,I mindre grad,I mindre grad/slet ikke,0,NA,0
+s_18,2,6.1,4,Ved ikke,Ved ikke,0,NA,0
+s_18,6,6.1,6,Ikke relevant - det var ikke nødvendigt eller relevant at tage hensyn til andre sygdomme,Ikke relevant - det var ikke nødvendigt eller relevant at tage hensyn til andre sygdomme,0,NA,0
+s_184,0,14c,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_184,1,14c,3,I mindre grad,Dine fysiske symptomer/reaktioner,1,1,0
+s_184,2,14d,4,Ved ikke,Ved ikke,0,1,0
+s_186,0,14e,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_186,1,14e,3,I mindre grad,Pårørendes følelsesmæssige reaktioner,1,1,0
+s_186,2,14e,4,Ved ikke,Ved ikke,0,1,0
+s_187,0,15,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_187,1,15,3,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_187,2,15,4,Ved ikke,Ved ikke,0,NA,0
+s_187,6,15,6,Jeg har ingen pårørende,Jeg har ingen pårørende,0,NA,0
+s_19,0,13,1,Ja,Ja,0,NA,0
+s_19,1,13,2,Nej,Nej,0,NA,0
+s_194,0,17h,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_194,3,17h,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_194,1,17h,5,Nej,Undervisning i de psykiske reaktioner på sygdommen,1,1,0
+s_194,2,17h,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_1_1,0,1a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_1,1,1a,1,Valgt,Iskæmisk hjertesygdom,0,NA,0
+s_1_2,0,1b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_2,1,1b,1,Valgt,Hjertesvigt,0,NA,0
+s_1_3,0,1c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_3,1,1c,1,Valgt,Atrieflimren,0,NA,0
+s_1_4,0,1d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_4,1,1d,1,Valgt,Hjerteklapsygdom,0,NA,0
+s_1_5,0,1e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_5,1,1e,1,Valgt,Anden,0,NA,0
+s_1_6,0,1f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_1_6,1,1f,1,Valgt,Jeg har ikke fået en hjertesygdom i 2018,0,NA,0
+s_203,1,18.1,1,Ja,Ja,0,NA,0
+s_203,2,18.1,2,Nej,Nej,0,NA,0
+s_205,1,20,1,Ja,Ja,0,NA,0
+s_205,2,20,2,Nej,Nej,0,NA,0
+s_206,1,20.2,1,"Ja, men jeg er tilbage i arbejde","Ja, men jeg er tilbage i arbejde",0,NA,0
+s_206,3,20.2,3,"Ja, og jeg er stadig sygemeldt","Ja, og jeg er stadig sygemeldt",0,NA,0
+s_206,2,20.2,2,Nej,Nej,0,NA,0
+s_207,1,22.1,1,"Ja, og jeg fik professionel rådgivning","Ja, og jeg fik professionel rådgivning",0,NA,0
+s_207,2,22.1,2,"Ja, men jeg fik ikke professionel rådgivning","Ja, men jeg fik ikke professionel rådgivning",0,NA,0
+s_207,4,22.1,4,Nej,Nej,0,NA,0
+s_219,0,17.1a,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_219,1,17.1a,3,Hverken god eller dårlig,Fysisk træning,1,1,0
+s_219,2,17.1a,5,Ved ikke,Ved ikke,0,1,0
+s_220,0,17.1b,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_220,1,17.1b,3,Hverken god eller dårlig,Rådgivning om kost,1,1,0
+s_220,2,17.1b,5,Ved ikke,Ved ikke,0,1,0
+s_221,0,17.1c,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_221,1,17.1c,3,Hverken god eller dårlig,Psykisk støtte,1,1,0
+s_221,2,17.1c,5,Ved ikke,Ved ikke,0,1,0
+s_222,0,17.1d,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_222,1,17.1d,3,Hverken god eller dårlig,Undervisning i din sygdom,1,1,0
+s_222,2,17.1d,5,Ved ikke,Ved ikke,0,1,0
+s_223,0,17.1e,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_223,1,17.1e,3,Hverken god eller dårlig,Rådgivning om sex og samliv,1,1,0
+s_223,2,17.1e,5,Ved ikke,Ved ikke,0,1,0
+s_224,0,17.1f,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_224,1,17.1f,3,Hverken god eller dårlig,Individuel samtale om medicin,1,1,0
+s_224,2,17.1f,5,Ved ikke,Ved ikke,0,1,0
+s_225,0,17.1g,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_225,1,17.1g,3,Hverken god eller dårlig,Rådgivning om arbejdsmarkedstilknytning,1,1,0
+s_225,2,17.1g,5,Ved ikke,Ved ikke,0,1,0
+s_226,0,17.1h,1,Særdeles god,Særdeles god/Overvejende god,0,1,0
+s_226,1,17.1h,3,Hverken god eller dårlig,Undervisning i de psykiske reaktioner på sygdommen,1,1,0
+s_226,2,17.1h,5,Ved ikke,Ved ikke,0,1,0
+s_227,0,5,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_227,1,5,3,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_227,2,5,5,Ved ikke,Ved ikke,0,NA,1
+s_229,0,13.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_229,1,13.1,3,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_229,2,13.1,5,Ved ikke,Ved ikke,0,NA,1
+s_230,0,13.2,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_230,1,13.2,3,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_230,2,13.2,5,Ved ikke,Ved ikke,0,NA,0
+s_231_1,0,12a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_1,1,12a,1,Valgt,Min behandling blev udsat eller aflyst,0,NA,0
+s_231_2,0,12b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_2,1,12b,1,Valgt,Ventetiden til en behandling var meget lang og/eller behandlingsgarantien blev ikke overholdt,0,NA,0
+s_231_3,0,12c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_3,1,12c,1,Valgt,Jeg blev fejlbehandlet (f.eks. forkert operation eller medicin),0,NA,0
+s_231_4,0,12d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_4,1,12d,1,Valgt,"Der var fejl i min journal eller vigtig information om mit sygdomsforløb manglede (f.eks. journal, prøvesvar e.l.)",0,NA,0
+s_231_5,0,12e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_5,1,12e,1,Valgt,Der opstod alvorlige komplikationer under/efter operation,0,NA,0
+s_231_6,0,12f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_6,1,12f,1,Valgt,Andre fejl eller utilsigtede hændelser - skriv venligst,0,NA,0
+s_231_7,0,12g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_231_7,1,12g,1,Valgt,"Nej, jeg har ikke oplevet fejl eller utilsigtede hændelser",0,NA,0
+s_233,0,14g,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_233,1,14g,3,I mindre grad,Betydning for dit sex- og samliv,1,1,0
+s_233,2,14g,5,Ved ikke,Ved ikke,0,1,0
+s_234,0,14h,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_234,1,14h,3,I mindre grad,Hvad du selv kan gøre for at få det bedre,1,1,0
+s_234,2,14h,5,Ved ikke,Ved ikke,0,1,0
+s_235,0,14i,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_235,1,14i,3,I mindre grad,Hvor du skal henvende dig i tilfælde af forværring,1,1,0
+s_235,2,14i,5,Ved ikke,Ved ikke,0,1,0
+s_236,0,14j,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_236,1,14j,3,I mindre grad,Hvad du kan holde til rent fysisk,1,1,0
+s_236,2,14j,5,Ved ikke,Ved ikke,0,1,0
+s_237,0,14k,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_237,1,14k,3,I mindre grad,Mulige årsager til din hjertesygdom,1,1,0
+s_237,2,14k,5,Ved ikke,Ved ikke,0,1,0
+s_238,0,15.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_238,1,15.1,3,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_238,2,15.1,5,Ved ikke,Ved ikke,0,NA,1
+s_239,0,15.2,1,Ja,Ja,0,NA,0
+s_239,1,15.2,2,Nej,Nej,0,NA,0
+s_241,1,18.2,1,"Ja, og jeg fik rådgivning","Ja, og jeg fik rådgivning",0,NA,0
+s_241,4,18.2,4,"Ja, men jeg ønskede ikke rådgivning","Ja, men jeg ønskede ikke rådgivning",0,NA,0
+s_241,2,18.2,2,Nej,Nej,0,NA,0
+s_241,3,18.2,3,Ved ikke,Ved ikke,0,NA,0
+s_242,0,20.2.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_242,1,20.2.1,3,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_243,0,30a,1,Hele tiden,Hele tiden,0,1,0
+s_243,1,30a,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_243,2,30a,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,1,0
+s_243,3,30a,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,1,0
+s_243,4,30a,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_243,5,30a,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_244,5,30b,1,Hele tiden,Hele tiden,0,1,0
+s_244,4,30b,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_244,3,30b,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,1,0
+s_244,2,30b,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,1,0
+s_244,1,30b,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_244,0,30b,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_245,5,30c,1,Hele tiden,Hele tiden,0,1,0
+s_245,4,30c,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_245,3,30c,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,1,0
+s_245,2,30c,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,1,0
+s_245,1,30c,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_245,0,30c,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_246,5,30d,1,Hele tiden,Hele tiden,0,1,0
+s_246,4,30d,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_246,3,30d,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,1,0
+s_246,2,30d,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,1,0
+s_246,1,30d,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_246,0,30d,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_247,5,30e,1,Hele tiden,Hele tiden,0,1,0
+s_247,4,30e,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_247,3,30e,3,Lidt mere end halvdelen af tiden,Lidt mere end halvdelen af tiden,0,1,0
+s_247,2,30e,4,Lidt mindre end halvdelen af tiden,Lidt mindre end halvdelen af tiden,0,1,0
+s_247,1,30e,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_247,0,30e,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_248,1,28a,1,I høj grad,Ikke at få den rette behandling,1,1,0
+s_248,0,28a,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_248,2,28a,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_249,1,28b,1,I høj grad,Om din hjertesygdom forværres,1,1,0
+s_249,0,28b,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_249,2,28b,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_250,1,28c,1,I høj grad,At dine nærmeste bekymrer sig,1,1,0
+s_250,0,28c,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_250,2,28c,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_251,1,28d,1,I høj grad,At være en byrde for din familie,1,1,0
+s_251,0,28d,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_251,2,28d,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_252,1,28e,1,I høj grad,Hvordan det skal gå din familie i fremtiden,1,1,0
+s_252,0,28e,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_252,2,28e,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_253,1,28f,1,I høj grad,Hvordan du får talt med dine nærmeste om din sygdom,1,1,0
+s_253,0,28f,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_253,2,28f,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_254,1,28g,1,I høj grad,Hvordan du skal komme tilbage på arbejde igen,1,1,0
+s_254,0,28g,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_254,2,28g,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_255,1,28h,1,I høj grad,Ikke at have nogen at snakke med,1,1,0
+s_255,0,28h,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_255,2,28h,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_256,1,28i,1,I høj grad,Hvor længe du kan leve med din hjertesygdom,1,1,0
+s_256,0,28i,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_256,2,28i,5,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_257,5,31a,1,Hele tiden,Hele tiden,0,1,0
+s_257,4,31a,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_257,3,31a,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,1,0
+s_257,2,31a,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,1,0
+s_257,1,31a,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_257,0,31a,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_258,5,31b,1,Hele tiden,Hele tiden,0,1,0
+s_258,4,31b,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_258,3,31b,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,1,0
+s_258,2,31b,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,1,0
+s_258,1,31b,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_258,0,31b,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_259,5,32a,1,Hele tiden,Hele tiden,0,1,0
+s_259,4,32a,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_259,3,32a,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,1,0
+s_259,2,32a,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,1,0
+s_259,1,32a,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_259,0,32a,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_260,5,32b,1,Hele tiden,Hele tiden,0,1,0
+s_260,4,32b,2,Det meste af tiden,Det meste af tiden,0,1,0
+s_260,3,32b,3,Lidt over halvdelen af tiden,Lidt over halvdelen af tiden,0,1,0
+s_260,2,32b,4,Lidt under halvdelen af tiden,Lidt under halvdelen af tiden,0,1,0
+s_260,1,32b,5,Lidt af tiden,Lidt af tiden,0,1,0
+s_260,0,32b,6,På intet tidspunkt,På intet tidspunkt,0,1,0
+s_263_1,0,25.1a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_1,1,25.1a,1,Valgt,"For min sundhed - fx fordi jeg gerne vil undgå, at sygdommen udvikler sig",0,NA,0
+s_263_2,0,25.1b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_2,1,25.1b,1,Valgt,For at få mindre lægeordineret medicin,0,NA,0
+s_263_3,0,25.1c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_3,1,25.1c,1,Valgt,Som supplement til den øvrige behandling,0,NA,0
+s_263_4,0,25.1d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_4,1,25.1d,1,Valgt,Som behandling eller lindring af anden sygdom fx gigt eller smerter,0,NA,0
+s_263_5,0,25.1e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_5,1,25.1e,1,Valgt,Fordi kosttilskud og naturlægemidler ikke har bivirkninger,0,NA,0
+s_263_6,0,25.1f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_6,1,25.1f,1,Valgt,"Fordi jeg har fået det anbefalet af en læge, tandlæge eller sygeplejerske",0,NA,0
+s_263_7,0,25.1g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_7,1,25.1g,1,Valgt,"Fordi jeg har fået det anbefalet af familie, ven/veninde, kollega, nabo, en anden hjertepatient e.a.",0,NA,0
+s_263_8,0,25.1h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_263_8,1,25.1h,1,Valgt,Andet,0,NA,0
+s_264_1,0,25.2a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_1,1,25.2a,1,Valgt,Hvilken virkning du gerne vil opnå med kosttilskuddene/naturlægemidlerne,0,NA,0
+s_264_2,0,25.2b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_2,1,25.2b,1,Valgt,"Hvilke produkter og hvilken dosis, du med fordel kunne tage",0,NA,0
+s_264_3,0,25.2c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_3,1,25.2c,1,Valgt,"Hvordan produkterne påvirker den lægeordinerede medicin, du eventuelt får",0,NA,0
+s_264_4,0,25.2d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_4,1,25.2d,1,Valgt,Hvordan du skal forholde dig i tilfælde af operation,0,NA,0
+s_264_5,0,25.2e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_5,1,25.2e,1,Valgt,Hvordan du indberetter eventuelle bivirkninger eller allergiske reaktioner,0,NA,0
+s_264_6,0,25.2f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_264_6,1,25.2f,1,Valgt,"Nej, jeg har ikke talt med egen læge eller hjertelægen om kosttilskud/naturlægemidler",0,NA,0
+s_266,0,48,1,I høj grad,I nogen grad/i høj grad,0,NA,1
+s_266,1,48,3,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_266,2,48,5,Ved ikke,Ved ikke,0,NA,1
+s_267,1,49,1,Ja,Ja,1,NA,1
+s_267,0,49,2,Nej,Nej,0,NA,1
+s_267,2,49,3,Ved ikke,Ved ikke,0,NA,1
+s_268,1,50a,1,I høj grad,Bekymringer er begyndt at styre mit liv,1,1,0
+s_268,0,50a,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_268,2,50a,5,Ved ikke,Ved ikke,0,1,0
+s_269,1,50b,1,I høj grad,Jeg undgår nødvendig kontakt med læge eller sygehus,1,1,0
+s_269,0,50b,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_269,2,50b,5,Ved ikke,Ved ikke,0,1,0
+s_26_1,0,25a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_1,1,25a,1,Valgt,Calcium,0,NA,0
+s_26_10,0,25j,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_10,1,25j,1,Valgt,Hvidtjørn,0,NA,0
+s_26_11,0,25k,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_11,1,25k,1,Valgt,Ingefær,0,NA,0
+s_26_12,0,25l,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_12,1,25l,1,Valgt,Jern,0,NA,0
+s_26_13,0,25m,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_13,1,25m,1,Valgt,K-vitamin,0,NA,0
+s_26_14,0,25n,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_14,1,25n,1,Valgt,L-carnitin,0,NA,0
+s_26_15,0,25o,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_15,1,25o,1,Valgt,Magnesium,0,NA,0
+s_26_16,0,25p,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_16,1,25p,1,Valgt,Multivitaminer,0,NA,0
+s_26_17,0,25q,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_17,1,25q,1,Valgt,Perikon/perikum/St. Johns Wort,0,NA,0
+s_26_18,0,25r,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_18,1,25r,1,Valgt,Q10,0,NA,0
+s_26_19,0,25s,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_19,1,25s,1,Valgt,Røde gærris,0,NA,0
+s_26_2,0,25b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_2,1,25b,1,Valgt,D-vitamin,0,NA,0
+s_26_20,0,25t,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_20,1,25t,1,Valgt,Andet - skriv venligst:,0,NA,0
+s_26_21,0,25u,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_21,1,25u,1,Valgt,Jeg tager ingen af ovenstående produkter,0,NA,0
+s_26_3,0,25c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_3,1,25c,1,Valgt,E-vitamin,0,NA,0
+s_26_4,0,25d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_4,1,25d,1,Valgt,Efedrin,0,NA,0
+s_26_5,0,25e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_5,1,25e,1,Valgt,Fibertilskud f.eks. HUSK/loppefrøskaller,0,NA,0
+s_26_6,0,25f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_6,1,25f,1,Valgt,Fiskeolie,0,NA,0
+s_26_7,0,25g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_7,1,25g,1,Valgt,Ginkgo biloba,0,NA,0
+s_26_8,0,25h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_8,1,25h,1,Valgt,Ginseng,0,NA,0
+s_26_9,0,25i,0,Ikke valgt,Ikke valgt,0,NA,0
+s_26_9,1,25i,1,Valgt,Hvidløg,0,NA,0
+s_270,1,50c,1,I høj grad,Mine bekymringer påvirker andre,1,1,0
+s_270,0,50c,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_270,2,50c,5,Ved ikke,Ved ikke,0,1,0
+s_271,1,50d,1,I høj grad,Mine bekymringer påvirker min søvn og evnen til at fungere,1,1,0
+s_271,0,50d,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_271,2,50d,5,Ved ikke,Ved ikke,0,1,0
+s_272,1,50e,1,I høj grad,Mine bekymringer giver mig vedvarende fysiske symptomer,1,1,0
+s_272,0,50e,3,I mindre grad,I mindre grad/slet ikke,0,1,0
+s_272,2,50e,5,Ved ikke,Ved ikke,0,1,0
+s_28,0,17a,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_28,3,17a,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_28,1,17a,5,Nej,Fysisk træning,1,1,0
+s_28,2,17a,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_29,0,17b,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_29,3,17b,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_29,1,17b,5,Nej,Rådgivning om kost,1,1,0
+s_29,2,17b,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_30,0,17c,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_30,3,17c,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_30,1,17c,5,Nej,Psykisk støtte,1,1,0
+s_30,2,17c,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_32,0,17d,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_32,3,17d,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_32,1,17d,5,Nej,Undervisning i din sygdom,1,1,0
+s_32,2,17d,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_33,0,17e,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_33,3,17e,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_33,1,17e,5,Nej,Rådgivning om sex og samliv,1,1,0
+s_33,2,17e,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_34,0,17f,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_34,3,17f,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_34,1,17f,5,Nej,Individuel samtale om medicin,1,1,0
+s_34,2,17f,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_35,0,17g,1,"Ja, og jeg tog imod tilbuddet","Ja, fik tilbuddet",0,1,0
+s_35,3,17g,4,"Ja, men jeg tog ikke imod tilbuddet","Ja, men jeg tog ikke imod tilbuddet",0,1,0
+s_35,1,17g,5,Nej,Rådgivning om arbejdsmarkedstilknytning,1,1,0
+s_35,2,17g,6,Ved ikke/ikke relevant,Ved ikke/ikke relevant,0,1,0
+s_45,1,17.3,1,0-2 uger,0-2 uger,0,NA,0
+s_45,2,17.3,2,3-5 uger,3-5 uger,0,NA,0
+s_45,3,17.3,3,6-8 uger,6-8 uger,0,NA,0
+s_45,4,17.3,4,9 eller flere uger,9 eller flere uger,0,NA,0
+s_45,5,17.3,5,Ved ikke,Ved ikke,0,NA,0
+s_45,6,17.3,6,Jeg har ikke modtaget fysisk træning,Jeg har ikke modtaget fysisk træning,0,NA,0
+s_47,1,18,1,"Ja, og jeg ryger stadig dagligt","Ja, og jeg ryger stadig dagligt",0,NA,0
+s_47,4,18,4,"Ja, og jeg ryger stadig lejlighedsvist","Ja, og jeg ryger stadig lejlighedsvist",0,NA,0
+s_47,2,18,2,"Ja, men jeg er holdt op","Ja, men jeg er holdt op",0,NA,0
+s_47,3,18,3,Nej,Nej,0,NA,0
+s_49,1,19,1,"Ja, i høj grad",I nogen grad/i høj grad,1,NA,1
+s_49,0,19,3,I mindre grad,I mindre grad/slet ikke,0,NA,1
+s_49,2,19,5,Ved ikke,Ved ikke,0,NA,1
+s_52,0,14a,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_52,1,14a,3,I mindre grad,Undersøgelser og behandlingsforløb,1,1,0
+s_52,2,14a,4,Ved ikke,Ved ikke,0,1,0
+s_53,0,14b,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_53,1,14b,3,I mindre grad,Betydning for din fremtid,1,1,0
+s_53,2,14b,4,Ved ikke,Ved ikke,0,1,0
+s_54,0,14d,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_54,1,14d,3,I mindre grad,Dine følelsesmæssige reaktioner,1,1,0
+s_54,2,14d,4,Ved ikke,Ved ikke,0,1,0
+s_56,0,14f,1,"Ja, i høj grad",I nogen grad/i høj grad,0,1,0
+s_56,1,14f,3,I mindre grad,"Betydning for dit forhold til familie, venner m.fl.",1,1,0
+s_56,2,14f,4,Ved ikke,Ved ikke,0,1,0
+s_66,0,15.2.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_66,1,15.2.1,3,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_66,2,15.2.1,4,Ved ikke,Ved ikke,0,NA,1
+s_68,0,16,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_68,1,16,3,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_68,2,16,4,Ved ikke,Ved ikke,0,NA,0
+s_68,6,16,6,Jeg har ikke været i medicinsk behandling for min hjertesygdom,Jeg har ikke været i medicinsk behandling for min hjertesygdom,0,NA,0
+s_7,0,2,1,"Ja, på alle afdelinger","Ja, på nogle/alle afdelinger",0,NA,1
+s_7,1,2,3,"Nej, på ingen afdelinger","Nej, på ingen afdelinger",1,NA,1
+s_70,1,16.2,1,Ja,Ja,0,NA,0
+s_70,0,16.2,2,Nej,Nej,0,NA,0
+s_72,0,16.2.1,1,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,0
+s_72,1,16.2.1,3,I mindre grad,I mindre grad/slet ikke,1,NA,0
+s_72,2,16.2.1,5,Ved ikke,Ved ikke,0,NA,0
+s_72,6,16.2.1,6,Jeg har ikke henvendt mig til en læge på grund af bivirkninger,Jeg har ikke henvendt mig til en læge på grund af bivirkninger,0,NA,0
+s_81_1,0,20.1a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_1,1,20.1a,1,Valgt,"Ja, jeg blev fyret",0,NA,0
+s_81_10,0,20.1j,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_10,1,20.1j,1,Valgt,"Nej, min arbejdssituation er den samme",0,NA,0
+s_81_11,0,20.1k,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_11,1,20.1k,1,Valgt,Andet ? skriv venligst,0,NA,0
+s_81_2,0,20.1b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_2,1,20.1b,1,Valgt,"Ja, jeg har måttet stoppe med at arbejde i en periode",0,NA,0
+s_81_3,0,20.1c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_3,1,20.1c,1,Valgt,"Ja, jeg er holdt op med at arbejde pga. min hjertesygdom",0,NA,0
+s_81_4,0,20.1d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_4,1,20.1d,1,Valgt,"Ja, jeg har skiftet arbejde/karrierevej",0,NA,0
+s_81_5,0,20.1e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_5,1,20.1e,1,Valgt,"Ja, jeg har valgt at gå ned i tid",0,NA,0
+s_81_6,0,20.1f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_6,1,20.1f,1,Valgt,"Ja, jeg er kommet i fleksjob",0,NA,0
+s_81_7,0,20.1g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_7,1,20.1g,1,Valgt,"Ja, den fysiske indretning af arbejdspladsen er blevet ændret/jeg har fået hjælpemidler",0,NA,0
+s_81_8,0,20.1h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_8,1,20.1h,1,Valgt,"Ja, jeg har fået andre arbejdsopgaver end tidligere",0,NA,0
+s_81_9,0,20.1i,0,Ikke valgt,Ikke valgt,0,NA,0
+s_81_9,1,20.1i,1,Valgt,"Jeg er holdt op med at arbejde, men ikke pga. min hjertesygdom",0,NA,0
+s_84_1,0,20.2.2a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_1,1,20.2.2a,1,Valgt,"For at komme tilbage til den hverdag jeg havde, før jeg blev syg",0,NA,0
+s_84_2,0,20.2.2b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_2,1,20.2.2b,1,Valgt,Jeg følte mig fysisk klar til at vende tilbage til arbejdet,0,NA,0
+s_84_3,0,20.2.2c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_3,1,20.2.2c,1,Valgt,Jeg følte mig psykisk klar til at vende tilbage til arbejdet,0,NA,0
+s_84_4,0,20.2.2d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_4,1,20.2.2d,1,Valgt,"Jeg havde behov for at føle, at jeg kunne bidrage og være til nytte",0,NA,0
+s_84_5,0,20.2.2e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_5,1,20.2.2e,1,Valgt,For at få tankerne væk fra min hjertesygdom,0,NA,0
+s_84_6,0,20.2.2f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_6,1,20.2.2f,1,Valgt,Jeg var bange for at miste mit arbejde,0,NA,0
+s_84_7,0,20.2.2g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_7,1,20.2.2g,1,Valgt,"Jeg følte, at jeg var nødt til det",0,NA,0
+s_84_8,0,20.2.2h,0,Ikke valgt,Ikke valgt,0,NA,0
+s_84_8,1,20.2.2h,1,Valgt,Andet - skriv gerne:,0,NA,0
+s_85_1,0,20.2.3a,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_1,1,20.2.3a,1,Valgt,"Ja, jeg har følt mig presset af jobcenteret (kommunen)",0,NA,0
+s_85_2,0,20.2.3b,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_2,1,20.2.3b,1,Valgt,"Ja, jeg har følt mig presset af min arbejdsgiver",0,NA,0
+s_85_3,0,20.2.3c,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_3,1,20.2.3c,1,Valgt,"Ja, jeg har følt mig presset af mine kolleger",0,NA,0
+s_85_4,0,20.2.3d,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_4,1,20.2.3d,1,Valgt,"Ja, jeg har følt mig presset af mine pårørende",0,NA,0
+s_85_5,0,20.2.3e,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_5,1,20.2.3e,1,Valgt,"Ja, jeg har følt mig presset af økonomiske årsager",0,NA,0
+s_85_6,0,20.2.3f,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_6,1,20.2.3f,1,Valgt,"Ja, jeg har følt mig presset af andre årsager, skriv gerne:",0,NA,0
+s_85_7,0,20.2.3g,0,Ikke valgt,Ikke valgt,0,NA,0
+s_85_7,1,20.2.3g,1,Valgt,"Nej, jeg har ikke følt mig presset",0,NA,0
+s_87,1,20.2.4,1,"Ja, og jeg fik professionel rådgivning","Ja, og jeg fik professionel rådgivning",0,NA,0
+s_87,2,20.2.4,2,"Ja, men jeg fik ikke professionel rådgivning","Ja, men jeg fik ikke professionel rådgivning",0,NA,0
+s_87,4,20.2.4,4,Nej,Nej,0,NA,0
+s_89,0,20.2.5,2,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_89,1,20.2.5,4,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_89,2,20.2.5,6,Ved ikke,Ved ikke,0,NA,1
+s_9,0,3,4,"Ja, i høj grad",I nogen grad/i høj grad,0,NA,1
+s_9,1,3,6,I mindre grad,I mindre grad/slet ikke,1,NA,1
+s_9,2,3,8,Ved ikke,Ved ikke,0,NA,1
+s_9,3,3,9,Jeg har ikke været indlagt på grund af min hjertesygdom,Har ikke været indlagt pga hjertesygdom,0,NA,1
+s_94,2,21,2,"Ja, den er dårligere end før","Ja, den er dårligere end før",0,NA,0
+s_94,3,21,3,"Ja, den er bedre end før","Ja, den er bedre end før",0,NA,0
+s_94,4,21,4,"Nej, den er ikke ændret","Nej, den er ikke ændret",0,NA,0
+s_94,5,21,5,Ved ikke,Ved ikke,0,NA,0
+s_95,1,22a,1,Ja,Ja,0,NA,0
+s_95,0,22a,2,Nej,Nej,0,NA,0
+s_95,2,22a,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_96,1,22b,1,Ja,Ja,0,NA,0
+s_96,0,22b,2,Nej,Nej,0,NA,0
+s_96,2,22b,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_97,1,22c,1,Ja,Ja,0,NA,0
+s_97,0,22c,2,Nej,Nej,0,NA,0
+s_97,2,22c,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_98,1,22d,1,Ja,Ja,0,NA,0
+s_98,0,22d,2,Nej,Nej,0,NA,0
+s_98,2,22d,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+s_99,1,22e,1,Ja,Ja,0,NA,0
+s_99,0,22e,2,Nej,Nej,0,NA,0
+s_99,2,22e,3,Jeg har ikke ansøgt/ikke relevant,Jeg har ikke ansøgt/ikke relevant,0,NA,0
+stato_1,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_1,1,NA,1,Valgt,Ny,0,NA,0
+stato_2,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_2,1,NA,1,Valgt,Distribueret,0,NA,0
+stato_3,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_3,1,NA,1,Valgt,Nogen svar,0,NA,0
+stato_4,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_4,1,NA,1,Valgt,Gennemført,0,NA,0
+stato_5,0,NA,0,Ikke valgt,Ikke valgt,0,NA,0
+stato_5,1,NA,1,Valgt,Frafaldet,0,NA,0
+t_ils_hi_score,0,NA,0,,T-ILS score <7,0,1,1
+t_ils_hi_score,1,NA,1,,T-ILS score >=7,1,1,1
+who5,0,NA,0,,WHO-1 >=50,0,1,1
+who5,1,NA,1,,WHO-1 <50,1,1,1
