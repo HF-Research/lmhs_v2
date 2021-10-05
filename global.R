@@ -2,7 +2,7 @@
 # devtools::install_github("rstudio/profvis")
 # library(profvis)
 # remotes::install_github("rstudio/reactlog")
-library(reactlog)
+# library(reactlog)
 # reactlog_enable()
 # devtools::install_version("shiny", version = "1.5.0")
 suppressPackageStartupMessages({
@@ -29,15 +29,36 @@ d <- lapply(data, readRDS)
 names(d) <- data_names
 
 
-# GRAPH PARAMETERS ------------------------------------------------------------
+# GRAPH PARAMETERS --------------------------------------------------------
+hfBlue <- "#002A3A"
+
 male_color <- "#19b9b1"
 female_color <- "#ea8438"
-hfBlue <- "#002A3A"
 graph_colors <- c(male_color, female_color)
 rm(male_color, female_color)
 
-axis_font_size <- 20
-legend_font_size <- 17
-tick_font_size <- 15
-num_digits <- 0
+single_val_col <- hfBlue
+
+DT_background_color <- "#002A3A"
+DT_background_color <- "#193f4d"
+DT_background_color <- "white"
+DT_text_color <- hfBlue
+
+# STARTING VALUES ---------------------------------------------------------
+
+starting_vals_strat <- make_strat_choices(
+  d=d,
+  person_type = "pat",
+  question_name_short = "hads_anxiety"
+)
+
+
+lang = "dk"
+if (lang == "dk") {
+  thousands_sep <- "."
+  dec_mark <- ","
+} else {
+  thousands_sep <- ","
+  dec_mark <- "."
+}
 

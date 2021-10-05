@@ -2,7 +2,7 @@ ui_main_title <- "Results"
 ui_about_tite <- "Methods"
 
 choose_person_type <- enc2utf8("Choose respondent type")
-person_type_choices <- enc2utf8(c("patient", "paaroerende"))
+person_type_choices <- enc2utf8(c("pat", "paar"))
 names(person_type_choices) <- enc2utf8(c("Patient", "Pårørende"))
 
 choose_topic <- enc2utf8("Vælg emne")

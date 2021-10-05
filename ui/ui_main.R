@@ -1,9 +1,9 @@
 tabPanel(ui_main_title,
          value = "main",
          useShinyjs(),
-
-
          fluidRow(
+
+           # INPUT -------------------------------------------------------------------
            div(# This changes the column width (i.e. proportion) based on width of screen)
              class = "col-xs-12 col-sm-5 col-md-4 col-lg-3",
 
@@ -20,31 +20,41 @@ tabPanel(ui_main_title,
                      direction = "vertical"
                    )
                  ),
-                 fluidRow(selectInput(
-                   inputId = "topic",
-                   label = choose_topic,
-                   choices = character(0),
-                   selectize = TRUE,
+                 fluidRow(
+                   selectizeInput(
+                     inputId = "topic",
+                     label = choose_topic,
+                     choices = character(0)
 
-                 ))
+
+                   )
+                 )
                ),
-               column(6,
-                      radioGroupButtons(
-                        inputId = "stratification",
-                        label = choose_stratification,
-                        choices = stratification_choices,
-                        justified = TRUE,
-                        direction = "vertical"
-                      ))),
+               column(
+                 6,
+                 radioGroupButtons(
+                   inputId = "strat",
+                   label = choose_stratification,
+                   choices = starting_vals_strat,
+                   justified = TRUE,
+                   direction = "vertical"
+                 )
+               )),
 
-               fluidRow(selectInput(
-                 inputId = "question",
-                 label = choose_question,
-                 choices = character(0),
-                 selectize = TRUE
-               ))
+               fluidRow(
+                 selectizeInput(
+                   inputId = "question_name_short",
+                   label = choose_question,
+                   choices = character(0)
+                 )
+               )
 
              )),
+
+
+           # OUTPUT ------------------------------------------------------------------
+
+
            div(
              class = "col-xs-12 col-sm-7 col-md-8 col-lg-8",
              align = "right",
@@ -55,9 +65,18 @@ tabPanel(ui_main_title,
                # Graph panel
                tabPanel(title = "Grafer",
                         br(),
-                        plotlyOutput("plot", height = "600px" )),
+                        plotlyOutput("plot", height = "600px")),
                tabPanel(title = "Tabeller",
-                        br())
+                        fluidRow(
+                          class = "row_outcome_title",
+                          column(
+                            11,
+                            class = "output_titles",
+                            align = "left",
+                            textOutput("outcome_title_dt")
+                          )
+                        ),
+                        fluidRow(DTOutput("table_rate")))
 
              )
            )
