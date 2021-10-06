@@ -124,17 +124,11 @@ output$plot <- plotly::renderPlotly({
 })
 
 
-# TABLES ------------------------------------------------------------------
-output$table_rate <- renderDT({
-  req(
-    input$person_type,
-    input$topic,
-    input$question_name_short,
-    input$strat,
-    nrow(plot_data()) > 0
-  )
+# CASE --------------------------------------------------------------------
+case <- reactive({
   hq <- F
   hq <- grepl("hq_", input$question_name_short)
+
   case <- "pat_svar"
   if (input$person_type == "paar")
     if(input$strat=="Kon/alder"){
@@ -154,6 +148,17 @@ output$table_rate <- renderDT({
     if (hq)
       case <- "pat_strat_hq"
   }
+})
+# TABLES ------------------------------------------------------------------
+output$table_rate <- renderDT({
+  req(
+    input$person_type,
+    input$topic,
+    input$question_name_short,
+    input$strat,
+    nrow(plot_data()) > 0
+  )
+  case <- case()
   col_titles1 <- c("Væget andel(%)", "Væget antal")
   col_titles2 <- c("Andel(%)", "Antal")
   col_titles_mean <- c("Væget mean")
