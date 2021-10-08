@@ -431,8 +431,14 @@ font-weight: 400;
 }
 
 #outcome_title_dt{
-  font-size: 2.6rem;
+font-size: 2.6rem;
 font-weight: 400;
+}
+
+#outcome_title_sub_dt{
+margin-top: -10px;
+font-size: 1.8rem;
+font-style: italic;
 }
 
 

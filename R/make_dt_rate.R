@@ -7,8 +7,13 @@ make_dt_rate <- function(dat,
                          n_col = NULL,
                          thousands_sep = thousands_sep,
                          dec_mark = dec_mark,
-                         digits = digits) {
-  num_format_cols <- (1:n_col)[-1]
+                         digits = digits,
+                         case) {
+  if(grepl("age_sex", case)){
+    num_format_cols <- (2:n_col)[-1]
+  }else{
+    num_format_cols <- (1:n_col)[-1]
+  }
   hq <- length(num_format_cols) == 1
   rate_col <- num_format_cols[1]
   count_col <- num_format_cols[2]

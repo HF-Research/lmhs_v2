@@ -14,6 +14,8 @@ suppressPackageStartupMessages({
   # devtools::install_github("ropensci/plotly")
   library(plotly)
   library(magrittr)
+  library(stringr)
+  library(leaflet)
 })
 
 # LOAD R CODE -------------------------------------------------------------
@@ -27,7 +29,6 @@ data_names <- list.files(path = "cached_data/")
 data_names <- gsub(pattern = ".rds",replacement = "", data_names)
 d <- lapply(data, readRDS)
 names(d) <- data_names
-
 
 # GRAPH PARAMETERS --------------------------------------------------------
 hfBlue <- "#002A3A"
@@ -49,7 +50,7 @@ DT_text_color <- hfBlue
 starting_vals_strat <- make_strat_choices(
   d=d,
   person_type = "pat",
-  question_name_short = "hads_anxiety"
+  question_name_short = "Hjertesygdom"
 )
 
 

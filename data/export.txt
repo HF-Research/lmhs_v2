@@ -592,11 +592,11 @@ NA 2006.19316576842 22.2083193229187 "non_stratified" "s_167" "Ja, i nogen grad"
 NA 273.38344116941 3.02632212225842 "non_stratified" "s_167" "Nej, slet ikke" NA TRUE NA NA
 NA 192.814484245341 2.13443336826656 "non_stratified" "s_167" "Ved ikke" NA TRUE NA NA
 NA 829.931334039822 8.86963058715211 "non_stratified" "s_231" "Min behandling blev udsat eller aflyst" NA TRUE NA NA
-NA 631.257753904699 6.74636907026503 "non_stratified" "s_231" "Ventetiden til en behandling var meget lang og/eller behandlingsgarantien blev ikke overholdt" NA TRUE NA NA
-NA 258.004234182006 2.75733925597954 "non_stratified" "s_231" "Jeg blev fejlbehandlet (f.eks. forkert operation eller medicin)" NA TRUE NA NA
-NA 164.641797355577 1.75955752223551 "non_stratified" "s_231" "Der var fejl i min journal eller vigtig information om mit sygdomsforløb manglede (f.eks. journal, prøvesvar e.l.)" NA TRUE NA NA
+NA 631.257753904699 6.74636907026503 "non_stratified" "s_231" "Ventetiden til en behandling var meget lang eller behandlingsgarantien blev ikke overholdt" NA TRUE NA NA
+NA 258.004234182006 2.75733925597954 "non_stratified" "s_231" "Fejlbehandlet (f.eks. forkert operation/ medicin)" NA TRUE NA NA
+NA 164.641797355577 1.75955752223551 "non_stratified" "s_231" "Fejl i min journal eller vigtig information om mit sygdomsforløb manglede" NA TRUE NA NA
 NA 423.053099513565 4.52124718941504 "non_stratified" "s_231" "Der opstod alvorlige komplikationer under/efter operation" NA TRUE NA NA
-NA 1087.38664897208 11.6211034409755 "non_stratified" "s_231" "Andre fejl eller utilsigtede hændelser - skriv venligst" NA TRUE NA NA
+NA 1087.38664897208 11.6211034409755 "non_stratified" "s_231" "Andre fejl eller utilsigtede hændelser" NA TRUE NA NA
 NA 6238.80324623006 66.6752511085824 "non_stratified" "s_231" "Nej, jeg har ikke oplevet fejl eller utilsigtede hændelser" NA TRUE NA NA
 NA 7573.90203503511 84.0214044430855 "non_stratified" "s_19" "Ja" NA TRUE NA NA
 NA 1440.35104159077 15.9785955569145 "non_stratified" "s_19" "Nej" NA TRUE NA NA
@@ -744,17 +744,17 @@ NA 2721.72826515944 29.0876163851602 "non_stratified" "s_262" "Jeg tager ingen a
 NA 2641.80356002856 44.1764554400608 "non_stratified" "s_263" "For min sundhed - fx fordi jeg gerne vil undgå, at sygdommen udvikler sig" NA TRUE NA NA
 NA 372.236426111679 6.22456799593089 "non_stratified" "s_263" "For at få mindre lægeordineret medicin" NA TRUE NA NA
 NA 1592.23571149123 26.6254959388447 "non_stratified" "s_263" "Som supplement til den øvrige behandling" NA TRUE NA NA
-NA 1038.96574888271 17.3736703226981 "non_stratified" "s_263" "Som behandling eller lindring af anden sygdom fx gigt eller smerter" NA TRUE NA NA
+NA 1038.96574888271 17.3736703226981 "non_stratified" "s_263" "Som behandling/lindring af anden sygdom" NA TRUE NA NA
 NA 455.777519005686 7.62154899159817 "non_stratified" "s_263" "Fordi kosttilskud og naturlægemidler ikke har bivirkninger" NA TRUE NA NA
-NA 1534.74439550292 25.6641214455343 "non_stratified" "s_263" "Fordi jeg har fået det anbefalet af en læge, tandlæge eller sygeplejerske" NA TRUE NA NA
-NA 798.822565347665 13.3579763448478 "non_stratified" "s_263" "Fordi jeg har fået det anbefalet af familie, ven/veninde, kollega, nabo, en anden hjertepatient e.a." NA TRUE NA NA
+NA 1534.74439550292 25.6641214455343 "non_stratified" "s_263" "Jeg har fået det anbefalet af en læge, tandlæge eller sygeplejerske" NA TRUE NA NA
+NA 798.822565347665 13.3579763448478 "non_stratified" "s_263" "Jeg har fået det anbefalet af familie, ven/veninde, kollega, nabo, en anden hjertepatient e.a." NA TRUE NA NA
 NA 625.376363124451 10.457594749602 "non_stratified" "s_263" "Andet" NA TRUE NA NA
 NA 572.44050026639 9.57239691653339 "non_stratified" "s_264" "Hvilken virkning du gerne vil opnå med kosttilskuddene/naturlægemidlerne" NA TRUE NA NA
 NA 827.830522227794 13.8430497749511 "non_stratified" "s_264" "Hvilke produkter og hvilken dosis, du med fordel kunne tage" NA TRUE NA NA
 NA 376.106331255898 6.28928086661799 "non_stratified" "s_264" "Hvordan produkterne påvirker den lægeordinerede medicin, du eventuelt får" NA TRUE NA NA
 NA 233.378472885124 3.90257393247197 "non_stratified" "s_264" "Hvordan du skal forholde dig i tilfælde af operation" NA TRUE NA NA
 NA 59.3411094363843 0.992306890809043 "non_stratified" "s_264" "Hvordan du indberetter eventuelle bivirkninger eller allergiske reaktioner" NA TRUE NA NA
-NA 4365.34859155195 72.9977165800102 "non_stratified" "s_264" "Nej, jeg har ikke talt med egen læge eller hjertelægen om kosttilskud/naturlægemidler" NA TRUE NA NA
+NA 4365.34859155195 72.9977165800102 "non_stratified" "s_264" "Nej, jeg har ikke talt med egen læge eller hjertelægen" NA TRUE NA NA
 NA 346.648408339182 3.98443570880152 "non_stratified" "s_130" "Dårligt" NA TRUE NA NA
 NA 498.899887006561 5.73444007555046 "non_stratified" "s_130" "Fremragende" NA TRUE NA NA
 NA 3959.17058539294 45.5073794605194 "non_stratified" "s_130" "Godt" NA TRUE NA NA
