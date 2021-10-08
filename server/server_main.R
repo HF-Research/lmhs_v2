@@ -142,11 +142,16 @@ output$outcome_title_sub_map <- renderText({
   pretty_title_sub()
 })
 
-
+large_plot <- reactive({
+  flag_large_plot(x = plot_data(),
+                  input$strat,
+                  input$person_type,
+                  input$question_name_short)
+})
+# HELPER TEXT -------------------------------------------------------------
 output$outcome_description <- renderUI({
   req(input$question_name_short,
       input$strat, nrow(plot_data()) > 0)
-
   x  <- gsub(pattern = "[0-9]", '', input$question_name_short)
   if (nchar(x) == 0)
     return(" ")
@@ -174,12 +179,18 @@ output$outcome_description <- renderUI({
 
 })
 
-large_plot <- reactive({
-  flag_large_plot(x = plot_data(),
-                  input$strat,
-                  input$person_type,
-                  input$question_name_short)
+output$helper_weighted <- renderUI({
+  req(input$question_name_short,
+      input$strat, nrow(plot_data()) > 0)
+
+  if (input$person_type!="pat")
+    return(" ")
+  out_title <- tags$b(txt_weighted_helper_title)
+  tagList(out_title, txt_weighted_helper)
+
+
 })
+
 
 # PLOT --------------------------------------------------------------------
 
@@ -197,11 +208,11 @@ output$plot <- plotly::renderPlotly({
     long_title <- title_length > 150 | nchar(pretty_title_sub()) > 1
 
     # Axis labels
-    axis_title_y <- "Vægtet andel(%)"
+    axis_title_y <- "Vægtet andel(%)*"
     if (input$person_type == "paar") {
       axis_title_y <- "Andel(%)"
     } else if (hq()) {
-      axis_title_y <- "Vægtet mean"
+      axis_title_y <- "Vægtet mean*"
     }
     axis_title_x <-
       plot_data()[, strat][1]
@@ -259,9 +270,9 @@ output$table_rate <- renderDT({
   isolate({
     case <- case()
 
-    col_titles1 <- c("Vægtet andel(%)", "Vægtet antal")
+    col_titles1 <- c("Vægtet andel(%)*", "Vægtet antal*")
     col_titles2 <- c("Andel(%)", "Antal")
-    col_titles_mean <- c("Vægtet mean")
+    col_titles_mean <- c("Vægtet mean*")
 
 
     data_cols <- switch(

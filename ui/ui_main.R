@@ -48,12 +48,16 @@ tabPanel(
                     choices = character(0)
                   )
                 )),
-      # DESRIPTION OF SCALES ----------------------------------------------------
+
+# HELPER TEXT -------------------------------------------------------------
+fluidRow(
+  wellPanel(class = "well_description",
+            uiOutput("helper_weighted"))),
+
       fluidRow(
         wellPanel(class = "well_description",
                   uiOutput("outcome_description")))
-      ),
-
+    ),
 
         # OUTPUT ------------------------------------------------------------------
 
