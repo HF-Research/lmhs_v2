@@ -2,10 +2,10 @@ makeLeaflet <- function(
   map_data = map_data,
   fill_colors = fill_colors,
   label_popup = popup,
-  mini_map_lines = dk_sp$mini_map_lines,
-  element_id = "map"){
+  mini_map_lines = dk_sp$mini_map_lines){
 
-  leaflet(elementId = element_id,
+  leaflet(
+    # elementId = element_id,
           options = leafletOptions(minZoom = 7,
                                    preferCanvas = TRUE)) %>%
     setView(lng = 10.408,

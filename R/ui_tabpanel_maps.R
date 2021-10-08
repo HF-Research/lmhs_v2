@@ -1,6 +1,6 @@
 ui_tabpanel_map <- function(){
   tabPanel(
-  title = "Kort",
+  title = txt_tab_title_map,
   fluidRow(
     class = "row_outcome_title",
     column(
@@ -18,15 +18,15 @@ ui_tabpanel_map <- function(){
       12,
       align = "left",
       leafletOutput(
-        "map", width = 560, height = 550
+        "map", width = 570, height = 550
+      ),
+      fluidRow(
+        downloadButton(
+          outputId = "download_map",
+          label = paste0(txt_download),
+          class = "btn radiobtn btn-default",
+        )
       )
-      # fluidRow(
-      #   downloadButton(
-      #     outputId = "downloadMapsMale",
-      #     label = paste0(ui_download, " ", ui_sex_levels[2]),
-      #     class = "btn radiobtn btn-default",
-      #   )
-      # )
     ),
     br()
   )

@@ -441,6 +441,12 @@ font-size: 1.8rem;
 font-style: italic;
 }
 
+#outcome_title_sub_map{
+margin-top: -10px;
+font-size: 1.8rem;
+font-style: italic;
+}
+
 
 /******   SIZES OF CONATINERS/DIVS/ROWS ETC   *******/
 #col_input {

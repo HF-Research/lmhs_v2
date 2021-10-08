@@ -44,13 +44,13 @@ observe(label = "tabsMaps", {
   # Shows map tab only when geo data is selected
   shinyjs::toggle(
     condition = (input$strat=="Region"&&!hq()),
-    selector = paste0("#data_vis_tabs li a[data-value=", "Kort", "]")
+    selector = paste0("#data_vis_tabs li a[data-value=", txt_tab_title_map, "]")
   )
 })
 
 # Switch tabs when isGeo == FALSE
 observeEvent(label = "forceTabSwitchMap", input$strat, {
-  if (input$data_vis_tabs == "Kort" && input$strat!="Region")
+  if (input$data_vis_tabs == txt_tab_title_map && input$strat!="Region")
     updateTabsetPanel(session = session,
                       inputId = "data_vis_tabs",
                       selected = "Grafer")
@@ -339,11 +339,7 @@ map_data_obj <- reactive({
   )
 })
 
-output$map <- renderLeaflet({
-  req(input$strat == "Region",
-      input$question_name_short,
-      nrow(plot_data() > 0))
-
+leaflet_map <- reactive({
   if (hq()) {
     data_var <- "mean"
   } else{
@@ -351,11 +347,12 @@ output$map <- renderLeaflet({
   }
 
   map_data <- map_data_obj()
+
   legend_opacity = 0.9
 
   fill_data <- plot_data()[, min(get(data_var))]
   fill_data <-
-    c(fill_data, fill_data + max_diff_map_colors[[data_var]])
+    c(fill_data, fill_data + d$max_diff_map_colors[[data_var]])
   pal <-
     colorNumeric(palette = "YlOrRd", domain = fill_data, )
   # This is created so NA doesn't appear on the legend
@@ -375,12 +372,13 @@ output$map <- renderLeaflet({
   legend_title <- paste0(pretty_title_sub()," (%)") %>%
     gsub(": ", ": <br>", .)
 
-  makeLeaflet(
+
+  map <- makeLeaflet(
     map_data = map_data,
     fill_colors = fill_colors,
     label_popup = popup,
-    mini_map_lines = d$dk_sf_data$mini_map_lines,
-    element_id = "map_male"
+    mini_map_lines = d$dk_sf_data$mini_map_lines
+
   ) %>%
     addLegend(
       "topright",
@@ -393,5 +391,48 @@ output$map <- renderLeaflet({
       opacity = legend_opacity,
       labFormat = labelFormat(big.mark = ".", digits = 0)
     )
+  return(list(map=map,
+              fill_data=fill_data,
+              data_var=data_var))
+})
+
+output$map <- renderLeaflet({
+  req(input$strat == "Region",
+      input$question_name_short,
+      nrow(plot_data() > 0))
+
+  leaflet_map()$map
+
+
+
+
 
 })
+
+
+
+# DOWNLOAD BUTTONS --------------------------------------------------------
+output$download_map <- downloadHandler(
+  filename = "map_livetmedhjertesygdom.png",
+  content = function(file) {
+    make_static_map(
+      dat = leaflet_map()$fill_data,
+      map_obj = map_data_obj(),
+      mini_map_lines = d$dk_sf_data$mini_map_lines,
+      legend_text = pretty_title_sub(),
+      data_var= leaflet_map()$data_var,
+      plot_title = pretty_title(),
+      thousands_sep = ".",
+      dec_mark = ","
+    ) %>% ggsave(
+      filename = file,
+      plot = .,
+      width = 12,
+      height = 20,
+      units = "cm",
+      scale = 1.61
+    )
+
+  }
+)
+
