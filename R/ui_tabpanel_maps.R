@@ -18,7 +18,7 @@ ui_tabpanel_map <- function(){
       12,
       align = "left",
       leafletOutput(
-        "map", width = 420, height = 550
+        "map", width = 560, height = 550
       )
       # fluidRow(
       #   downloadButton(

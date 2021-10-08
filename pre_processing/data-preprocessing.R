@@ -200,9 +200,9 @@ scales_tmp <-
 scales_tmp[, text := converted_binary_text]
 scales_tmp[, converted_binary_text := NULL]
 scales <- rbind(scales, scales_tmp)
-scales[, var_name_short:=gsub(pattern = "[0-9]", '', var_name_short)] %>%
-  .[,var_name_short:=gsub(pattern = "^\\.", '', var_name_short)] %>%
-  .[,var_name_short:=str_trim(var_name_short)]
+scales[, var_name_short := gsub(pattern = "[0-9]", '', var_name_short)] %>%
+  .[, var_name_short := gsub(pattern = "^\\.", '', var_name_short)] %>%
+  .[, var_name_short := str_trim(var_name_short)]
 
 # TOPIC AND QUESTION ORDER ------------------------------------------------
 
@@ -247,8 +247,7 @@ strat_by_item <-
   )
 
 
-# SAVE --------------------------------------------------------------------
-
+# CLEANUP --------------------------------------------------------------------
 dat[, `:=`(
   q_number = NULL,
   q_pos1 = NULL,
@@ -286,100 +285,37 @@ setcolorder(
   )
 )
 
+
+
+# MAP COLOR SCALE ---------------------------------------------------------
+diff_percent <- function(x) {
+  y <- x[, diff(range(x$percent, na.rm = T))]
+  return(list(y, x$person_type[1]))
+}
+diff_mean <- function(x) {
+  y <- x[, diff(range(x$mean, na.rm = T))]
+  return(list(y, x$person_type[1]))
+}
+color_data  <- dat[strat == "Region" &
+      !(grepl("HeartQol", question_name_short)), diff_percent(.SD[, .(percent, person_type)]), by =
+      .(question_name_short,person_type)]
+max_diff_percent <- color_data[, max(V1)]
+
+
+color_data  <- dat[strat == "Region" &
+                     (grepl("HeartQol", question_name_short)), diff_mean(.SD[, .(mean, person_type)]), by =
+                     .(question_name_short,person_type)]
+
+max_diff_mean <- color_data[, max(V1)]
+max_diff_map_colors <- list("percent"=max_diff_percent, "mean"=max_diff_mean)
+# GEO PREP
+# SAVE --------------------------------------------------------------------
 saveRDS(dat, file = "cached_data/dat.rds")
 saveRDS(topics_by_person, file = "cached_data/topics_by_person.rds")
 saveRDS(q_by_topic_person, "cached_data/q_by_topic_person.rds")
 saveRDS(strat_by_item, "cached_data/strat_by_item.rds")
 saveRDS(scales, file = "cached_data/scales.rds")
-
-# GEO PREP ----------------------------------------------------------------
-# Here we perpare the base map and ensure that names are aligned to allow
-# merging with the health data in the Shiny app.
-
-# Additionally The island of Bornholm makes a map of Denmark awkward. To get
-# around this we mimic on inset map by moving the coordinates of Bornholm, then
-# putting inset lines around it
-l2 <- readRDS("data/DNK_adm2.rds")
-
-l2 <- st_as_sf(l2, coords = c("x", "y")) %>%
-  st_transform(crs = st_crs(4326))
-st_crs(l2) <- 4326
-l2 <-
-  l2 %>%
-  dplyr::select(OBJECTID, NAME_1, NAME_2) %>%
-  rename(id = OBJECTID,
-         name_kom = NAME_2,
-         region = NAME_1)
-
-
-l2$name_kom <- enc2native(l2$name_kom)
-l2$region <- enc2native(l2$region)
-l2[l2$name_kom == "Århus", ]$name_kom <- "Aarhus"
-l2[l2$name_kom == "Vesthimmerland", ]$name_kom <- "Vesthimmerlands"
-
-
-
-# Delete Christiansoe polygon
-l2 <- l2[l2$name_kom != "Christiansø", ]
-
-# Move Bornholm
-bornholm <- l2 %>% filter(name_kom == "Bornholm")
-b.geo <- st_geometry(bornholm) # Subset geometry of of object
-b.geo <- b.geo + c(-2.6, 1.35) # Move object
-st_geometry(bornholm) <- b.geo # Re-assign geometry to object
-
-# Replace bornholm in main sf object
-l2[l2$name_kom == "Bornholm", ] <- bornholm
-
-# Union kommune to regions
-regions <- unique(l2$region)
-geo_tmp <- list() # hold unioned regions
-attr_tmp <- list() # hold attributes for regions
-out_sf <- list()
-for (reg in regions) {
-  geo_tmp[[reg]] <- l2 %>% filter(region == reg) %>% st_union()
-  attr_tmp[[reg]] <-
-    l2 %>% filter(region == reg) %>% .[1, c("id", "region")] %>% st_drop_geometry()
-  out_sf[[reg]] <- st_as_sf(merge(geo_tmp[[reg]], attr_tmp[[reg]]))
-
-}
-
-l1 <- do.call("rbind", out_sf)
-colnames(l1) <- c("id", "name_kom", "geometry")
-l2$region <- NULL
-
-
-
-# Make map inset
-x_min <- 12.03
-x_max <- 12.63
-y_min <- 56.31
-y_max <- 56.68
-
-bottom_right <- c(x_max, y_min)
-bottom_left <- c(x_min, y_min)
-top_left <- c(x_min, y_max)
-top_right <- c(x_max, y_max)
-mini_map_lines <-
-  data.frame(rbind(bottom_right, bottom_left, top_left, top_right, bottom_right))
-mini_map_lines$name <- row.names(mini_map_lines)
-
-
-# Convert to sp obj for performance with leaflet
-l1_sf <- rmapshaper::ms_simplify(l1)
-l2_sf <- rmapshaper::ms_simplify(l2)
-
-
-dk_sf_data <- list(
-  l1 = l1_sf %>% as.data.table(),
-  l2 = l2_sf %>% as.data.table(),
-  mini_map_lines = mini_map_lines
-)
-
-# We don't need kommune level for LMHS
-dk_sf_data$l2 <- NULL
-
-saveRDS(dk_sf_data, file = "cached_data/dk_sf_data.rds")
+saveRDS(max_diff_map_colors, file = "cached_data/max_diff_map_colors.rds")
 
 # CSS PREPERATION ---------------------------------------------------------
 

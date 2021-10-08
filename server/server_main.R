@@ -27,7 +27,7 @@ observeEvent(input$topic, {
 })
 
 observeEvent(input$question_name_short, {
-req(input$question_name_short)
+  req(input$question_name_short)
   strat_choices <-
     d$strat_by_item[[paste0(input$person_type, ".", input$question_name_short)]]
   freezeReactiveValue(input, "strat")
@@ -38,6 +38,22 @@ req(input$question_name_short)
     choices = strat_choices,
     selected = strat_choices[1]
   )
+})
+
+observe(label = "tabsMaps", {
+  # Shows map tab only when geo data is selected
+  shinyjs::toggle(
+    condition = (input$strat=="Region"&&!hq()),
+    selector = paste0("#data_vis_tabs li a[data-value=", "Kort", "]")
+  )
+})
+
+# Switch tabs when isGeo == FALSE
+observeEvent(label = "forceTabSwitchMap", input$strat, {
+  if (input$data_vis_tabs == "Kort" && input$strat!="Region")
+    updateTabsetPanel(session = session,
+                      inputId = "data_vis_tabs",
+                      selected = "Grafer")
 })
 
 
@@ -55,8 +71,6 @@ plot_data <- reactive({
 # CASE --------------------------------------------------------------------
 case <- reactive({
   req(input$question_name_short)
-  hq <- F
-  hq <- grepl("HeartQol", input$question_name_short)
   case <- "pat_svar"
   if (input$person_type == "paar")
     if (input$strat == "Kon/alder") {
@@ -69,16 +83,22 @@ case <- reactive({
 
   else if (input$strat == "Kon/alder") {
     case <- "pat_age_sex"
-    if (hq)
+    if (hq())
       case <- "pat_age_sex_mean"
   } else if (input$strat != "Svar fordeling") {
     case <- "pat_strat"
-    if (hq)
+    if (hq())
       case <- "pat_strat_mean"
   }
   case
 })
 # PRETTY TEXT -------------------------------------------------------------
+hq <- reactive({
+  hq <- FALSE
+  hq <- grepl("HeartQol", input$question_name_short)
+  hq
+})
+
 pretty_title <- reactive({
   plot_title <-
     stringr::str_wrap(plot_data()[1]$questionText, width = 75)
@@ -87,8 +107,12 @@ pretty_title <- reactive({
 
 pretty_title_sub <- reactive({
   plot_title_sub <- ""
-  if (input$strat != "Svar fordeling") {
+  if (hq()) {
+    plot_title_sub <- "Max score er 3, højerer score er bedre"
+  }
+  else if (input$strat != "Svar fordeling") {
     plot_title_sub <- plot_data()$response[1]
+
   } else if (plot_data()[, converted_binary == 1][1]) {
     plot_title_sub <- plot_data()$converted_binary_response[1]
   }
@@ -104,7 +128,7 @@ output$outcome_title_sub_dt <- renderText({
   req(input$question_name_short,
       input$strat,
       nrow(plot_data()) > 0)
-pretty_title_sub()
+  pretty_title_sub()
 })
 output$outcome_title_map  <- renderText({
   req(input$strat)
@@ -160,194 +184,214 @@ large_plot <- reactive({
 # PLOT --------------------------------------------------------------------
 
 output$plot <- plotly::renderPlotly({
-  req(
-    input$topic,
-    input$question_name_short,
-    input$strat,
-    nrow(plot_data()) > 0
-  )
+  req(input$topic,
+      input$question_name_short,
+      input$strat,
+      nrow(plot_data()) > 0)
 
   input$strat
   input$question_name_short
   isolate({
+    large_plot <- large_plot()
+    title_length <- nchar(pretty_title())
+    long_title <- title_length > 150 | nchar(pretty_title_sub()) > 1
 
+    # Axis labels
+    axis_title_y <- "Vægtet andel(%)"
+    if (input$person_type == "paar") {
+      axis_title_y <- "Andel(%)"
+    } else if (hq()) {
+      axis_title_y <- "Vægtet mean"
+    }
+    axis_title_x <-
+      plot_data()[, strat][1]
+    if (input$strat == "Svar fordeling") {
+      axis_title_x <- ""
+    }
 
-  hq <- FALSE
-  hq <- grepl("HeartQol", input$question_name_short)
+    # Formatting
+    axis_font_size <- 20
+    tick_font_size <- 15
+    legend_font_size <- 20
 
-  large_plot <- large_plot()
-
-  # Title
-  plot_title  <- pretty_title()
-  plot_title_sub <- ""
-  if (hq) {
-    plot_title_sub <- "Max score er 3, højerer score er bedre"
-  }
-  else if (input$strat != "Svar fordeling") {
-    plot_title_sub <- plot_data()$response[1]
-
-  } else if (plot_data()[, converted_binary == 1][1]) {
-    plot_title_sub <- plot_data()$converted_binary_response[1]
-  }
-
-  title_length <- nchar(plot_title)
-  long_title <- title_length > 150 | nchar(plot_title_sub) > 1
-
-  # Axis labels
-  axis_title_y <- "Væget andel(%)"
-  if (input$person_type == "paar") {
-    axis_title_y <- "Andel(%)"
-  } else if (hq) {
-    axis_title_y <- "Væget mean"
-  }
-
-
-  axis_title_x <-
-    plot_data()[, strat][1]
-  if (input$strat == "Svar fordeling") {
-    axis_title_x <- ""
-  }
-
-  # Formatting
-  axis_font_size <- 20
-  tick_font_size <- 15
-  legend_font_size <- 20
-
-  if (large_plot) {
-    tmp <- axis_title_x
-    axis_title_x <- axis_title_y
-    axis_title_y <- tmp
-    tick_font_size <- 13
-  }
-
-
-  # Action
-  plot <- make_plotly(
-    strat = input$strat,
-    dat = plot_data(),
-    q = input$question_name_short,
-    large_plot = large_plot,
-    axis_title_x = axis_title_x,
-    num_digits = 1,
-    hq = hq
-  )
-  format_plotly(
-    plot_out = plot$plot,
-    large_plot = large_plot,
-    hq = hq,
-    long_title = long_title,
-    plot_title = plot_title,
-    plot_title_sub = plot_title_sub,
-    axis_title_x = axis_title_x,
-    axis_title_y = axis_title_y,
-    axis_font_size = axis_font_size,
-    tick_font_size = tick_font_size,
-    legend_font_size = legend_font_size,
-    num_digits = 1
-  )
-})
+    if (large_plot) {
+      tmp <- axis_title_x
+      axis_title_x <- axis_title_y
+      axis_title_y <- tmp
+      tick_font_size <- 13
+    }
+    # Action
+    plot <- make_plotly(
+      strat = input$strat,
+      dat = plot_data(),
+      q = input$question_name_short,
+      large_plot = large_plot,
+      axis_title_x = axis_title_x,
+      num_digits = 1,
+      hq = hq()
+    )
+    format_plotly(
+      plot_out = plot$plot,
+      large_plot = large_plot,
+      hq = hq(),
+      long_title = long_title,
+      plot_title = pretty_title(),
+      plot_title_sub = pretty_title_sub(),
+      axis_title_x = axis_title_x,
+      axis_title_y = axis_title_y,
+      axis_font_size = axis_font_size,
+      tick_font_size = tick_font_size,
+      legend_font_size = legend_font_size,
+      num_digits = 1
+    )
+  })
 })
 
 
 # TABLES ------------------------------------------------------------------
 output$table_rate <- renderDT({
-  req(
-    input$topic,
-    input$question_name_short,
-    input$strat,
-    nrow(plot_data()) > 0
-  )
+  req(input$topic,
+      input$question_name_short,
+      input$strat,
+      nrow(plot_data()) > 0)
   input$strat
   input$question_name_short
-isolate({
-  case <- case()
+  isolate({
+    case <- case()
 
-  col_titles1 <- c("Væget andel(%)", "Væget antal")
-  col_titles2 <- c("Andel(%)", "Antal")
-  col_titles_mean <- c("Væget mean")
-
-
-  data_cols <- switch(
-    case,
-    "pat_svar" = col_titles1,
-    "pat_age_sex" = col_titles1,
-    "pat_age_sex_mean" = col_titles_mean,
-    "pat_strat" = col_titles1,
-    "pat_strat_mean" = col_titles_mean,
-    "paar_svar" = col_titles2,
-    "paar_age_sex" = col_titles2,
-    "paar_strat" = col_titles2
-  )
+    col_titles1 <- c("Vægtet andel(%)", "Vægtet antal")
+    col_titles2 <- c("Andel(%)", "Antal")
+    col_titles_mean <- c("Vægtet mean")
 
 
-  dat <- switch(
-    case,
-    "pat_svar" = plot_data()[, .(response, percent, count)],
-    "pat_age_sex" = plot_data()[, .(Kon, Alder, percent, count)],
-    "pat_age_sex_mean" = plot_data()[, .(Kon, Alder, mean)],
-    "pat_strat" = plot_data()[, .(strat_level, percent, count)],
-    "pat_strat_mean" = plot_data()[, .(strat_level, mean)],
-    "paar_svar" = plot_data()[, .(response, percent, count)],
-    "paar_strat" = plot_data()[, .(strat_level, percent, count)],
-    "paar_age_sex" = plot_data()[, .(Kon, Alder, percent, count)]
-  )
-  tmp <- c(plot_data()$strat[1], data_cols)
-  age_sex_tmp <- c("Kon", "Alder", data_cols)
-  col_titles <- switch(
-    case,
-    "pat_svar" = c("Svar", data_cols),
-    "pat_age_sex" = age_sex_tmp,
-    "pat_age_sex_mean" = age_sex_tmp,
-    "pat_strat" = tmp,
-    "pat_strat_mean" = tmp,
-    "paar_svar" = c("Svar", data_cols),
-    "paar_strat" = tmp,
-    "paar_age_sex" = age_sex_tmp
-  )
+    data_cols <- switch(
+      case,
+      "pat_svar" = col_titles1,
+      "pat_age_sex" = col_titles1,
+      "pat_age_sex_mean" = col_titles_mean,
+      "pat_strat" = col_titles1,
+      "pat_strat_mean" = col_titles_mean,
+      "paar_svar" = col_titles2,
+      "paar_age_sex" = col_titles2,
+      "paar_strat" = col_titles2
+    )
 
-  dt_title <- pretty_title()
-  if (large_plot()) {
-    setorder(dat, -percent)
-  }
 
-  names(dat) <- col_titles
-  messageTop = "t"
-  messageBottom = "bottom"
-  n_col <- ncol(dat)
-  make_dt_rate(
-    dat = dat,
-    col_titles = col_titles,
-    dt_title = dt_title,
-    messageTop = messageTop,
-    n_col = n_col,
-    messageBottom = messageBottom,
-    thousands_sep = thousands_sep,
-    dec_mark = dec_mark,
-    digits = 1,
-    case = case
-  )
-})
+    dat <- switch(
+      case,
+      "pat_svar" = plot_data()[, .(response, percent, count)],
+      "pat_age_sex" = plot_data()[, .(Kon, Alder, percent, count)],
+      "pat_age_sex_mean" = plot_data()[, .(Kon, Alder, mean)],
+      "pat_strat" = plot_data()[, .(strat_level, percent, count)],
+      "pat_strat_mean" = plot_data()[, .(strat_level, mean)],
+      "paar_svar" = plot_data()[, .(response, percent, count)],
+      "paar_strat" = plot_data()[, .(strat_level, percent, count)],
+      "paar_age_sex" = plot_data()[, .(Kon, Alder, percent, count)]
+    )
+    tmp <- c(plot_data()$strat[1], data_cols)
+    age_sex_tmp <- c("Kon", "Alder", data_cols)
+    col_titles <- switch(
+      case,
+      "pat_svar" = c("Svar", data_cols),
+      "pat_age_sex" = age_sex_tmp,
+      "pat_age_sex_mean" = age_sex_tmp,
+      "pat_strat" = tmp,
+      "pat_strat_mean" = tmp,
+      "paar_svar" = c("Svar", data_cols),
+      "paar_strat" = tmp,
+      "paar_age_sex" = age_sex_tmp
+    )
+
+    dt_title <- pretty_title()
+    if (large_plot()) {
+      setorder(dat, -percent)
+    }
+
+    names(dat) <- col_titles
+    messageTop = "t"
+    messageBottom = "bottom"
+    n_col <- ncol(dat)
+    make_dt_rate(
+      dat = dat,
+      col_titles = col_titles,
+      dt_title = dt_title,
+      messageTop = messageTop,
+      n_col = n_col,
+      messageBottom = messageBottom,
+      thousands_sep = thousands_sep,
+      dec_mark = dec_mark,
+      digits = 1,
+      case = case
+    )
+  })
 })
 
 # MAPS --------------------------------------------------------------------
 
 map_data_obj <- reactive({
-  browser()
   dat <-
     copy(plot_data()) # Make copy so not corrupt reactive data
 
   map_data(
     dat = dat,
     data_var = "percent",
-    map_obj = mapObj()
+    map_obj = d$dk_sf_data$l1
   )
 })
 
 output$map <- renderLeaflet({
-  browser()
-  req(input$strat, input$question_name_short, nrow(plot_data()>0))
+  req(input$strat == "Region",
+      input$question_name_short,
+      nrow(plot_data() > 0))
 
-  map_data_obj()
+  if (hq()) {
+    data_var <- "mean"
+  } else{
+    data_var <- "percent"
+  }
+
+  map_data <- map_data_obj()
+  legend_opacity = 0.9
+
+  fill_data <- plot_data()[, min(get(data_var))]
+  fill_data <-
+    c(fill_data, fill_data + max_diff_map_colors[[data_var]])
+  pal <-
+    colorNumeric(palette = "YlOrRd", domain = fill_data, )
+  # This is created so NA doesn't appear on the legend
+  pal_NA <- colorNumeric("YlOrRd", fill_data, na.color = rgb(0, 0, 0, 0))
+
+  fill_colors <-
+    ~ pal(map_data[[data_var]])
+  popup_text <- pretty_title_sub() %>%
+    gsub(": ", ": <br>", .)
+  popup <-
+    make_leaflet_popup(
+      geo_name = map_data[["Region"]],
+      var_title1 = popup_text,
+      data = map_data[[data_var]],
+      percent = !hq()
+    )
+  legend_title <- paste0(pretty_title_sub()," (%)") %>%
+    gsub(": ", ": <br>", .)
+
+  makeLeaflet(
+    map_data = map_data,
+    fill_colors = fill_colors,
+    label_popup = popup,
+    mini_map_lines = d$dk_sf_data$mini_map_lines,
+    element_id = "map_male"
+  ) %>%
+    addLegend(
+      "topright",
+      pal = pal_NA,
+      values = fill_data,
+      title = legend_title,
+      bins = 4,
+      na.label = "",
+      layerId = "legend",
+      opacity = legend_opacity,
+      labFormat = labelFormat(big.mark = ".", digits = 0)
+    )
 
 })
-

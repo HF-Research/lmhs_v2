@@ -16,6 +16,7 @@ suppressPackageStartupMessages({
   library(magrittr)
   library(stringr)
   library(leaflet)
+  library(sf)
 })
 
 # LOAD R CODE -------------------------------------------------------------
