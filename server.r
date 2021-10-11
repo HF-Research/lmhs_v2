@@ -3,6 +3,9 @@ shinyServer(function(input, output, session) {
   source(file.path("server", "server_main.R"),
          encoding = "UTF-8",
          local = TRUE)$value
+  source(file.path("server", "server_about.R"),
+         encoding = "UTF-8",
+         local = TRUE)$value
 
   # POPUP IE WARNING --------------------------------------------------------
 

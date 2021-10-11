@@ -2,7 +2,7 @@
 # fliped x-y axis)
 flag_large_plot <- function(x, strat, person_type, q) {
   never_large <-
-    strat == "Kon/alder" |
+    strat == "Køn/alder" |
     (
       person_type == "paar" &
         (

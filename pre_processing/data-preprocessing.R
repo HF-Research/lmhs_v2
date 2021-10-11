@@ -13,21 +13,22 @@ labels <-
 scales <- fread("data/scales_description.csv", encoding = "UTF-8")
 converted_binary <-
   fread("data/converted_binary.csv", encoding = "UTF-8")
-
+setnames(dat, "Kon", "Køn")
 
 # RECODE VARIABLES --------------------------------------------------------
 dat[, non_strat := "strat"]
 dat[strat == "non_stratified", non_strat := "non_strat"]
-dat[strat == "non_stratified", strat := "Svar fordeling"]
+dat[strat == "non_stratified", strat := "Svarfordeling"]
 dat[, converted_binary := 0]
 dat[strat == "converted_binary", converted_binary := 1]
-dat[strat == "converted_binary", strat := "Svar fordeling"]
-dat[strat == "age_sex", strat := "Kon/alder"]
-dat[Kon == "male", Kon := "Mand"]
-dat[Kon == "female", Kon := "Kvinde"]
+dat[strat == "converted_binary", strat := "Svarfordeling"]
+dat[strat == "Kon/alder", strat := "Køn/alder"]
+dat[strat == "age_sex", strat := "Køn/alder"]
+dat[Køn == "male", Køn := "Mand"]
+dat[Køn == "female", Køn := "Kvinde"]
 dat[, percent := round(percent, digits = 1)]
 dat[, count := round(count)]
-dat <- dat[!(strat == "Svar fordeling" & grepl("hq_", item))]
+dat <- dat[!(strat == "Svarfordeling" & grepl("hq_", item))]
 dat <- dat[!(patient_data == F & item == "s_1")]
 
 
@@ -220,6 +221,7 @@ dat[, ui_order := 1:nrow(dat)]
 
 # SETUP UI CHOICES --------------------------------------------------------
 # List topics that should be shown depending on person_type selected
+
 topics_by_person <-
   split(dat, by = "person_type") %>% map(
     .x = .,
@@ -274,7 +276,7 @@ setcolorder(
     "count",
     "strat",
     "mean",
-    "Kon",
+    "Køn",
     "Alder",
     "non_strat",
     "questionText",
@@ -308,8 +310,8 @@ color_data  <- dat[strat == "Region" &
 
 max_diff_mean <- color_data[, max(V1)]
 max_diff_map_colors <- list("percent"=max_diff_percent, "mean"=max_diff_mean)
-# GEO PREP
-#
+
+# GEO-PREP ----------------------------------------------------------------
 # Here we perpare the base map and ensure that names are aligned to allow
 # merging with the health data in the Shiny app.
 
@@ -401,6 +403,13 @@ saveRDS(q_by_topic_person, "cached_data/q_by_topic_person.rds")
 saveRDS(strat_by_item, "cached_data/strat_by_item.rds")
 saveRDS(scales, file = "cached_data/scales.rds")
 saveRDS(max_diff_map_colors, file = "cached_data/max_diff_map_colors.rds")
+
+
+# ABOUT TEXT --------------------------------------------------------------
+source("R/txt_ui_objects.R")
+
+
+
 
 # CSS PREPERATION ---------------------------------------------------------
 

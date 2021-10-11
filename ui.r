@@ -16,14 +16,20 @@ ui <- function(request) {
         align = "left",
         style = "padding-top: 20px; padding-bottom: 40px; padding-left: 2.5rem;",
         height = "110px"
-      ), href = "https://hjerteforeningen.dk/", target ="_blank"),
+      ),
+      href = "https://hjerteforeningen.dk/",
+      target = "_blank"
+    ),
     tags$a(
       img(
         src = "LMH_logo4_cropped.png",
         align = "left",
         style = "padding-top: 1px; padding-bottom: 5px; padding-left: 2.5rem;",
         height = "110px"
-      ), href = "https://hjerteforeningen.dk/", target ="_blank"),
+      ),
+      href = "https://hjerteforeningen.dk/",
+      target = "_blank"
+    ),
     fluidPage(
       div(style = "padding-left: 0px; padding-right: 0px;",
           titlePanel(
@@ -43,9 +49,7 @@ ui <- function(request) {
       collapsible = TRUE,
       selected = "main",
       source(file.path("ui", "ui_main.R"), local = TRUE)$value,
-      source(file.path(
-        "ui", "ui_about.R"
-      ), local = TRUE)$value
+      source(file.path("ui", "ui_about.R"), local = TRUE)$value
 
 
     )

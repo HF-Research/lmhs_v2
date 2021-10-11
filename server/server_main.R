@@ -73,19 +73,19 @@ case <- reactive({
   req(input$question_name_short)
   case <- "pat_svar"
   if (input$person_type == "paar")
-    if (input$strat == "Kon/alder") {
+    if (input$strat == "Køn/alder") {
       case <- "paar_age_sex"
-    } else if (input$strat != "Svar fordeling") {
+    } else if (input$strat != "Svarfordeling") {
       case <- "paar_strat"
     } else{
       case <- "paar_svar"
     }
 
-  else if (input$strat == "Kon/alder") {
+  else if (input$strat == "Køn/alder") {
     case <- "pat_age_sex"
     if (hq())
       case <- "pat_age_sex_mean"
-  } else if (input$strat != "Svar fordeling") {
+  } else if (input$strat != "Svarfordeling") {
     case <- "pat_strat"
     if (hq())
       case <- "pat_strat_mean"
@@ -110,7 +110,7 @@ pretty_title_sub <- reactive({
   if (hq()) {
     plot_title_sub <- "Max score er 3, højerer score er bedre"
   }
-  else if (input$strat != "Svar fordeling") {
+  else if (input$strat != "Svarfordeling") {
     plot_title_sub <- plot_data()$response[1]
 
   } else if (plot_data()[, converted_binary == 1][1]) {
@@ -216,7 +216,7 @@ output$plot <- plotly::renderPlotly({
     }
     axis_title_x <-
       plot_data()[, strat][1]
-    if (input$strat == "Svar fordeling") {
+    if (input$strat == "Svarfordeling") {
       axis_title_x <- ""
     }
 
@@ -291,16 +291,16 @@ output$table_rate <- renderDT({
     dat <- switch(
       case,
       "pat_svar" = plot_data()[, .(response, percent, count)],
-      "pat_age_sex" = plot_data()[, .(Kon, Alder, percent, count)],
-      "pat_age_sex_mean" = plot_data()[, .(Kon, Alder, mean)],
+      "pat_age_sex" = plot_data()[, .(Køn, Alder, percent, count)],
+      "pat_age_sex_mean" = plot_data()[, .(Køn, Alder, mean)],
       "pat_strat" = plot_data()[, .(strat_level, percent, count)],
       "pat_strat_mean" = plot_data()[, .(strat_level, mean)],
       "paar_svar" = plot_data()[, .(response, percent, count)],
       "paar_strat" = plot_data()[, .(strat_level, percent, count)],
-      "paar_age_sex" = plot_data()[, .(Kon, Alder, percent, count)]
+      "paar_age_sex" = plot_data()[, .(Køn, Alder, percent, count)]
     )
     tmp <- c(plot_data()$strat[1], data_cols)
-    age_sex_tmp <- c("Kon", "Alder", data_cols)
+    age_sex_tmp <- c("Køn", "Alder", data_cols)
     col_titles <- switch(
       case,
       "pat_svar" = c("Svar", data_cols),

@@ -6,7 +6,7 @@ make_plotly <-
            axis_title_x,
            num_digits,
            hq) {
-    if (strat == "Svar fordeling") {
+    if (strat == "Svarfordeling") {
       plot_out <- dat %>%
         plot_ly()
 
@@ -27,12 +27,13 @@ make_plotly <-
     }
 
 
-    if (strat == "Kon/alder") {
+    if (strat == "Køn/alder") {
       tooltip <-
         paste0("%{text}: <br><b>%{y:,.",
                num_digits,
                "f}<extra></extra>")
-      dat <- dat[Kon != "Total"]
+
+      dat <- dat[get(txt_sex) != "Total"]
 
       if (hq) {
         plot_out <- dat %>%
@@ -40,8 +41,8 @@ make_plotly <-
           add_trace(
             x = ~ Alder,
             y = ~ mean,
-            color = ~ Kon,
-            text =  ~ Kon,
+            color = ~ get(txt_sex),
+            text =  ~ get(txt_sex),
             colors = graph_colors,
             type = "bar",
             hovertemplate = tooltip
@@ -53,8 +54,8 @@ make_plotly <-
         add_trace(
           x = ~ Alder,
           y = ~ percent,
-          color = ~ Kon,
-          text =  ~ Kon,
+          color = ~ get(txt_sex),
+          text =  ~ get(txt_sex),
           colors = graph_colors,
           type = "bar",
           hovertemplate = tooltip
@@ -93,6 +94,7 @@ format_plotly <-
            tick_font_size,
            legend_font_size,
            num_digits) {
+    bar_gap <- 0.4
     plot_out <- plot_out %>%
       layout(
         margin = list(t = 90),
@@ -154,7 +156,8 @@ format_plotly <-
     } else if (!hq) {
       plot_out <- plot_out %>%
         layout(hovermode = "x unified",
-               yaxis = list(range = c(0, 100))) %>%
+               yaxis = list(range = c(0, 100)),
+               bargap=bar_gap) %>%
         config(toImageButtonOptions = list(
           filename = paste0("LMHS- "),
           width = 1000,
@@ -164,7 +167,9 @@ format_plotly <-
     } else{
       plot_out <- plot_out %>%
         layout(hovermode = "x unified",
-               yaxis = list(range = c(0, 3))) %>%
+               yaxis = list(range = c(0, 3)),
+               bargap=bar_gap
+               ) %>%
         config(toImageButtonOptions = list(
           filename = paste0("LMHS- "),
           width = 1000,

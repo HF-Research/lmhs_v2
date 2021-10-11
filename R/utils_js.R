@@ -7,3 +7,9 @@ header_JS <- function(background_color, text_color){
     )
   )
 }
+
+buttit_html <- function(x){
+  paste0("<ui><li>",
+       paste0(x, collapse = "</li><li>"),
+       "</ui></li>")
+}
