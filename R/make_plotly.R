@@ -111,11 +111,13 @@ format_plotly <-
                       size = 25)
         ),
         xaxis = list(
+          fixedrange = TRUE,
           title = list(text = axis_title_x,
                        font = list(size = axis_font_size)),
           tickfont = list(size = tick_font_size)
         ),
         yaxis = list(
+          fixedrange = TRUE,
           title = list(text = axis_title_y,
                        font = list(size = axis_font_size)),
           tickfont = list(size = tick_font_size),

@@ -1,8 +1,11 @@
-library(data.table)
+library(dplyr)
 library(purrr)
 library(stringr)
 library(sp)
 library(sf)
+library(purrr)
+library(rmapshaper)
+library(data.table)
 # LOAD DATA ---------------------------------------------------------------
 dat <- fread(input = "data/export.txt", encoding = "Latin-1")
 topics <- fread("data/topics.csv", encoding = "UTF-8")
@@ -56,7 +59,7 @@ struc <- imap(struc, function(i, nm) {
 dat_ls <-
   pmap(list(dat_ls, topics_ls, struc, labels), function(dat_i, topic_i, struc_i, labels_i) {
     for (i in seq_len(nrow(topic_i))) {
-      struc_i[between(
+      struc_i[data.table::between(
         x = question_integer,
         lower = topic_i$question_start[i],
         upper = topic_i$question_end[i],
@@ -131,16 +134,16 @@ dat[is.na(questionText), questionText := tmp]
 i <-
   grepl("\\.\\.\\. Sæt ét kryds i hver linje - ", dat$questionText)
 dat[, questionText := gsub("\\.\\.\\. Sæt ét kryds i hver linje - ", " ", dat$questionText)]
-dat[i, questionText := stringr::str_to_sentence(questionText)]
+dat[i, questionText := str_to_sentence(questionText)]
 
 dat[, questionText := gsub(" - Andet, skriv venligst:", " ", dat$questionText)]
 
 i <- grepl("Sæt ét eller flere kryds", dat$questionText)
 dat[, questionText := gsub("Sæt ét eller flere kryds", " ", dat$questionText)]
-dat[i, questionText := stringr::str_to_sentence(questionText)]
+dat[i, questionText := str_to_sentence(questionText)]
 
-dat[, response := stringr::str_wrap(response, width = 30)]
-dat[, strat_level := stringr::str_wrap(strat_level, width = 25)]
+dat[, response := str_wrap(response, width = 30)]
+dat[, strat_level := str_wrap(strat_level, width = 25)]
 
 dat[, question_name_short := paste0(question_number, " ", question_name_short)]
 # TITLES FOR STRAT RESPONESES ---------------------------------------------
@@ -299,8 +302,8 @@ diff_mean <- function(x) {
   return(list(y, x$person_type[1]))
 }
 color_data  <- dat[strat == "Region" &
-      !(grepl("HeartQol", question_name_short)), diff_percent(.SD[, .(percent, person_type)]), by =
-      .(question_name_short,person_type)]
+                     !(grepl("HeartQol", question_name_short)), diff_percent(.SD[, .(percent, person_type)]), by =
+                     .(question_name_short,person_type)]
 max_diff_percent <- color_data[, max(V1)]
 
 
@@ -325,7 +328,7 @@ l2 <- st_as_sf(l2, coords = c("x", "y")) %>%
 st_crs(l2) <- 4326
 l2 <-
   l2 %>%
-  dplyr::select(OBJECTID, NAME_1, NAME_2) %>%
+  select(OBJECTID, NAME_1, NAME_2) %>%
   rename(id = OBJECTID,
          name_kom = NAME_2,
          region = NAME_1)

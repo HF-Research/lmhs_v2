@@ -5,6 +5,6 @@ account: cars-online
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4799004
-bundleId: 5126490
+bundleId: 5127175
 url: https://hjerteforeningen.shinyapps.io/LMHS/
-when: 1633950277.62145
+when: 1633962094.46139

@@ -101,7 +101,7 @@ hq <- reactive({
 
 pretty_title <- reactive({
   plot_title <-
-    stringr::str_wrap(plot_data()[1]$questionText, width = 75)
+    str_wrap(plot_data()[1]$questionText, width = 75)
   plot_title
 })
 
@@ -194,7 +194,7 @@ output$helper_weighted <- renderUI({
 
 # PLOT --------------------------------------------------------------------
 
-output$plot <- plotly::renderPlotly({
+output$plot <- renderPlotly({
   req(input$topic,
       input$question_name_short,
       input$strat,

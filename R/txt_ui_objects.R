@@ -1,3 +1,18 @@
+
+# FUNCTIONS ---------------------------------------------------------------
+
+buttit_html <- function(x){
+  paste0("<ui><li>",
+         paste0(x, collapse = "</li><li>"),
+         "</ui></li>")
+}
+
+
+
+# INPUTS ------------------------------------------------------------------
+
+
+
 ui_main_title <- "Resultater"
 choose_person_type <- enc2utf8("Vælg patient eller pårørende")
 person_type_choices <- enc2utf8(c("pat", "paar"))
@@ -19,10 +34,52 @@ txt_weighted_helper <-
 alder og uddannelse."
 
 
-
-#  READER'S GUIDE ---------------------------------------------------------
+# READER'S GUIDE ---------------------------------------------------------
 
 ui_guide_title <- "Læsevejledning"
+
+
+guide_text <- list(
+  "Databasen rummer resultaterne af den nationale spørgeskemaundersøgelse
+  ‘Livet med en hjertesygdom’ fra 2020/2021, og den giver dig mulighed for at
+  dykke ned i resultaterne fra både patient- og pårørendeundersøgelsen samt
+  eventuelt at downloade data eller figurer/tabeller.",
+  "<b>Sådan bruger du databasen</b>",
+
+  "På forsiden vælger du i boksen øverst til venstre, om du vil se
+  resultaterne for patient- eller pårørendeundersøgelsen.",
+
+  "Under menuen ’Vælg emne’ vælger du dernæst, hvilket tema fra spørgeskemaet,
+  du vil se nærmere på, f.eks.: ’Behandling på sygehuset’.",
+
+  "I menuen ’Vælg spørgsmål’ fremgår nu samtlige spørgsmål inden for det
+  valgte emne. Når et spørgsmål er valgt, vises svarfordelingen på det
+  specifikke spørgsmål. Øverst i billedet har du mulighed for at vælge, om du
+  vil have svarfordelingen vist som graf eller tabel.",
+
+  "Under fanen ’Stratifikationer’ kan du for visse spørgsmål også vælge at få
+  vist besvarelserne opdelt på f.eks. køn/alder, diagnose, uddannelsesniveau
+  eller bopælsregion. I disse tilfælde gøres der opmærksom på, at resultaterne
+  præsenteres med et problemorienteret fokus. Et eksempel herpå kunne være, at
+  det kun er andelen af hjertepatienter, der svarede, at de i mindre grad
+  eller slet ikke var trygge ved at komme hjem fra sygehuset, der vises.",
+
+
+  "Download af graf: En graf hentes ved at trykke på det lille kamera-ikon i
+  øverste højre hjørne af grafen. ",
+  "Download af tabel: En tabel hentes eller kopieres ved at trykke på ’PDF’
+  eller ’Copy’ under tabellen.",
+
+  "<b>Vægtning i patientundersøgelsen</b>",
+  "Der gøres opmærksom på, at de beregnede andele i patientundersøgelsen er
+  blevet vægtet for såkaldt non response (ikke-deltagelse) for at sikre, at de
+  personer som deltog i undersøgelsen, lignede den generelle hjertepatient i
+  Danmark så godt som mulig.",
+
+  "Du har under fanen ’Metode’ i den røde menu-bjælke mulighed for at læse
+  mere om undersøgelsen og dens metodiske fremgangsmåder."
+
+)
 # ABOUT SETUP-------------------------------------------------------------------
 ui_about_title <- "Metode"
 about_selection <- "Vælg emne:"
@@ -105,7 +162,7 @@ Region Sjælland, Region Hovedstaden)",
   )
 )
 
-buttet_html_ls <- map(bullets, buttit_html)
+buttet_html_ls <- lapply(bullets, buttit_html)
 
 # ABOUT TEXT --------------------------------------------------------------
 

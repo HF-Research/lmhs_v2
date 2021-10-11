@@ -49,6 +49,7 @@ ui <- function(request) {
       collapsible = TRUE,
       selected = "main",
       source(file.path("ui", "ui_main.R"), local = TRUE)$value,
+      source(file.path("ui", "ui_guide.R"), local = TRUE)$value,
       source(file.path("ui", "ui_about.R"), local = TRUE)$value
 
 

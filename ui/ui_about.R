@@ -7,7 +7,7 @@ tabPanel(
   fluidRow(
     column(
       3,
-      class = "about_well",
+      class = "about_well_lmhs",
       radioGroupButtons(
         inputId = "about_selection",
         label = about_selection,
@@ -19,7 +19,7 @@ tabPanel(
     ),
     column(
       9,
-      class = "col_about_text",
+      class = "col_about_text_lmhs",
       fluidRow(h3(textOutput("ui_about_section_title"))),
       fluidRow(uiOutput("ui_about_desc"))
 
