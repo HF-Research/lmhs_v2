@@ -6,7 +6,7 @@ makeLeaflet <- function(
 
   leaflet(
     # elementId = element_id,
-          options = leafletOptions(minZoom = 7,
+          options = leafletOptions(zoomControl = FALSE,
                                    preferCanvas = TRUE)) %>%
     setView(lng = 10.408,
             lat = 56.199752,

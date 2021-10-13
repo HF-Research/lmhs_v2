@@ -1062,7 +1062,8 @@ NA 70 5.7660626029654 "converted_binary" "s_195" "Gav flere konflikter med den h
 NA 110 9.0684253915911 "converted_binary" "s_195" "Gjorde at dine drømme om fremtiden er bristet" NA FALSE NA NA
 NA 659 54.3281121187139 "converted_binary" "s_195" "Gav dig øget opmærksomhed på de vigtige ting i livet" NA FALSE NA NA
 NA 900 74.318744838976 "converted_binary" "s_87" "Samtaler med en psykolog" NA FALSE NA NA
-NA 873 72.0891824938068 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
+NA 134 28.3898305084746 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
+NA 134 28.3898305084746 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
 NA 844 69.6944673823287 "converted_binary" "s_87" "Samtaler med socialrådgiver" NA FALSE NA NA
 NA 787 64.9876135425268 "converted_binary" "s_87" "Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m." NA FALSE NA NA
 NA 864 71.345995045417 "converted_binary" "s_87" "Aflastning ift. praktiske opgaver" NA FALSE NA NA

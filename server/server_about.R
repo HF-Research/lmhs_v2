@@ -1,5 +1,3 @@
-
-
 # DATATABLES --------------------------------------------------------------
 aboutFAQDT <- reactive({
   colnames(about_dat_faq) <- col_names_faq
@@ -24,15 +22,8 @@ aboutFAQDT <- reactive({
 })
 
 aboutDiagDT <- reactive({
-  col_subset <-
-    c("name",
-      "desc",
-      "code_simple",
-      "diag_type",
-      "pat_type")
-  diag <- about_dat_diag[, ..col_subset]
-  colnames(diag) <- col_names_diag
-  makeAboutTables(diag, col_names_diag)
+  col_names_diag <- names(d$diag)
+  make_about_tables(d$diag, col_names_diag)
 
 })
 
@@ -63,6 +54,7 @@ output$ui_about_section_title <- renderText({
 
 output$ui_about_desc <- renderUI({
   x <- about_text[[input$about_selection]]
+
   HTML(paste0(x, collapse = "<br><br>"))
 })
 
@@ -74,8 +66,28 @@ output$table_faq <- renderDT({
 }, server = FALSE)
 
 output$table_diag <- renderDT({
+  if(input$about_selection!="pop")
+    return(NULL)
   aboutDiagDT()
 }, server = FALSE)
 output$table_edu <- renderDT({
   aboutEduDT()
 }, server = FALSE)
+
+
+# DOWNLOAD CUTPOINTS ------------------------------------------------------
+
+output$download_pat <- downloadHandler(
+  filename = "variable_cutpoints_patienter.pdf",
+  content = function(file) {
+    file.copy("pre_processing/cp.pdf", file)
+  }
+)
+
+output$download_paar <- downloadHandler(
+  filename = "variable_cutpoints_paaroerende.pdf",
+  content = function(file) {
+    file.copy("pre_processing/cp_paar.pdf", file)
+  }
+)
+

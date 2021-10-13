@@ -1,0 +1,400 @@
+﻿Spørgsmål,Svarmuligheder,Operationalisering (cut-points),Group
+1. Hvor gammel er du (i antal år)?,,,
+2. Hvad er din relation til den hjertesyge?,Jeg er ægtefælle eller partner,,
+2. Hvad er din relation til den hjertesyge?,Jeg er søn/datter,,
+2. Hvad er din relation til den hjertesyge?,Jeg er forælder,,
+2. Hvad er din relation til den hjertesyge?,Jeg er bror/søster,,
+2. Hvad er din relation til den hjertesyge?,Jeg er anden familie,,
+2. Hvad er din relation til den hjertesyge?,"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)",,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Praktisk hjælp (transport, indkøb, madlavning, oprydning, rengøring o.l.) ",Slet ikke,2,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Praktisk hjælp (transport, indkøb, madlavning, oprydning, rengøring o.l.) ",Lidt,1,Hjalp med: Praktisk hjælp 
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Praktisk hjælp (transport, indkøb, madlavning, oprydning, rengøring o.l.) ",En del,1,Hjalp med: Praktisk hjælp 
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Praktisk hjælp (transport, indkøb, madlavning, oprydning, rengøring o.l.) ",Meget,1,Hjalp med: Praktisk hjælp 
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Praktisk hjælp (transport, indkøb, madlavning, oprydning, rengøring o.l.) ",Ikke relevant,3,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Personlig pleje,Slet ikke,2,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Personlig pleje,Lidt,1,Hjalp med: Personlig pleje
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Personlig pleje,En del,1,Hjalp med: Personlig pleje
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Personlig pleje,Meget,1,Hjalp med: Personlig pleje
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Personlig pleje,Ikke relevant,3,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Psykisk støtte (samtaler, samvær, ledsagelse til behandling m.v.)",Slet ikke,2,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Psykisk støtte (samtaler, samvær, ledsagelse til behandling m.v.)",Lidt,1,Hjalp med: Psykisk støtte
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Psykisk støtte (samtaler, samvær, ledsagelse til behandling m.v.)",En del,1,Hjalp med: Psykisk støtte
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Psykisk støtte (samtaler, samvær, ledsagelse til behandling m.v.)",Meget,1,Hjalp med: Psykisk støtte
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Psykisk støtte (samtaler, samvær, ledsagelse til behandling m.v.)",Ikke relevant,3,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Sunde vaner (sund mad, motion, rygestop eller et lavere indtag af alkohol)",Slet ikke,2,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Sunde vaner (sund mad, motion, rygestop eller et lavere indtag af alkohol)",Lidt,1,Hjalp med: Sunde vaner
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Sunde vaner (sund mad, motion, rygestop eller et lavere indtag af alkohol)",En del,1,Hjalp med: Sunde vaner
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Sunde vaner (sund mad, motion, rygestop eller et lavere indtag af alkohol)",Meget,1,Hjalp med: Sunde vaner
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - Sunde vaner (sund mad, motion, rygestop eller et lavere indtag af alkohol)",Ikke relevant,3,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At deltage i patientsamtaler, undersøgelser eller behandling fx på sygehus, hos egen læge eller i kommunen",Slet ikke,2,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At deltage i patientsamtaler, undersøgelser eller behandling fx på sygehus, hos egen læge eller i kommunen",Lidt,1,Hjalp med: Deltagelse i samtaler
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At deltage i patientsamtaler, undersøgelser eller behandling fx på sygehus, hos egen læge eller i kommunen",En del,1,Hjalp med: Deltagelse i samtaler
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At deltage i patientsamtaler, undersøgelser eller behandling fx på sygehus, hos egen læge eller i kommunen",Meget,1,Hjalp med: Deltagelse i samtaler
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At deltage i patientsamtaler, undersøgelser eller behandling fx på sygehus, hos egen læge eller i kommunen",Ikke relevant,3,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på den hjertesyges aftaler og undersøgelser,Slet ikke,2,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på den hjertesyges aftaler og undersøgelser,Lidt,1,Hjalp med: Holde styr på aftaler
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på den hjertesyges aftaler og undersøgelser,En del,1,Hjalp med: Holde styr på aftaler
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på den hjertesyges aftaler og undersøgelser,Meget,1,Hjalp med: Holde styr på aftaler
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på den hjertesyges aftaler og undersøgelser,Ikke relevant,3,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på medicin,Slet ikke,2,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på medicin,Lidt,1,Hjalp med: Holde styr på medicin
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på medicin,En del,1,Hjalp med: Holde styr på medicin
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på medicin,Meget,1,Hjalp med: Holde styr på medicin
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde styr på medicin,Ikke relevant,3,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At tilse, overvåge eller være i nærheden af den hjertesyge",Slet ikke,2,
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At tilse, overvåge eller være i nærheden af den hjertesyge",Lidt,1,Hjalp med: Tilse eller overvåge
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At tilse, overvåge eller være i nærheden af den hjertesyge",En del,1,Hjalp med: Tilse eller overvåge
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At tilse, overvåge eller være i nærheden af den hjertesyge",Meget,1,Hjalp med: Tilse eller overvåge
+"3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At tilse, overvåge eller være i nærheden af den hjertesyge",Ikke relevant,3,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde familie og venner orienteret om sygdommen,Slet ikke,2,
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde familie og venner orienteret om sygdommen,Lidt,1,Hjalp med: Orientere familie
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde familie og venner orienteret om sygdommen,En del,1,Hjalp med: Orientere familie
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde familie og venner orienteret om sygdommen,Meget,1,Hjalp med: Orientere familie
+3. Hvilke opgaver hjalp du den hjertesyge med i forbindelse med hjertesygdommen? Sæt ét kryds i hver linje - At holde familie og venner orienteret om sygdommen,Ikke relevant,3,
+3.1  I hvor høj grad var opgaverne en fysisk eller psykisk belastning for dig?,I høj grad,1,I nogen grad/i høj grad
+3.1  I hvor høj grad var opgaverne en fysisk eller psykisk belastning for dig?,I nogen grad,1,I nogen grad/i høj grad
+3.1  I hvor høj grad var opgaverne en fysisk eller psykisk belastning for dig?,I mindre grad,0,
+3.1  I hvor høj grad var opgaverne en fysisk eller psykisk belastning for dig?,Slet ikke,0,
+3.1  I hvor høj grad var opgaverne en fysisk eller psykisk belastning for dig?,Ved ikke/ikke relevant,2,
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",I høj grad,0,
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",I nogen grad,0,
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",I mindre grad,1,I mindre grad / Slet ikke
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",Slet ikke,1,I mindre grad / Slet ikke
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",Ved ikke,2,
+"4. Var du og den hjertesyge enige om din rolle i behandlingsforløbet? Fx om du skulle med til samtaler eller hjælpe med medicin, sund livsstil etc.",Ikke relevant - fx. fordi jeg ingen rolle havde i behandlingsforløbet,,
+"4.1 Hvis du og den hjertesyge ikke var enige om din rolle i behandlingsforløbet, i hvilken retning gik uoverensstemmelserne da ?","Den hjertesyge forventede eller ønskede, at jeg påtog mig en større rolle, end jeg selv ønskede",,
+"4.1 Hvis du og den hjertesyge ikke var enige om din rolle i behandlingsforløbet, i hvilken retning gik uoverensstemmelserne da ?","Jeg ønskede en større rolle, end den hjertesyge tillod",,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Var psykisk belastende for dig?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Var psykisk belastende for dig?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Var psykisk belastende for dig?","Ja, en del",1,Var psykisk belastende for dig
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Var psykisk belastende for dig?","Ja, meget",1,Var psykisk belastende for dig
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Var psykisk belastende for dig?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Havde negativ betydning for dit eget fysiske helbred?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Havde negativ betydning for dit eget fysiske helbred?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Havde negativ betydning for dit eget fysiske helbred?","Ja, en del",1,Havde negativ betydning for dit eget fysiske helbred
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Havde negativ betydning for dit eget fysiske helbred?","Ja, meget",1,Havde negativ betydning for dit eget fysiske helbred
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Havde negativ betydning for dit eget fysiske helbred?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til din (øvrige) familie?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til din (øvrige) familie?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til din (øvrige) familie?","Ja, en del",1,Gjorde at du ikke havde tid eller overskud til din (øvrige) familie
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til din (øvrige) familie?","Ja, meget",1,Gjorde at du ikke havde tid eller overskud til din (øvrige) familie
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til din (øvrige) familie?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte?","Ja, en del",1,Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte?","Ja, meget",1,Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine (øvrige) venner/bekendte?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter?","Ja, en del",1,Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter?","Ja, meget",1,Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at du ikke havde tid eller overskud til dine egne aktiviteter?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig et tættere forhold til den hjertesyge?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig et tættere forhold til den hjertesyge?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig et tættere forhold til den hjertesyge?","Ja, en del",1,Gav dig et tættere forhold til den hjertesyge
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig et tættere forhold til den hjertesyge?","Ja, meget",1,Gav dig et tættere forhold til den hjertesyge
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig et tættere forhold til den hjertesyge?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav flere konflikter med den hjertesyge?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav flere konflikter med den hjertesyge?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav flere konflikter med den hjertesyge?","Ja, en del",1,Gav flere konflikter med den hjertesyge
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav flere konflikter med den hjertesyge?","Ja, meget",1,Gav flere konflikter med den hjertesyge
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav flere konflikter med den hjertesyge?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at dine drømme om fremtiden er bristet?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at dine drømme om fremtiden er bristet?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at dine drømme om fremtiden er bristet?","Ja, en del",1,Gjorde at dine drømme om fremtiden er bristet
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at dine drømme om fremtiden er bristet?","Ja, meget",1,Gjorde at dine drømme om fremtiden er bristet
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gjorde at dine drømme om fremtiden er bristet?",Ved ikke/ikke relevant,2,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig øget opmærksomhed på de vigtige ting i livet?","Nej, slet ikke",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig øget opmærksomhed på de vigtige ting i livet?","Ja, lidt",0,
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig øget opmærksomhed på de vigtige ting i livet?","Ja, en del",1,Gav dig øget opmærksomhed på de vigtige ting i livet
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig øget opmærksomhed på de vigtige ting i livet?","Ja, meget",1,Gav dig øget opmærksomhed på de vigtige ting i livet
+"5. Synes du, at den hjertesyges sygdom... Sæt ét kryds i hver linje - Gav dig øget opmærksomhed på de vigtige ting i livet?",Ved ikke/ikke relevant,2,
+"6. Oplevede du, at folk kunne have svært ved at sætte sig ind i din situation som pårørende og hjertesygdommens konsekvenser?",I høj grad,1,I nogen grad/i høj grad
+"6. Oplevede du, at folk kunne have svært ved at sætte sig ind i din situation som pårørende og hjertesygdommens konsekvenser?",I nogen grad,1,I nogen grad/i høj grad
+"6. Oplevede du, at folk kunne have svært ved at sætte sig ind i din situation som pårørende og hjertesygdommens konsekvenser?",I mindre grad,0,
+"6. Oplevede du, at folk kunne have svært ved at sætte sig ind i din situation som pårørende og hjertesygdommens konsekvenser?",Slet ikke,0,
+"6. Oplevede du, at folk kunne have svært ved at sætte sig ind i din situation som pårørende og hjertesygdommens konsekvenser?",Ved ikke,2,
+"7. Oplevede du, at folk undlod at spørge til, hvordan du havde det? Her tænkes på, hvordan du havde det i din rolle som pårørende.",I høj grad,1,I nogen grad/i høj grad
+"7. Oplevede du, at folk undlod at spørge til, hvordan du havde det? Her tænkes på, hvordan du havde det i din rolle som pårørende.",I nogen grad,1,I nogen grad/i høj grad
+"7. Oplevede du, at folk undlod at spørge til, hvordan du havde det? Her tænkes på, hvordan du havde det i din rolle som pårørende.",I mindre grad,0,
+"7. Oplevede du, at folk undlod at spørge til, hvordan du havde det? Her tænkes på, hvordan du havde det i din rolle som pårørende.",Slet ikke,0,
+"7. Oplevede du, at folk undlod at spørge til, hvordan du havde det? Her tænkes på, hvordan du havde det i din rolle som pårørende.",Ved ikke,2,
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",I høj grad,0,
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",I nogen grad,0,
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",I mindre grad,1,I mindre grad / Slet ikke
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",Slet ikke,1,I mindre grad / Slet ikke
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",Ved ikke,2,
+"8. Fik du tilstrækkelig hjælp fra familie, venner eller andre i din omgangskreds? Her tænkes både på praktisk hjælp og psykisk støtte ift. hjertesygdommen.",Ikke relevant - jeg havde ikke behov for hjælp og støtte,,
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?",I høj grad,0,
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?",I nogen grad,0,
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?",I mindre grad,1,I mindre grad / Slet ikke
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?",Slet ikke,1,I mindre grad / Slet ikke
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?",Ved ikke,2,
+"9. Fik du alt i alt den information fra sundhedspersonale om hjertesygdommen, som du havde brug for?","Ikke relevant - jeg var ikke med på sygehuset, hos egen læge eller i kommunen",,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",I høj grad,0,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",I nogen grad,0,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",I mindre grad,1,I mindre grad / Slet ikke
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",Slet ikke,1,I mindre grad / Slet ikke
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",Ved ikke,2,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til at støtte den hjertesyge, så han/hun kan leve bedst muligt med hjertesygdommen",Ikke relevant - jeg havde ikke behov for hjælp,,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",I høj grad,0,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",I nogen grad,0,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",I mindre grad,1,I mindre grad / Slet ikke
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",Slet ikke,1,I mindre grad / Slet ikke
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",Ved ikke,2,
+"10. Synes du, at du samlet set fik den hjælp i sundhedsvæsenet, som du havde behov for... Sæt ét kryds i hver linje - Til selv at leve bedst muligt som pårørende til en hjertesyg",Ikke relevant - jeg havde ikke behov for hjælp,,
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",I høj grad,0,
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",I nogen grad,0,
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",I mindre grad,1,I mindre grad / Slet ikke
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",Slet ikke,1,I mindre grad / Slet ikke
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",Ved ikke,2,
+"11. Oplevede du, at sundhedspersonalet på sygehuset var interesseret i din erfaring og viden om den hjertesyge?",Ikke relevant - jeg var ikke med på sygehuset ,,
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",I høj grad,0,
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",I nogen grad,0,
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",I mindre grad,1,I mindre grad / Slet ikke
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",Slet ikke,1,I mindre grad / Slet ikke
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",Ved ikke,2,
+"12. Tog sundhedspersonalet hensyn til dine muligheder for at deltage ved stuegang, undersøgelser eller samtaler med sundhedspersonalet vedrørende den hjertesyges sygdom?  Fx ved at lægge aftaler på tidspunkter, hvor du også havde mulighed for at komme med?",Ikke relevant - jeg var ikke med på sygehuset,,
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",I meget høj grad,0,
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",I høj grad,0,
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",I nogen grad,0,
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",I mindre grad,1,I mindre grad / Slet ikke
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",Slet ikke,1,I mindre grad / Slet ikke
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",Ved ikke,2,
+"13. Brugte sundhedspersonalet på sygehusene et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",Ikke relevant - jeg var ikke med på sygehuset,,
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,I meget høj grad,0,
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,I høj grad,0,
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,I nogen grad,0,
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,I mindre grad,1,I mindre grad / Slet ikke
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,Slet ikke,1,I mindre grad / Slet ikke
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,Ved ikke,2,
+14. Opfordrede sundhedspersonalet dig til at stille spørgsmål eller tale om bekymringer?,Ikke relevant - jeg var ikke med på sygehuset,,
+"15. Udviste sundhedspersonalet interesse for, hvordan du havde det? ",Altid/så godt som altid,0,
+"15. Udviste sundhedspersonalet interesse for, hvordan du havde det? ",For det meste,0,
+"15. Udviste sundhedspersonalet interesse for, hvordan du havde det? ",Kun nogle gange,1,Kun nogle gange / Sjældent/aldrig
+"15. Udviste sundhedspersonalet interesse for, hvordan du havde det? ",Sjældent/aldrig,1,Kun nogle gange / Sjældent/aldrig
+"15. Udviste sundhedspersonalet interesse for, hvordan du havde det? ",Ved ikke/ikke relevant,2,
+"16. Inddrog sundhedspersonalet dig i den hjertesyges sygdom/behandling/pleje på den måde, du ønskede at blive inddraget?",Altid/så godt som altid,0,
+"16. Inddrog sundhedspersonalet dig i den hjertesyges sygdom/behandling/pleje på den måde, du ønskede at blive inddraget?",For det meste,0,
+"16. Inddrog sundhedspersonalet dig i den hjertesyges sygdom/behandling/pleje på den måde, du ønskede at blive inddraget?",Kun nogle gange,1,Kun nogle gange / Sjældent/aldrig
+"16. Inddrog sundhedspersonalet dig i den hjertesyges sygdom/behandling/pleje på den måde, du ønskede at blive inddraget?",Sjældent/aldrig,1,Kun nogle gange / Sjældent/aldrig
+"16. Inddrog sundhedspersonalet dig i den hjertesyges sygdom/behandling/pleje på den måde, du ønskede at blive inddraget?",Ved ikke/ikke relevant,2,
+"16.1 Hvis ikke du blev inddraget, som du ønskede, var det da mere eller mindre, end du havde lyst til?",Mere end jeg havde lyst til,,
+"16.1 Hvis ikke du blev inddraget, som du ønskede, var det da mere eller mindre, end du havde lyst til?",Mindre end jeg havde lyst til,,
+"17. Fik du som pårørende tilstrækkelig støtte fra din egen og/eller den hjertesyges praktiserende læge? Med støtte menes både information, rådgivning og behandling.",Altid/så godt som altid,0,
+"17. Fik du som pårørende tilstrækkelig støtte fra din egen og/eller den hjertesyges praktiserende læge? Med støtte menes både information, rådgivning og behandling.",For det meste,0,
+"17. Fik du som pårørende tilstrækkelig støtte fra din egen og/eller den hjertesyges praktiserende læge? Med støtte menes både information, rådgivning og behandling.",Kun nogle gange,1,Kun nogle gange / Sjældent/aldrig
+"17. Fik du som pårørende tilstrækkelig støtte fra din egen og/eller den hjertesyges praktiserende læge? Med støtte menes både information, rådgivning og behandling.",Sjældent/aldrig,1,Kun nogle gange / Sjældent/aldrig
+"17. Fik du som pårørende tilstrækkelig støtte fra din egen og/eller den hjertesyges praktiserende læge? Med støtte menes både information, rådgivning og behandling.",Ved ikke/ikke relevant - fx fordi jeg ikke havde behov for støtte fra egen læge,2,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med en psykolog,"Ja, jeg blev tilbudt...",3,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med en psykolog,"Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med en psykolog,"Nej, men jeg havde behov for...",1,Blev ikke tilbudt: Samtaler med en psykolog
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med en psykolog,"Nej, og jeg havde ikke behov for...",1,Blev ikke tilbudt: Samtaler med en psykolog
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med en psykolog,Ved ikke/ikke relevant,2,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtalegrupper med andre pårørende,"Ja, jeg blev tilbudt...",3,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtalegrupper med andre pårørende,"Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtalegrupper med andre pårørende,"Nej, men jeg havde behov for...",1,Blev ikke tilbudt: Samtalegrupper med andre pårørende
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtalegrupper med andre pårørende,"Nej, og jeg havde ikke behov for...",1,Blev ikke tilbudt: Samtalegrupper med andre pårørende
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtalegrupper med andre pårørende,Ved ikke/ikke relevant,2,
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med socialrådgiver (om dine muligheder, rettigheder som pårørende ift. arbejdsmarked, støtte, indsigt m.m.)","Ja, jeg blev tilbudt...",3,
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med socialrådgiver (om dine muligheder, rettigheder som pårørende ift. arbejdsmarked, støtte, indsigt m.m.)","Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med socialrådgiver (om dine muligheder, rettigheder som pårørende ift. arbejdsmarked, støtte, indsigt m.m.)","Nej, men jeg havde behov for...",1,Blev ikke tilbudt: Samtaler med socialrådgiver
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med socialrådgiver (om dine muligheder, rettigheder som pårørende ift. arbejdsmarked, støtte, indsigt m.m.)","Nej, og jeg havde ikke behov for...",1,Blev ikke tilbudt: Samtaler med socialrådgiver
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Samtaler med socialrådgiver (om dine muligheder, rettigheder som pårørende ift. arbejdsmarked, støtte, indsigt m.m.)",Ved ikke/ikke relevant,2,
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.","Ja, jeg blev tilbudt...",3,
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.","Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.","Nej, men jeg havde behov for...",1,"Blev ikke tilbudt: Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m."
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.","Nej, og jeg havde ikke behov for...",1,"Blev ikke tilbudt: Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m."
+"18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Ved ikke/ikke relevant,2,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Aflastning ift. praktiske opgaver,"Ja, jeg blev tilbudt...",3,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Aflastning ift. praktiske opgaver,"Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Aflastning ift. praktiske opgaver,"Nej, men jeg havde behov for...",1,Blev ikke tilbudt: Aflastning ift. praktiske opgaver
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Aflastning ift. praktiske opgaver,"Nej, og jeg havde ikke behov for...",1,Blev ikke tilbudt: Aflastning ift. praktiske opgaver
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Aflastning ift. praktiske opgaver,Ved ikke/ikke relevant,2,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Individuel samtale med anden pårørende,"Ja, jeg blev tilbudt...",3,
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Individuel samtale med anden pårørende,"Ja, og jeg tog imod...",0,"Ja, og jeg tog imod..."
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Individuel samtale med anden pårørende,"Nej, men jeg havde behov for...",1,Blev ikke tilbudt: Individuel samtale med anden pårørende
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Individuel samtale med anden pårørende,"Nej, og jeg havde ikke behov for...",1,Blev ikke tilbudt: Individuel samtale med anden pårørende
+18. Blev du i forbindelse med den hjertesyges hjertesygdom tilbudt følgende? Sæt ét kryds i hver linje - Individuel samtale med anden pårørende,Ved ikke/ikke relevant,2,
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med en psykolog,Særdeles god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med en psykolog,Overvejende god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med en psykolog,Hverken god eller dårlig,1,Dårlig kvalitet: Samtaler med en psykolog
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med en psykolog,Særdeles dårlig,1,Dårlig kvalitet: Samtaler med en psykolog
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med en psykolog,Ved ikke,3,
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtalegrupper med andre pårørende,Særdeles god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtalegrupper med andre pårørende,Overvejende god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtalegrupper med andre pårørende,Hverken god eller dårlig,1,Dårlig kvalitet: Samtalegrupper med andre pårørende
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtalegrupper med andre pårørende,Særdeles dårlig,1,Dårlig kvalitet: Samtalegrupper med andre pårørende
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtalegrupper med andre pårørende,Ved ikke,3,
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med socialrådgiver (om dine muligheder og rettigheder som pårørende ift. arbejdsmarked, støtte og indsigt m.m.)",Særdeles god,0,Særdeles god / Overvejende god
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med socialrådgiver (om dine muligheder og rettigheder som pårørende ift. arbejdsmarked, støtte og indsigt m.m.)",Overvejende god,0,Særdeles god / Overvejende god
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med socialrådgiver (om dine muligheder og rettigheder som pårørende ift. arbejdsmarked, støtte og indsigt m.m.)",Hverken god eller dårlig,1,Dårlig kvalitet: Samtaler med socialrådgiver
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med socialrådgiver (om dine muligheder og rettigheder som pårørende ift. arbejdsmarked, støtte og indsigt m.m.)",Særdeles dårlig,1,Dårlig kvalitet: Samtaler med socialrådgiver
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Samtaler med socialrådgiver (om dine muligheder og rettigheder som pårørende ift. arbejdsmarked, støtte og indsigt m.m.)",Ved ikke,3,
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Særdeles god,0,Særdeles god / Overvejende god
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Overvejende god,0,Særdeles god / Overvejende god
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Hverken god eller dårlig,1,"Dårlig kvalitet: Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m."
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Særdeles dårlig,1,"Dårlig kvalitet: Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m."
+"18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m.",Ved ikke,3,
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Aflastning ift. praktiske opgaver,Særdeles god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Aflastning ift. praktiske opgaver,Overvejende god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Aflastning ift. praktiske opgaver,Hverken god eller dårlig,1, Dårlig kvalitet: Aflastning ift. praktiske opgaver
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Aflastning ift. praktiske opgaver,Særdeles dårlig,1, Dårlig kvalitet: Aflastning ift. praktiske opgaver
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Aflastning ift. praktiske opgaver,Ved ikke,3,
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Individuel samtale med andre pårørende,Særdeles god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Individuel samtale med andre pårørende,Overvejende god,0,Særdeles god / Overvejende god
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Individuel samtale med andre pårørende,Hverken god eller dårlig,1,Dårlig kvalitet:  Individuel samtale med andre pårørende
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Individuel samtale med andre pårørende,Særdeles dårlig,1,Dårlig kvalitet:  Individuel samtale med andre pårørende
+18.1 Hvordan vil du vurdere kvaliteten af tilbuddene? - Individuel samtale med andre pårørende,Ved ikke,3,
+"19. Savnede du information om, hvor du som pårørende kunne få hjælp og støtte? ",I høj grad,1,I nogen grad/i høj grad
+"19. Savnede du information om, hvor du som pårørende kunne få hjælp og støtte? ",I nogen grad,1,I nogen grad/i høj grad
+"19. Savnede du information om, hvor du som pårørende kunne få hjælp og støtte? ",I mindre grad,0,
+"19. Savnede du information om, hvor du som pårørende kunne få hjælp og støtte? ",Slet ikke,0,
+"19. Savnede du information om, hvor du som pårørende kunne få hjælp og støtte? ",Ved ikke,2,
+"20. Var du i arbejde, da den hjertesyge blev syg? Arbejde inkluderer her også deltidsarbejde, fleksjob eller barsel.",Ja,,
+"20. Var du i arbejde, da den hjertesyge blev syg? Arbejde inkluderer her også deltidsarbejde, fleksjob eller barsel.",Nej,,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg er blevet fyret",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg har måttet stoppe med at arbejde i en periode",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg er holdt op med at arbejde",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg har skiftet arbejde/karrierevej",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg har fået færre arbejdstimer om ugen",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Ja, jeg har fået andre andre arbejdsopgaver end tidligere. ",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,"Nej, min arbejdssituation er den samme",,
+20.1 Har din arbejdssituation ændret sig som følge af din rolle som pårørende til den hjertesyge? Sæt ét eller flere kryds,Andet,,
+"20.2 Kunne du få fri, orlov eller lignende i det omfang, det har været nødvendigt? Fx til at deltage i samtaler/undersøgelser/behandling på sygehuset, hos egen læge eller i kommunen.",Altid/så godt som altid,0,
+"20.2 Kunne du få fri, orlov eller lignende i det omfang, det har været nødvendigt? Fx til at deltage i samtaler/undersøgelser/behandling på sygehuset, hos egen læge eller i kommunen.",For det meste,0,
+"20.2 Kunne du få fri, orlov eller lignende i det omfang, det har været nødvendigt? Fx til at deltage i samtaler/undersøgelser/behandling på sygehuset, hos egen læge eller i kommunen.",Kun nogle gange,1,Kun nogle gange / Sjældent/aldrig
+"20.2 Kunne du få fri, orlov eller lignende i det omfang, det har været nødvendigt? Fx til at deltage i samtaler/undersøgelser/behandling på sygehuset, hos egen læge eller i kommunen.",Sjældent/aldrig,1,Kun nogle gange / Sjældent/aldrig
+"20.2 Kunne du få fri, orlov eller lignende i det omfang, det har været nødvendigt? Fx til at deltage i samtaler/undersøgelser/behandling på sygehuset, hos egen læge eller i kommunen.",Ved ikke/ikke relevant,2,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Jeg brugte opsparede feriedage eller feriefridage,,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Jeg arbejdede mere på andre tidspunkter eller brugte opsparet afspadsering,,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Jeg holdt fri/orlov med fuld løn,,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Jeg holdt fri/orlov med lønnedgang,,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Jeg byttede vagt med en anden,,
+20.2.1 Hvad gjorde det muligt for dig at få fri? Sæt ét eller flere krydser,Andet - skriv venligst:,,
+20.3 Har du på noget tidspunkt måttet sygemelde dig på grund af din rolle som pårørende til en hjertesyg?,"Nej, aldrig",0,
+20.3 Har du på noget tidspunkt måttet sygemelde dig på grund af din rolle som pårørende til en hjertesyg?,"Ja, én enkelt gang",1,"Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)"
+20.3 Har du på noget tidspunkt måttet sygemelde dig på grund af din rolle som pårørende til en hjertesyg?,"Ja, flere gange",1,"Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)"
+20.3 Har du på noget tidspunkt måttet sygemelde dig på grund af din rolle som pårørende til en hjertesyg?,"Ja, jeg har været langtidssygemeldt (mere end 30 dage)",1,"Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)"
+"20.4 Gjorde hjertesygdommen, at du måtte forsømme arbejdet så meget, at det gav dig problemer på arbejdspladsen? Her tænkes på problemer, som både kan skyldes manglende fysisk og psykisk tilstedeværelse.",I høj grad,1,I nogen grad/i høj grad
+"20.4 Gjorde hjertesygdommen, at du måtte forsømme arbejdet så meget, at det gav dig problemer på arbejdspladsen? Her tænkes på problemer, som både kan skyldes manglende fysisk og psykisk tilstedeværelse.",I nogen grad,1,I nogen grad/i høj grad
+"20.4 Gjorde hjertesygdommen, at du måtte forsømme arbejdet så meget, at det gav dig problemer på arbejdspladsen? Her tænkes på problemer, som både kan skyldes manglende fysisk og psykisk tilstedeværelse.",I mindre grad,0,
+"20.4 Gjorde hjertesygdommen, at du måtte forsømme arbejdet så meget, at det gav dig problemer på arbejdspladsen? Her tænkes på problemer, som både kan skyldes manglende fysisk og psykisk tilstedeværelse.",Slet ikke,0,
+"20.4 Gjorde hjertesygdommen, at du måtte forsømme arbejdet så meget, at det gav dig problemer på arbejdspladsen? Her tænkes på problemer, som både kan skyldes manglende fysisk og psykisk tilstedeværelse.",Ved ikke,2,
+"21. Hvis du ikke allerede er gået ned i arbejdstid eller har forladt arbejdsmarkedet, har du så overvejet at gøre det på grund af din rolle som pårørende til en hjertesyg?",Ja,1,
+"21. Hvis du ikke allerede er gået ned i arbejdstid eller har forladt arbejdsmarkedet, har du så overvejet at gøre det på grund af din rolle som pårørende til en hjertesyg?",Nej,0,
+"22. Oplevede du negative økonomiske konsekvenser af at være pårørende til en hjertesyg? Her tænkes fx på lønnedgang og udgifter relateret til fx medicin, indkøb, transport og lignende.",I høj grad,1,I nogen grad/i høj grad
+"22. Oplevede du negative økonomiske konsekvenser af at være pårørende til en hjertesyg? Her tænkes fx på lønnedgang og udgifter relateret til fx medicin, indkøb, transport og lignende.",I nogen grad,1,I nogen grad/i høj grad
+"22. Oplevede du negative økonomiske konsekvenser af at være pårørende til en hjertesyg? Her tænkes fx på lønnedgang og udgifter relateret til fx medicin, indkøb, transport og lignende.",I mindre grad,0,
+"22. Oplevede du negative økonomiske konsekvenser af at være pårørende til en hjertesyg? Her tænkes fx på lønnedgang og udgifter relateret til fx medicin, indkøb, transport og lignende.",Slet ikke,0,
+"22. Oplevede du negative økonomiske konsekvenser af at være pårørende til en hjertesyg? Her tænkes fx på lønnedgang og udgifter relateret til fx medicin, indkøb, transport og lignende.",Ved ikke/ikke relevant,2,
+"23. Hvordan synes du, dit helbred er alt i alt?",Fremragende,0,
+"23. Hvordan synes du, dit helbred er alt i alt?",Vældig godt,0,
+"23. Hvordan synes du, dit helbred er alt i alt?",Godt,0,
+"23. Hvordan synes du, dit helbred er alt i alt?",Mindre godt,1,Mindre godt / Dårligt
+"23. Hvordan synes du, dit helbred er alt i alt?",Dårligt,1,Mindre godt / Dårligt
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Altid,1,Altid / Ofte
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Ofte,1,Altid / Ofte
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Sommetider,0,
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Sjældent,0,
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Aldrig,0,
+"24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågende?",Altid,1,Altid / Ofte
+"24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågende?",Ofte,1,Altid / Ofte
+"24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågende?",Sommetider,0,
+"24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågende?",Sjældent,0,
+"24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågende?",Aldrig,0,
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dit træt i løbet af dagen?,Altid,1,Altid / Ofte
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dit træt i løbet af dagen?,Ofte,1,Altid / Ofte
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dit træt i løbet af dagen?,Sommetider,0,
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dit træt i løbet af dagen?,Sjældent,0,
+24. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dit træt i løbet af dagen?,Aldrig,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge får/fik den rette behandling,I høj grad,1,Bekymret for: Om den hjertesyge får/fik den rette behandling
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge får/fik den rette behandling,I nogen grad,1,Bekymret for: Om den hjertesyge får/fik den rette behandling
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge får/fik den rette behandling,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge får/fik den rette behandling,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge får/fik den rette behandling,Ved ikke/ikke relevant,2,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om hjertesygdommen forværres,I høj grad,1,Bekymret for: Om hjertesygdommen forværres
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om hjertesygdommen forværres,I nogen grad,1,Bekymret for: Om hjertesygdommen forværres
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om hjertesygdommen forværres,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om hjertesygdommen forværres,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om hjertesygdommen forværres,Ved ikke/ikke relevant,2,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge bekymrer sig,I høj grad,1,Bekymret for: Om den hjertesyge bekymrer sig
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge bekymrer sig,I nogen grad,1,Bekymret for: Om den hjertesyge bekymrer sig
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge bekymrer sig,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge bekymrer sig,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om den hjertesyge bekymrer sig,Ved ikke/ikke relevant,2,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan fremtiden ser ud,I høj grad,1,Bekymret for: Hvordan fremtiden ser ud
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan fremtiden ser ud,I nogen grad,1,Bekymret for: Hvordan fremtiden ser ud
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan fremtiden ser ud,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan fremtiden ser ud,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan fremtiden ser ud,Ved ikke/ikke relevant,2,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med den hjertesyge om sygdommen,I høj grad,1,Bekymret for: Hvordan du får talt med den hjertesyge om sygdommen
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med den hjertesyge om sygdommen,I nogen grad,1,Bekymret for: Hvordan du får talt med den hjertesyge om sygdommen
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med den hjertesyge om sygdommen,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med den hjertesyge om sygdommen,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med den hjertesyge om sygdommen,Ved ikke/ikke relevant,2,
+"25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du er der, hvis hjertesygdommen akut forværres",I høj grad,1,"Bekymret for: Om du er der, hvis hjertesygdommen akut forværres"
+"25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du er der, hvis hjertesygdommen akut forværres",I nogen grad,1,"Bekymret for: Om du er der, hvis hjertesygdommen akut forværres"
+"25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du er der, hvis hjertesygdommen akut forværres",I mindre grad,0,
+"25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du er der, hvis hjertesygdommen akut forværres",Slet ikke,0,
+"25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du er der, hvis hjertesygdommen akut forværres",Ved ikke/ikke relevant,2,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du kan holde til det fysisk og psykisk,I høj grad,1,Bekymret for: Om du kan holde til det fysisk og psykisk
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du kan holde til det fysisk og psykisk,I nogen grad,1,Bekymret for: Om du kan holde til det fysisk og psykisk
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du kan holde til det fysisk og psykisk,I mindre grad,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du kan holde til det fysisk og psykisk,Slet ikke,0,
+25. Er du i forbindelse med den hjertesyges sygdom bekymret for følgende? Sæt ét kryds i hver linje - Om du kan holde til det fysisk og psykisk,Ved ikke/ikke relevant,2,
+44. Har hjertesygdommen haft negativ betydning for nærværet mellem dig og din hjertesyge partner?,I høj grad,1,I nogen grad/i høj grad
+44. Har hjertesygdommen haft negativ betydning for nærværet mellem dig og din hjertesyge partner?,I nogen grad,1,I nogen grad/i høj grad
+44. Har hjertesygdommen haft negativ betydning for nærværet mellem dig og din hjertesyge partner?,I mindre grad,0,
+44. Har hjertesygdommen haft negativ betydning for nærværet mellem dig og din hjertesyge partner?,Slet ikke,0,
+44. Har hjertesygdommen haft negativ betydning for nærværet mellem dig og din hjertesyge partner?,Ved ikke,2,
+45. Har hjertesygdommen haft negativ betydning for jeres sexliv?,I høj grad,1,I nogen grad/i høj grad
+45. Har hjertesygdommen haft negativ betydning for jeres sexliv?,I nogen grad,1,I nogen grad/i høj grad
+45. Har hjertesygdommen haft negativ betydning for jeres sexliv?,I mindre grad,0,
+45. Har hjertesygdommen haft negativ betydning for jeres sexliv?,Slet ikke,0,
+45. Har hjertesygdommen haft negativ betydning for jeres sexliv?,Ved ikke,2,
+46. Har du på grund af hjertesygdommen været nervøs for at have sex med den hjertesyge?,I høj grad,1,I nogen grad/i høj grad
+46. Har du på grund af hjertesygdommen været nervøs for at have sex med den hjertesyge?,I nogen grad,1,I nogen grad/i høj grad
+46. Har du på grund af hjertesygdommen været nervøs for at have sex med den hjertesyge?,I mindre grad,0,
+46. Har du på grund af hjertesygdommen været nervøs for at have sex med den hjertesyge?,Slet ikke,0,
+46. Har du på grund af hjertesygdommen været nervøs for at have sex med den hjertesyge?,Ved ikke,2,
+"47. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, og ikke gøre, i forhold til at beskytte din hjertesyge pårørende mod smitte med corona-virus? Fx fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I høj grad,0,
+"47. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, og ikke gøre, i forhold til at beskytte din hjertesyge pårørende mod smitte med corona-virus? Fx fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I nogen grad,0,
+"47. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, og ikke gøre, i forhold til at beskytte din hjertesyge pårørende mod smitte med corona-virus? Fx fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I mindre grad,1,I mindre grad / Slet ikke
+"47. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, og ikke gøre, i forhold til at beskytte din hjertesyge pårørende mod smitte med corona-virus? Fx fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",Slet ikke,1,I mindre grad / Slet ikke
+"47. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, og ikke gøre, i forhold til at beskytte din hjertesyge pårørende mod smitte med corona-virus? Fx fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",Ved ikke,2,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I høj grad,1,Bekymringer som følge af corona-pandemien er begyndt at styre mit liv
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I nogen grad,1,Bekymringer som følge af corona-pandemien er begyndt at styre mit liv
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I mindre grad,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,Slet ikke,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,Ved ikke,2,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I høj grad,1,Jeg undgår nødvendig kontakt med læge eller sygehus
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I nogen grad,1,Jeg undgår nødvendig kontakt med læge eller sygehus
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I mindre grad,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,Slet ikke,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,Ved ikke,2,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre fx partner eller børn,I høj grad,1,Mine bekymringer påvirker andre fx partner eller børn
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre fx partner eller børn,I nogen grad,1,Mine bekymringer påvirker andre fx partner eller børn
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre fx partner eller børn,I mindre grad,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre fx partner eller børn,Slet ikke,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre fx partner eller børn,Ved ikke,2,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I høj grad,1,Mine bekymringer påvirker min søvn og evnen til at fungere
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I nogen grad,1,Mine bekymringer påvirker min søvn og evnen til at fungere
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I mindre grad,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,Slet ikke,0,
+48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,Ved ikke,2,
+"48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - E44 fx hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I høj grad,1,Mine bekymringer giver mig vedvarende fysiske symptomer
+"48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - E44 fx hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I nogen grad,1,Mine bekymringer giver mig vedvarende fysiske symptomer
+"48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - E44 fx hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I mindre grad,0,
+"48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - E44 fx hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",Slet ikke,0,
+"48. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - E44 fx hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",Ved ikke,2,
+26. T-ILS,T-ILS score <7,,
+26. T-ILS,T-ILS score >=7,1,Indikation på svær ensomhed
+27. WHO-5,WHO-5 >=50,,
+27. WHO-5,WHO-5 <50,1,Indikation på dårlig trivsel
+HADS-anxiety,HADS anxiety 0 - 7,,
+HADS-anxiety,HADS anxiety 8 - 10,,
+HADS-anxiety,HADS anxiety >=11,1,Symptomer på angst
+HADS-depression,HADS depression 0 - 7,,
+HADS-depression,HADS depression 8 - 10,,
+HADS-depression,HADS depression >=11,1,Symptomer på depression

@@ -3,6 +3,7 @@ make_plotly <-
            dat,
            q,
            large_plot,
+           unique_plot_order,
            axis_title_x,
            num_digits,
            hq) {
@@ -10,7 +11,16 @@ make_plotly <-
       plot_out <- dat %>%
         plot_ly()
 
-      if (large_plot) {
+      if (large_plot & unique_plot_order) {
+        plot_out <- plot_out %>% add_trace(
+          x = ~ percent,
+          y = ~ reorder(response, -plot_order),
+          type = "bar"
+        )
+        return(list(plot = plot_out))
+
+
+      } else if (large_plot){
         plot_out <- plot_out %>% add_trace(
           x = ~ percent,
           y = ~ reorder(response, percent),

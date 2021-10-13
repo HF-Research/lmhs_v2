@@ -13,3 +13,13 @@ buttit_html <- function(x){
          paste0(x, collapse = "</li><li>"),
          "</ui></li>")
 }
+
+re_order_plot <- function(x, last_response_str){
+  x <- x[,.(response, percent)]
+  setorder(x, -percent)
+  sub <- x[!grepl(last_response_str, response)]
+  sub_last <- x[grepl(last_response_str, response)]
+  out <- rbind(sub, sub_last)
+  out[, plot_order:=1:.N]
+  out
+}

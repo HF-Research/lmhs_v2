@@ -1,0 +1,561 @@
+﻿Spørgsmål,Svarmuligheder,Operationalisering (cut-points),Group
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Åreforsnævring i hjertet,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Hjertesvigt,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Atrieflimren/-flagren,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Hjerteklapsygdom,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Anden hjertesygdom,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,Jeg har ikke fået en hjertesygdom i 2018,,
+1. Hvilken af følgende hjertesygdomme fik du diagnosticeret i 2018?  Sæt evt. flere kryds,,,
+"2. Fik du oplysninger på en kontaktperson på de sygehusafdelinger, som du var i kontakt med? Hvis du kun var i kontakt med én afdeling, kryds da af i ""Ja, på alle afdelinger""","Ja, på alle afdelinger",0,"Ja, på nogle/alle afdelinger"
+"2. Fik du oplysninger på en kontaktperson på de sygehusafdelinger, som du var i kontakt med? Hvis du kun var i kontakt med én afdeling, kryds da af i ""Ja, på alle afdelinger""","Ja, på nogle afdelinger",0,"Ja, på nogle/alle afdelinger"
+"2. Fik du oplysninger på en kontaktperson på de sygehusafdelinger, som du var i kontakt med? Hvis du kun var i kontakt med én afdeling, kryds da af i ""Ja, på alle afdelinger""","Nej, på ingen afdelinger",1,"Nej, på ingen afdelinger"
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,"Ja, i høj grad",0,I nogen grad/i høj grad
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,"Ja, i nogen grad",0,I nogen grad/i høj grad
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,I mindre grad,1,I mindre grad/slet ikke
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,"Nej, slet ikke",1,I mindre grad/slet ikke
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,Ved ikke,2,Ved ikke
+3. Var du tryg ved at komme hjem fra sygehuset efter (din første) indlæggelse for din hjertesygdom i 2018?,Jeg har ikke været indlagt på grund af min hjertesygdom,3,Jeg har ikke været indlagt på grund af min hjertesygdom
+4. Har du på nuværende tidspunkt helt afsluttet din kontakt til sygehuset?  Med 'kontakt til sygehuset' tænkes både på indlæggelse og ambulant behandling (inkl. kontrol) i forbindelse med din hjertesygdom.,Ja,,
+4. Har du på nuværende tidspunkt helt afsluttet din kontakt til sygehuset?  Med 'kontakt til sygehuset' tænkes både på indlæggelse og ambulant behandling (inkl. kontrol) i forbindelse med din hjertesygdom.,Nej,,
+4. Har du på nuværende tidspunkt helt afsluttet din kontakt til sygehuset?  Med 'kontakt til sygehuset' tænkes både på indlæggelse og ambulant behandling (inkl. kontrol) i forbindelse med din hjertesygdom.,Ved ikke,,
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,"Ja, i høj grad",0,I nogen grad/i høj grad
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,"Ja, i nogen grad",0,I nogen grad/i høj grad
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,I mindre grad,1,I mindre grad/slet ikke
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,"Nej, slet ikke",1,I mindre grad/slet ikke
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,Ved ikke,2,
+4.1 Var du tryg ved at afslutte din ambulante kontakt til sygehuset?  Med 'ambulant kontakt' menes både ambulant behandling og kontrol.,Jeg blev ikke behandlet ambulant,,
+"4.2 Vidste du, hvad der skulle ske i dit videre forløb, da du afsluttede din kontakt til sygehuset? F.eks. om du skulle kontakte egen længe, om du ville få indkaldelse fra kommunen osv.","Ja, i høj grad",0,I nogen grad/i høj grad
+"4.2 Vidste du, hvad der skulle ske i dit videre forløb, da du afsluttede din kontakt til sygehuset? F.eks. om du skulle kontakte egen længe, om du ville få indkaldelse fra kommunen osv.","Ja, i nogen grad",0,I nogen grad/i høj grad
+"4.2 Vidste du, hvad der skulle ske i dit videre forløb, da du afsluttede din kontakt til sygehuset? F.eks. om du skulle kontakte egen længe, om du ville få indkaldelse fra kommunen osv.",I mindre grad,1,I mindre grad/slet ikke
+"4.2 Vidste du, hvad der skulle ske i dit videre forløb, da du afsluttede din kontakt til sygehuset? F.eks. om du skulle kontakte egen længe, om du ville få indkaldelse fra kommunen osv.","Nej, slet ikke",1,I mindre grad/slet ikke
+"4.2 Vidste du, hvad der skulle ske i dit videre forløb, da du afsluttede din kontakt til sygehuset? F.eks. om du skulle kontakte egen længe, om du ville få indkaldelse fra kommunen osv.",Ved ikke,2,
+"5. Oplevede du, at der hele tiden var en sygeplejerske på sygehuset, som havde overblik over udredning eller behandling af din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"5. Oplevede du, at der hele tiden var en sygeplejerske på sygehuset, som havde overblik over udredning eller behandling af din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"5. Oplevede du, at der hele tiden var en sygeplejerske på sygehuset, som havde overblik over udredning eller behandling af din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"5. Oplevede du, at der hele tiden var en sygeplejerske på sygehuset, som havde overblik over udredning eller behandling af din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"5. Oplevede du, at der hele tiden var en sygeplejerske på sygehuset, som havde overblik over udredning eller behandling af din hjertesygdom",Ved ikke,2,Ved ikke
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Astma,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Allergi (ikke astma),,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Sukkersyge (diabetes),,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Forhøjet blodtryk,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds","Hjerneblødning, blodprop i hjernen",,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds","Kronisk bronkitis, for store lunger, rygerlunger (emfysem, KOL)",,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Slidgigt,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Leddegigt,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Knogleskørhed (Osteoporose),,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Kræft,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Migræne eller hyppig hovedpine,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Angst,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Depression,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Diskusprolaps eller andre rygsygdomme,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Anden længerevarende sygdom: ,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds",Jeg har ikke haft andre længerevarende sygdomme,,
+"6. Har du, eller har du haft, én eller flere af følgende længerevarende sygdomme samtidig med din hjertesygdom?  Sæt gerne flere kryds - Anden længerevarende sygdom: ",,,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?","Ja, i høj grad",,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?","Ja, i nogen grad",,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?",I mindre grad,,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?","Nej, slet ikke",,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?",Ved ikke,,
+"6.1. Tog man på sygehuset hensyn til dine andre sygdomme i forbindelse med, at du blev behandlet for din hjertesygdom?",Ikke relevant - det var ikke nødvendigt eller relevant at tage hensyn til andre sygdomme,,
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.","Ja, i meget høj grad",0,I nogen grad/i høj grad
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.","Ja, i høj grad",0,I nogen grad/i høj grad
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.","Ja, i nogen grad",0,I nogen grad/i høj grad
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.",I mindre grad,1,I mindre grad/slet ikke
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.","Nej, slet ikke",1,I mindre grad/slet ikke
+"7. Spurgte sundhedspersonalet ind til dine egne erfaringer med din sygdom/tilstand? 'Erfaringer med din sygdom' kan f.eks. være symptomer, tegn eller konsekvenser.",Ved ikke,2,
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.","Ja, i meget høj grad",0,I nogen grad/i høj grad
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.","Ja, i høj grad",0,I nogen grad/i høj grad
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.","Ja, i nogen grad",0,I nogen grad/i høj grad
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.",I mindre grad,1,I mindre grad/slet ikke
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.","Nej, slet ikke",1,I mindre grad/slet ikke
+"8. Var du med på råd, når der blev truffet beslutninger om det, der skulle ske? Det kunne f.eks. være, når der skulles tages beslutninger om undersøgelser, behandling, udskrivelse/afslutning m.m.",Ved ikke/havde ikke behov,2,
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?","Ja, i meget høj grad",0,I nogen grad/i høj grad
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?","Ja, i høj grad",0,I nogen grad/i høj grad
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?",I mindre grad,1,I mindre grad/slet ikke
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?","Nej, slet ikke",1,I mindre grad/slet ikke
+"9. Var der overensstemmelse mellem det, du fik at vide af forskellige sundhedspersoner?",Ved ikke,2,
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?","Ja, i meget høj grad",0,I nogen grad/i høj grad
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?","Ja, i høj grad",0,I nogen grad/i høj grad
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",I mindre grad,1,I mindre grad/slet ikke
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?","Nej, slet ikke",1,I mindre grad/slet ikke
+"10. Brugte sundhedspersonalet et sprog, som var til at forstå (ikke fagsprog, men forståeligt dansk)?",Ved ikke,2,
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?","Ja, i meget høj grad",0,I nogen grad/i høj grad
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?","Ja, i høj grad",0,I nogen grad/i høj grad
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?",I mindre grad,1,I mindre grad/slet ikke
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?","Nej, slet ikke",1,I mindre grad/slet ikke
+"11. Fik du samlet set den mundtlige og skriftlige information fra sygehuspersonalet, du havde behov for?",Ved ikke,2,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Min behandling blev udsat eller aflyst,,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Ventetiden til en behandling var meget lang eller behandlingsgarantien blev ikke overholdt,,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Fejlbehandlet (f.eks. forkert operation/ medicin),,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Fejl i min journal eller vigtig information om mit sygdomsforløb manglede,,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Der opstod alvorlige komplikationer under/efter operation,,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,Andre fejl eller utilsigtede hændelser,,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds,"Nej, jeg har ikke oplevet fejl eller utilsigtede hændelser",,
+12. Oplevede du én eller flere af følgende situationer? Sæt gerne flere kryds - Andre fejl eller utilsigtede hændelser - skriv venligst,,,
+13. Har du haft kontakt med din praktiserende læge i forbindelse med din hjertesygdom? ,Ja,0,
+13. Har du haft kontakt med din praktiserende læge i forbindelse med din hjertesygdom? ,Nej,1,
+"13.1 Synes du, at du fik den hjælp og støtte fra din praktiserende læge, som du havde brug for?","Ja, i høj grad",0,I nogen grad/i høj grad
+"13.1 Synes du, at du fik den hjælp og støtte fra din praktiserende læge, som du havde brug for?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"13.1 Synes du, at du fik den hjælp og støtte fra din praktiserende læge, som du havde brug for?",I mindre grad,1,I mindre grad/slet ikke
+"13.1 Synes du, at du fik den hjælp og støtte fra din praktiserende læge, som du havde brug for?","Nej, slet ikke",1,I mindre grad/slet ikke
+"13.1 Synes du, at du fik den hjælp og støtte fra din praktiserende læge, som du havde brug for?",Ved ikke,2,
+"13.2 Oplevede du, at din praktiserende læge var informeret om behandlingen for din hjertesygdom?","Ja, i høj grad",0,I nogen grad/i høj grad
+"13.2 Oplevede du, at din praktiserende læge var informeret om behandlingen for din hjertesygdom?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"13.2 Oplevede du, at din praktiserende læge var informeret om behandlingen for din hjertesygdom?",I mindre grad,1,I mindre grad/slet ikke
+"13.2 Oplevede du, at din praktiserende læge var informeret om behandlingen for din hjertesygdom?","Nej, slet ikke",1,I mindre grad/slet ikke
+"13.2 Oplevede du, at din praktiserende læge var informeret om behandlingen for din hjertesygdom?",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke undersøgelser og behandlingsforløb du skulle igennem","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke undersøgelser og behandlingsforløb du skulle igennem","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke undersøgelser og behandlingsforløb du skulle igennem",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke undersøgelser og behandlingsforløb du skulle igennem","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke undersøgelser og behandlingsforløb du skulle igennem",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for din fremtid","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for din fremtid","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for din fremtid",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for din fremtid","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for din fremtid",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke fysiske symptomer/reaktioner, du kan opleve som følge af operation eller øvrig behandling af din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke fysiske symptomer/reaktioner, du kan opleve som følge af operation eller øvrig behandling af din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke fysiske symptomer/reaktioner, du kan opleve som følge af operation eller øvrig behandling af din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke fysiske symptomer/reaktioner, du kan opleve som følge af operation eller øvrig behandling af din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke fysiske symptomer/reaktioner, du kan opleve som følge af operation eller øvrig behandling af din hjertesygdom",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression), du kan opleve som følge af din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression), du kan opleve som følge af din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression), du kan opleve som følge af din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression), du kan opleve som følge af din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression), du kan opleve som følge af din hjertesygdom",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression) dine pårørende kan opleve som følge af din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression) dine pårørende kan opleve som følge af din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression) dine pårørende kan opleve som følge af din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression) dine pårørende kan opleve som følge af din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvilke følelsesmæssige reaktioner (f.eks. symptomer på angst og depression) dine pårørende kan opleve som følge af din hjertesygdom",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit forhold til familie, venner m.fl.","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit forhold til familie, venner m.fl.","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit forhold til familie, venner m.fl.",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit forhold til familie, venner m.fl.","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit forhold til familie, venner m.fl.",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit sex- og samliv","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit sex- og samliv","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit sex- og samliv",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit sex- og samliv","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad sygdommen kan betyde for dit sex- og samliv",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du selv kan gøre for at få det bedre f.eks. ved fysisk træning eller kost","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du selv kan gøre for at få det bedre f.eks. ved fysisk træning eller kost","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du selv kan gøre for at få det bedre f.eks. ved fysisk træning eller kost",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du selv kan gøre for at få det bedre f.eks. ved fysisk træning eller kost","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du selv kan gøre for at få det bedre f.eks. ved fysisk træning eller kost",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvor du skal henvende dig i tilfælde af forværring af din sygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvor du skal henvende dig i tilfælde af forværring af din sygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvor du skal henvende dig i tilfælde af forværring af din sygdom",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvor du skal henvende dig i tilfælde af forværring af din sygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvor du skal henvende dig i tilfælde af forværring af din sygdom",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du kan holde til rent fysisk","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du kan holde til rent fysisk","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du kan holde til rent fysisk",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du kan holde til rent fysisk","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Hvad du kan holde til rent fysisk",Ved ikke,2,
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Mulige årsager til din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Mulige årsager til din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Mulige årsager til din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Mulige årsager til din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"14. Følte du dig informeret om følgende, uden at du selv skulle opsøge/finde informationen? (fortsat) Sæt ét kryds i hver linje - Mulige årsager til din hjertesygdom",Ved ikke,2,
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ","Ja, i høj grad",0,I nogen grad/i høj grad
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ","Ja, i nogen grad",0,I nogen grad/i høj grad
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ",I mindre grad,1,I mindre grad/slet ikke
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ","Nej, slet ikke",1,I mindre grad/slet ikke
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ",Ved ikke,2,
+"15. Havde du pårørende, som du kunne regne med ville hjælpe dig, hvis du havde behov for det? Det kan f.eks. være til følelsesmæssig støtte, praktisk hjælp eller til at holde styr på aftaler på sygehuset. ",Jeg har ingen pårørende,,
+15.1 Gjorde personalet dig opmærksom på muligheden for at have din(e) pårørende med til samtaler?,"Ja, i høj grad",0,I nogen grad/i høj grad
+15.1 Gjorde personalet dig opmærksom på muligheden for at have din(e) pårørende med til samtaler?,"Ja, i nogen grad",0,I nogen grad/i høj grad
+15.1 Gjorde personalet dig opmærksom på muligheden for at have din(e) pårørende med til samtaler?,I mindre grad,1,I mindre grad/slet ikke
+15.1 Gjorde personalet dig opmærksom på muligheden for at have din(e) pårørende med til samtaler?,"Nej, slet ikke",1,I mindre grad/slet ikke
+15.1 Gjorde personalet dig opmærksom på muligheden for at have din(e) pårørende med til samtaler?,Ved ikke,2,
+15.2 Havde du pårørende med til samtaler eller behandling på sygehuset?,Ja,0,
+15.2 Havde du pårørende med til samtaler eller behandling på sygehuset?,Nej,1,
+"15.2.1 Inddrog personalet din(e) pårørende, som du ønskede det? Her skelnes ikke mellem, om det var for lidt, for meget eller måden, de blev inddraget på.","Ja, i høj grad",0,I nogen grad/i høj grad
+"15.2.1 Inddrog personalet din(e) pårørende, som du ønskede det? Her skelnes ikke mellem, om det var for lidt, for meget eller måden, de blev inddraget på.","Ja, i nogen grad",0,I nogen grad/i høj grad
+"15.2.1 Inddrog personalet din(e) pårørende, som du ønskede det? Her skelnes ikke mellem, om det var for lidt, for meget eller måden, de blev inddraget på.",I mindre grad,1,I mindre grad/slet ikke
+"15.2.1 Inddrog personalet din(e) pårørende, som du ønskede det? Her skelnes ikke mellem, om det var for lidt, for meget eller måden, de blev inddraget på.","Nej, slet ikke",1,I mindre grad/slet ikke
+"15.2.1 Inddrog personalet din(e) pårørende, som du ønskede det? Her skelnes ikke mellem, om det var for lidt, for meget eller måden, de blev inddraget på.",Ved ikke,2,
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?","Ja, i høj grad",0,I nogen grad/i høj grad
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?",I mindre grad,1,I mindre grad/slet ikke
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?","Nej, slet ikke",1,I mindre grad/slet ikke
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?",Ved ikke,2,
+"16. Følte du dig tryg ved den medicinske behandling, du fik for din hjertesygdom?",Jeg har ikke været i medicinsk behandling for min hjertesygdom,,
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvorfor du fik/får medicin for din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvorfor du fik/får medicin for din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvorfor du fik/får medicin for din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvorfor du fik/får medicin for din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvorfor du fik/får medicin for din hjertesygdom",Ved ikke,2,
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Mulige bivirkninger af medicin for din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Mulige bivirkninger af medicin for din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Mulige bivirkninger af medicin for din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Mulige bivirkninger af medicin for din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Mulige bivirkninger af medicin for din hjertesygdom",Ved ikke,2,
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvor lang tid du skal/skulle tage medicin for din hjertesygdom","Ja, i høj grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvor lang tid du skal/skulle tage medicin for din hjertesygdom","Ja, i nogen grad",0,I nogen grad/i høj grad
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvor lang tid du skal/skulle tage medicin for din hjertesygdom",I mindre grad,1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvor lang tid du skal/skulle tage medicin for din hjertesygdom","Nej, slet ikke",1,I mindre grad/slet ikke
+"16.1 Blev du informeret om følgende, da du første gang fik medicinen ordineret? - Hvor lang tid du skal/skulle tage medicin for din hjertesygdom",Ved ikke,2,
+"16.2 Oplevede du bivirkninger af den medicin, du fik for din hjertesygdom?",Ja,1,
+"16.2 Oplevede du bivirkninger af den medicin, du fik for din hjertesygdom?",Nej,0,
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?","Ja, i høj grad",0,I nogen grad/i høj grad
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?",I mindre grad,1,I mindre grad/slet ikke
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?","Nej, slet ikke",1,I mindre grad/slet ikke
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?",Ved ikke,2,
+"16.2.1 Blev du taget alvorligt, da du henvendte dig til en læge på grund af bivirkninger?",Jeg har ikke henvendt mig til en læge på grund af bivirkninger,,
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Fysisk træning","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Fysisk træning","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Fysisk træning","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Fysisk træning",Nej,1, Fik ikke tilbudt fysisk træning
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Fysisk træning",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om kost","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om kost","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om kost","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om kost",Nej,1,Fik ikke tilbudt rådgivning om kost
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om kost",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)",Nej,1,Fik ikke tilbudt psykisk støtte
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling",Nej,1,Fik ikke tilbudt undervisning i sygdom
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om sex og samliv","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om sex og samliv","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om sex og samliv","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om sex og samliv",Nej,1,Fik ikke tilbudt rådgivning om sex og samliv
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om sex og samliv",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Individuel samtale om medicin","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Individuel samtale om medicin","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Individuel samtale om medicin","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Individuel samtale om medicin",Nej,1,Fik ikke tilbudt individuel samtale om medicin
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Individuel samtale om medicin",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.",Nej,1,Fik ikke tilbudt rådgivning om arbejdsmarkedstilknytning
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen","Ja, og jeg tog imod tilbuddet",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen","Ja, jeg tog imod tilbuddet, men sprang fra",0,"Ja, fik tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen","Ja, men jeg tog ikke imod tilbuddet",3,"Ja, men jeg tog ikke imod tilbuddet"
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen",Nej,1,Fik ikke tilbudt undervisning i de psykiske reaktioner på sygdommen
+"17. Fik du i forbindelse med din hjertesygdom følgende tilbud fra sygehuset, hos din praktiserende læge eller i din kommune? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen",Ved ikke/ikke relevant,2,Ved ikke/ikke relevant
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Fysisk træning?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Fysisk træning?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Fysisk træning?,Hverken god eller dårlig,1,Dårlig kvalitet: Fysisk træning
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Fysisk træning?,Særdeles dårlig,1,Dårlig kvalitet: Fysisk træning
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Fysisk træning?,Ved ikke,2,
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om kost?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om kost?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om kost?,Hverken god eller dårlig,1,Dårlig kvalitet: Rådgivning om kost
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om kost?,Særdeles dårlig,1,Dårlig kvalitet: Rådgivning om kost
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om kost?,Ved ikke,2,
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)?",Særdeles god,0,Særdeles god/Overvejende god
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)?",Overvejende god,0,Særdeles god/Overvejende god
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)?",Hverken god eller dårlig,1,Dårlig kvalitet: Psykisk støtte
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)?",Særdeles dårlig,1,Dårlig kvalitet: Psykisk støtte
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Psykisk støtte (f.eks. terapeutforløb, mindfulness, henvisning til psykolog m.m.)?",Ved ikke,2,
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling?,Hverken god eller dårlig,1,Dårlig kvalitet: Undervisning i din sygdom
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling?,Særdeles dårlig,1,Dårlig kvalitet: Undervisning i din sygdom
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i din sygdom og dens behandling?,Ved ikke,2,
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om sex og samliv?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om sex og samliv?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om sex og samliv?,Hverken god eller dårlig,1,Dårlig kvalitet: Rådgivning om sex og samliv
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om sex og samliv?,Særdeles dårlig,1,Dårlig kvalitet: Rådgivning om sex og samliv
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om sex og samliv?,Ved ikke,2,
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Individuel samtale om medicin?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Individuel samtale om medicin?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Individuel samtale om medicin?,Hverken god eller dårlig,1,Dårlig kvalitet: Individuel samtale om medicin
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Individuel samtale om medicin?,Særdeles dårlig,1,Dårlig kvalitet: Individuel samtale om medicin
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Individuel samtale om medicin?,Ved ikke,2,
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.?",Særdeles god,0,Særdeles god/Overvejende god
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.?",Overvejende god,0,Særdeles god/Overvejende god
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.?",Hverken god eller dårlig,1,Dårlig kvalitet: Rådgivning om arbejdsmarkedstilknytning
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.?",Særdeles dårlig,1,Dårlig kvalitet: Rådgivning om arbejdsmarkedstilknytning
+"17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Rådgivning om arbejdsmarkedstilknytning, beskæftigelse m.m.?",Ved ikke,2,
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen?,Særdeles god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen?,Overvejende god,0,Særdeles god/Overvejende god
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen?,Hverken god eller dårlig,1,Dårlig kvalitet: Undervisning i de psykiske reaktioner på sygdommen
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen?,Særdeles dårlig,1,Dårlig kvalitet: Undervisning i de psykiske reaktioner på sygdommen
+17.1 Hvordan vil du vurdere kvaliteten af tilbuddene? Sæt ét kryds i hver linje - Undervisning i de psykiske reaktioner på sygdommen?,Ved ikke,2,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Jeg havde ikke behov for det,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Jeg havde ikke lyst,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Jeg ville hellere selv finde en måde at komme mig på,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Tidspunktet på dagen passede mig ikke,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",På grund af transport og/eller økonomi,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds","På grund af barrierer i forhold til sprog, religion/kultur o.l.",,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Andre årsager - skriv venligst,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds",Ikke relevant,,
+"17.2 Hvis der var tilbud, som du ikke tog imod, hvorfor? Sæt gerne flere kryds - Andre årsager - skriv venligst",,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",0-2 uger,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",3-5 uger,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",6-8 uger,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",9 eller flere uger,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",Ved ikke,,
+"17.3 Hvis du modtog fysisk træning, hvor mange uger gik der cirka, fra du blev henvist, til du startede træningen?",Jeg har ikke modtaget fysisk træning,,
+"18. Røg du, da du fik din hjertesygdom?","Ja, og jeg ryger stadig dagligt",,
+"18. Røg du, da du fik din hjertesygdom?","Ja, og jeg ryger stadig lejlighedsvist",,
+"18. Røg du, da du fik din hjertesygdom?","Ja, men jeg er holdt op",,
+"18. Røg du, da du fik din hjertesygdom?",Nej,,
+"18.1 Er du bekendt med, at der er markant større chance for at blive røgfri ved hjælp af rådgivning og rygestopmedicin?",Ja,,
+"18.1 Er du bekendt med, at der er markant større chance for at blive røgfri ved hjælp af rådgivning og rygestopmedicin?",Nej,,
+"18.2 Blev du af personale på sygehus, hos egen læge eller i kommunen anbefalet at få rådgivning om rygestop i kommunen?","Ja, og jeg fik rådgivning",,
+"18.2 Blev du af personale på sygehus, hos egen læge eller i kommunen anbefalet at få rådgivning om rygestop i kommunen?","Ja, men jeg ønskede ikke rådgivning",,
+"18.2 Blev du af personale på sygehus, hos egen læge eller i kommunen anbefalet at få rådgivning om rygestop i kommunen?",Nej,,
+"18.2 Blev du af personale på sygehus, hos egen læge eller i kommunen anbefalet at få rådgivning om rygestop i kommunen?",Ved ikke,,
+"19. Manglede du hjælp og støtte til at håndtere svære følelser, bekymringer eller følelsesmæssige problemer med din hjertesygdom?","Ja, i høj grad",1,I nogen grad/i høj grad
+"19. Manglede du hjælp og støtte til at håndtere svære følelser, bekymringer eller følelsesmæssige problemer med din hjertesygdom?","Ja, i nogen grad",1,I nogen grad/i høj grad
+"19. Manglede du hjælp og støtte til at håndtere svære følelser, bekymringer eller følelsesmæssige problemer med din hjertesygdom?",I mindre grad,0,I mindre grad/slet ikke
+"19. Manglede du hjælp og støtte til at håndtere svære følelser, bekymringer eller følelsesmæssige problemer med din hjertesygdom?","Nej, slet ikke",0,I mindre grad/slet ikke
+"19. Manglede du hjælp og støtte til at håndtere svære følelser, bekymringer eller følelsesmæssige problemer med din hjertesygdom?",Ved ikke,2,
+"20. Var du i arbejde, da du fik din hjertesygdom i 2018? Arbejde inkluderer her også deltidsarbejde, fleksjob, barsel m.v.",Ja,,
+"20. Var du i arbejde, da du fik din hjertesygdom i 2018? Arbejde inkluderer her også deltidsarbejde, fleksjob, barsel m.v.",Nej,,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg blev fyret",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg har måttet stoppe med at arbejde i en periode",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg er holdt op med at arbejde pga. min hjertesygdom",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg har skiftet arbejde/karrierevej",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg har valgt at gå ned i tid",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg er kommet i fleksjob",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, den fysiske indretning af arbejdspladsen er blevet ændret/jeg har fået hjælpemidler",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Ja, jeg har fået andre arbejdsopgaver end tidligere",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Jeg er holdt op med at arbejde, men ikke pga. min hjertesygdom",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,"Nej, min arbejdssituation er den samme",,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser,Andet ? skriv venligst,,
+20.1 Har din arbejdssituation ændret sig som følge af din hjertesygdom? Sæt gerne flere krydser - Andet ? skriv venligst,,,
+20.2 Har du været sygemeldt som følge af din hjertesygdom?,"Ja, men jeg er tilbage i arbejde",,
+20.2 Har du været sygemeldt som følge af din hjertesygdom?,"Ja, og jeg er stadig sygemeldt",,
+20.2 Har du været sygemeldt som følge af din hjertesygdom?,Nej,,
+"20.2.1 Da du vendte tilbage i arbejde efter sygemeldingen, følte du dig da klar til det?","Ja, i høj grad",0,I nogen grad/i høj grad
+"20.2.1 Da du vendte tilbage i arbejde efter sygemeldingen, følte du dig da klar til det?","Ja, i nogen grad",0,I nogen grad/i høj grad
+"20.2.1 Da du vendte tilbage i arbejde efter sygemeldingen, følte du dig da klar til det?",I mindre grad,1,I mindre grad/slet ikke
+"20.2.1 Da du vendte tilbage i arbejde efter sygemeldingen, følte du dig da klar til det?","Nej, slet ikke",1,I mindre grad/slet ikke
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds","For at komme tilbage til den hverdag jeg havde, før jeg blev syg",,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds",Jeg følte mig fysisk klar til at vende tilbage til arbejdet,,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds",Jeg følte mig psykisk klar til at vende tilbage til arbejdet,,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds","Jeg havde behov for at føle, at jeg kunne bidrage og være til nytte",,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds",For at få tankerne væk fra min hjertesygdom,,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds",Jeg var bange for at miste mit arbejde,,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds","Jeg følte, at jeg var nødt til det",,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds",Andet - skriv gerne:,,
+"20.2.2 Hvad var grunden(e) til, at du vendte tilbage til arbejdet på det tidspunkt, du gjorde? Sæt gerne flere kryds - Andet - skriv gerne:",,,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af jobcenteret (kommunen)",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af min arbejdsgiver",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af mine kolleger",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af mine pårørende",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af økonomiske årsager",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Ja, jeg har følt mig presset af andre årsager, skriv gerne:",,
+20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser,"Nej, jeg har ikke følt mig presset",,
+"20.2.3 Har du følt dig presset til at vende tilbage til arbejde efter sygemelding? Sæt gerne flere krydser - Ja, jeg har følt mig presset af andre årsager, skriv gerne:",,,
+"20.2.4 Har du i forbindelse med at vende tilbage til arbejdet haft brug for professionel rådgivning, fx fra en socialrådgiver, fagforening, jobkonsulent e.l.? ","Ja, og jeg fik professionel rådgivning",,
+"20.2.4 Har du i forbindelse med at vende tilbage til arbejdet haft brug for professionel rådgivning, fx fra en socialrådgiver, fagforening, jobkonsulent e.l.? ","Ja, men jeg fik ikke professionel rådgivning",,
+"20.2.4 Har du i forbindelse med at vende tilbage til arbejdet haft brug for professionel rådgivning, fx fra en socialrådgiver, fagforening, jobkonsulent e.l.? ",Nej,,
+20.2.5 Har din arbejdsgiver gjort noget for at hjælpe dig med at bevare din tilknytning til arbejdspladsen?,"Ja, i høj grad",0,I nogen grad/i høj grad
+20.2.5 Har din arbejdsgiver gjort noget for at hjælpe dig med at bevare din tilknytning til arbejdspladsen?,"Ja, i nogen grad",0,I nogen grad/i høj grad
+20.2.5 Har din arbejdsgiver gjort noget for at hjælpe dig med at bevare din tilknytning til arbejdspladsen?,I mindre grad,1,I mindre grad/slet ikke
+20.2.5 Har din arbejdsgiver gjort noget for at hjælpe dig med at bevare din tilknytning til arbejdspladsen?,"Nej, slet ikke",1,I mindre grad/slet ikke
+20.2.5 Har din arbejdsgiver gjort noget for at hjælpe dig med at bevare din tilknytning til arbejdspladsen?,Ved ikke,2,
+21. Har økonomien i din husstand ændret sig som følge af din hjertesygdom?,"Ja, den er dårligere end før",,
+21. Har økonomien i din husstand ændret sig som følge af din hjertesygdom?,"Ja, den er bedre end før",,
+21. Har økonomien i din husstand ændret sig som følge af din hjertesygdom?,"Nej, den er ikke ændret",,
+21. Har økonomien i din husstand ændret sig som følge af din hjertesygdom?,Ved ikke,,
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Sygedagpenge,Ja,1,Problemer med at få tildelt sygedagpenge
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Sygedagpenge,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Sygedagpenge,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Fleksjob,Ja,1,Problemer med at få tildelt fleksjob
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Fleksjob,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Fleksjob,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Førtidspension,Ja,1,Problemer med at få tildelt førtidspension
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Førtidspension,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Førtidspension,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjælpemidler,Ja,1,Problemer med at få tildelt hjælpemidler
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjælpemidler,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjælpemidler,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjemmehjælp,Ja,1,Problemer med at få tildelt hjemmehjælp
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjemmehjælp,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Hjemmehjælp,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til medicin,Ja,1,Problemer med at få tildelt tilskud til medicin
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til medicin,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til medicin,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til psykolog,Ja,1,Problemer med at få tildelt tilskud til psykolog
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til psykolog,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Tilskud til psykolog,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Ansøgning om merudgifter på grund af nedsat fysisk/psykisk funktionsevne,Ja,1,Problemer med ansøgning om merudgifter på grund af nedsat fysisk/psykisk funktionsevne
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Ansøgning om merudgifter på grund af nedsat fysisk/psykisk funktionsevne,Nej,0,Nej
+22. Har du i forbindelse med din hjertesygdom oplevet problemer med at få tildelt følgende ydelser? Sæt ét kryds i hver linje - Ansøgning om merudgifter på grund af nedsat fysisk/psykisk funktionsevne,Jeg har ikke ansøgt/ikke relevant,2,Jeg har ikke ansøgt/ikke relevant
+"22.1 Har du i forbindelse med ansøgning om én eller flere af førnævnte ydelser haft brug for professionel rådgivning f.eks. fra en socialrådgiver, din praktiserende læge eller patientforening? ","Ja, og jeg fik professionel rådgivning",,
+"22.1 Har du i forbindelse med ansøgning om én eller flere af førnævnte ydelser haft brug for professionel rådgivning f.eks. fra en socialrådgiver, din praktiserende læge eller patientforening? ","Ja, men jeg fik ikke professionel rådgivning",,
+"22.1 Har du i forbindelse med ansøgning om én eller flere af førnævnte ydelser haft brug for professionel rådgivning f.eks. fra en socialrådgiver, din praktiserende læge eller patientforening? ",Nej,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Calcium,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",D-vitamin,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",E-vitamin,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Efedrin,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Fibertilskud f.eks. HUSK/loppefrøskaller,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Fiskeolie,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Ginkgo biloba,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Ginseng,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Hvidløg,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Hvidtjørn,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Ingefær,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Jern,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",K-vitamin,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",L-carnitin,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Magnesium,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Multivitaminer,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Perikon/perikum/St. Johns Wort,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Q10,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Røde gærris,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Andet - skriv venligst:,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'.",Jeg tager ingen af ovenstående produkter,,
+"25. Tager du nogen af følgende former for kosttilskud eller naturlægemidler? Sæt kryds ved det/de produkt(er), du tager. Hvis du ingen tager, sæt da kryds ved 'Nej, jeg tager ingen af ovenstående produkter'. - Andet - skriv venligst:",,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,"For min sundhed - fx fordi jeg gerne vil undgå, at sygdommen udvikler sig",,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,For at få mindre lægeordineret medicin,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,Som supplement til den øvrige behandling,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,Som behandling/lindring af anden sygdom,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,Fordi kosttilskud og naturlægemidler ikke har bivirkninger,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,"Jeg har fået det anbefalet af en læge, tandlæge eller sygeplejerske",,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,"Jeg har fået det anbefalet af familie, ven/veninde, kollega, nabo, en anden hjertepatient e.a.",,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds,Andet,,
+25.1 Jeg tager produkterne af følgende årsager... Sæt gerne flere kryds - Andet - skriv venligst:,,,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om",Hvilken virkning du gerne vil opnå med kosttilskuddene/naturlægemidlerne,,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om","Hvilke produkter og hvilken dosis, du med fordel kunne tage",,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om","Hvordan produkterne påvirker den lægeordinerede medicin, du eventuelt får",,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om",Hvordan du skal forholde dig i tilfælde af operation,,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om",Hvordan du indberetter eventuelle bivirkninger eller allergiske reaktioner,,
+"25.2 Har du talt med din egen læge eller hjertelægen om følgende i forbindelse med de kosttilskud eller naturlægemidler, du tager? Sæt kryds ved det, du har talt med lægen om","Nej, jeg har ikke talt med egen læge eller hjertelægen",,
+"26. Hvordan synes du, at dit helbred er alt i alt? ",Fremragende,0,
+"26. Hvordan synes du, at dit helbred er alt i alt? ",Vældig godt,0,
+"26. Hvordan synes du, at dit helbred er alt i alt? ",Godt,0,
+"26. Hvordan synes du, at dit helbred er alt i alt? ",Mindre godt,1,Dårligt / Mindre godt
+"26. Hvordan synes du, at dit helbred er alt i alt? ",Dårligt,1,Dårligt / Mindre godt
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Altid,1,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Ofte,1,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Sommetider,0,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Sjældent ,0,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Er du vågnet flere gange og har haft svært ved at falde i søvn igen?,Aldrig,0,
+"27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågnede?",Altid,1,
+"27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågnede?",Ofte,1,
+"27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågnede?",Sommetider,0,
+"27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågnede?",Sjældent ,0,
+"27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt, at du ikke var udhvilet, når du vågnede?",Aldrig,0,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dig træt i løbet af dagen?,Altid,1,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dig træt i løbet af dagen?,Ofte,1,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dig træt i løbet af dagen?,Sommetider,0,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dig træt i løbet af dagen?,Sjældent ,0,
+27. Hvor ofte inden for de seneste fire uger... Sæt ét kryds i hver linje - Har du følt dig træt i løbet af dagen?,Aldrig,0,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at få den rette behandling (f.eks. medicin),I høj grad,1,Bekymret for: Ikke at få den rette behandling
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at få den rette behandling (f.eks. medicin),I nogen grad,1,Bekymret for: Ikke at få den rette behandling
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at få den rette behandling (f.eks. medicin),I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at få den rette behandling (f.eks. medicin),Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at få den rette behandling (f.eks. medicin),Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Om din hjertesygdom forværres,I høj grad,1,Bekymret for:  Om din hjertesygdom forværres
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Om din hjertesygdom forværres,I nogen grad,1,Bekymret for: Om din hjertesygdom forværres
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Om din hjertesygdom forværres,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Om din hjertesygdom forværres,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Om din hjertesygdom forværres,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At dine nærmeste bekymrer sig,I høj grad,1,Bekymret for: At dine nærmeste bekymrer sig
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At dine nærmeste bekymrer sig,I nogen grad,1,Bekymret for: At dine nærmeste bekymrer sig
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At dine nærmeste bekymrer sig,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At dine nærmeste bekymrer sig,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At dine nærmeste bekymrer sig,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At være en byrde for din familie,I høj grad,1,Bekymret for: At være en byrde for din familie
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At være en byrde for din familie,I nogen grad,1,Bekymret for: At være en byrde for din familie
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At være en byrde for din familie,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At være en byrde for din familie,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - At være en byrde for din familie,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan det skal gå din familie i fremtiden,I høj grad,1,Bekymret for: Hvordan det skal gå din familie i fremtiden
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan det skal gå din familie i fremtiden,I nogen grad,1,Bekymret for: Hvordan det skal gå din familie i fremtiden
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan det skal gå din familie i fremtiden,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan det skal gå din familie i fremtiden,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan det skal gå din familie i fremtiden,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med dine nærmeste om din sygdom,I høj grad,1,Bekymret for: Hvordan du får talt med dine nærmeste om din sygdom
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med dine nærmeste om din sygdom,I nogen grad,1,Bekymret for: Hvordan du får talt med dine nærmeste om din sygdom
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med dine nærmeste om din sygdom,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med dine nærmeste om din sygdom,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du får talt med dine nærmeste om din sygdom,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du skal komme tilbage på arbejde igen,I høj grad,1,Bekymret for: Hvordan du skal komme tilbage på arbejde igen
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du skal komme tilbage på arbejde igen,I nogen grad,1,Bekymret for: Hvordan du skal komme tilbage på arbejde igen
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du skal komme tilbage på arbejde igen,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du skal komme tilbage på arbejde igen,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvordan du skal komme tilbage på arbejde igen,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at have nogen at snakke med,I høj grad,1,Bekymret for: Ikke at have nogen at snakke med
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at have nogen at snakke med,I nogen grad,1,Bekymret for: Ikke at have nogen at snakke med
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at have nogen at snakke med,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at have nogen at snakke med,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Ikke at have nogen at snakke med,Ved ikke/ikke relevant,2,
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvor længe du kan leve med din hjertesygdom,I høj grad,1,Bekymret for: Hvor længe du kan leve med din hjertesygdom
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvor længe du kan leve med din hjertesygdom,I nogen grad,1,Bekymret for: Hvor længe du kan leve med din hjertesygdom
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvor længe du kan leve med din hjertesygdom,I mindre grad,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvor længe du kan leve med din hjertesygdom,Slet ikke,0,I mindre grad/slet ikke
+28. Er du i forbindelse med din hjertesygdom bekymret for følgende? Sæt ét kryds i hver linje - Hvor længe du kan leve med din hjertesygdom,Ved ikke/ikke relevant,2,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,"Ja, hele tiden",1,Manglende eller nedsat lyst til sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,"Ja, ofte",1,Manglende eller nedsat lyst til sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,"Ja, ind imellem",1,Manglende eller nedsat lyst til sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,"Ja, men sjældent",0,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,"Nej, aldrig",0,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Manglende eller nedsat lyst til sex,Ikke relevant,2,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,"Ja, hele tiden",1,Nervøsitet for at have sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,"Ja, ofte",1,Nervøsitet for at have sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,"Ja, ind imellem",1,Nervøsitet for at have sex
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,"Ja, men sjældent",0,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,"Nej, aldrig",0,
+47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Nervøsitet for at have sex,Ikke relevant,2,
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?","Ja, hele tiden",1,Fysiske problemer i forhold til at have sex
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?","Ja, ofte",1,Fysiske problemer i forhold til at have sex
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?","Ja, ind imellem",1,Fysiske problemer i forhold til at have sex
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?","Ja, men sjældent",0,
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?","Nej, aldrig",0,
+"47. Oplever du på grund af din hjertesygdom følgende?  Sæt ét kryds i hver linje - Fysiske problemer i forhold til at have sex (f.eks. problemer med at få rejsning, manglende orgasmefølelse eller manglende evne til at blive fugtig)?",Ikke relevant,2,
+"48. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, i forhold til at beskytte dig mod smitte med corona-virus? F.eks. fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I høj grad,0,I nogen grad/i høj grad
+"48. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, i forhold til at beskytte dig mod smitte med corona-virus? F.eks. fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I nogen grad,0,I nogen grad/i høj grad
+"48. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, i forhold til at beskytte dig mod smitte med corona-virus? F.eks. fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",I mindre grad,1,I mindre grad/slet ikke
+"48. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, i forhold til at beskytte dig mod smitte med corona-virus? F.eks. fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",Slet ikke,1,I mindre grad/slet ikke
+"48. Har du under corona-pandemien fået den nødvendige information, så du vidste, hvad du skulle gøre, i forhold til at beskytte dig mod smitte med corona-virus? F.eks. fra myndighederne, sundhedsvæsenet eller Hjerteforeningen.",Ved ikke,,
+"49. Har du som følge af corona-pandemien fået udskudt behandling (indlæggelse, ambulant behandling, kontrol eller samtale) på hospital?",Ja,1,
+"49. Har du som følge af corona-pandemien fået udskudt behandling (indlæggelse, ambulant behandling, kontrol eller samtale) på hospital?",Nej,,
+"49. Har du som følge af corona-pandemien fået udskudt behandling (indlæggelse, ambulant behandling, kontrol eller samtale) på hospital?",Ved ikke,,
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I høj grad,1,Bekymringer er begyndt at styre mit liv
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I nogen grad,1,Bekymringer er begyndt at styre mit liv
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,I mindre grad,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,Slet ikke,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Bekymringer som følge af corona-pandemien er begyndt at styre mit liv,Ved ikke,2,
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I høj grad,1,Jeg undgår nødvendig kontakt med læge eller sygehus
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I nogen grad,1,Jeg undgår nødvendig kontakt med læge eller sygehus
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,I mindre grad,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,Slet ikke,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Jeg undgår nødvendig kontakt med læge eller sygehus,Ved ikke,2,
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre f.eks. partner eller børn,I høj grad,1,Mine bekymringer påvirker andre 
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre f.eks. partner eller børn,I nogen grad,1,Mine bekymringer påvirker andre 
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre f.eks. partner eller børn,I mindre grad,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre f.eks. partner eller børn,Slet ikke,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker andre f.eks. partner eller børn,Ved ikke,2,
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I høj grad,1,Mine bekymringer påvirker min søvn og evnen til at fungere
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I nogen grad,1,Mine bekymringer påvirker min søvn og evnen til at fungere
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,I mindre grad,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,Slet ikke,0,I mindre grad/slet ikke
+50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer påvirker min søvn og evnen til at fungere,Ved ikke,2,
+"50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer giver mig vedvarende fysiske symptomer f.eks. hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I høj grad,1,Mine bekymringer giver mig vedvarende fysiske symptomer 
+"50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer giver mig vedvarende fysiske symptomer f.eks. hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I nogen grad,1,Mine bekymringer giver mig vedvarende fysiske symptomer 
+"50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer giver mig vedvarende fysiske symptomer f.eks. hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",I mindre grad,0,I mindre grad/slet ikke
+"50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer giver mig vedvarende fysiske symptomer f.eks. hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",Slet ikke,0,I mindre grad/slet ikke
+"50. I hvor høj grad oplever du følgende som følge af corona-pandemien? Sæt ét kryds i hver linje - Mine bekymringer giver mig vedvarende fysiske symptomer f.eks. hjertebanken, åndenød, træthed, koncentrationsbesvær eller irritabilitet",Ved ikke,2,
+WHO-5,WHO-5 >=50,,
+WHO-5,WHO-5 <50,1,Indikation på dårlig trivsel
+HADS-anxiety,HADS anxiety 0 - 7,,
+HADS-anxiety,HADS anxiety 8 - 10,,
+HADS-anxiety,HADS anxiety >=11,1,Symptomer på angst
+HADS-depression,HADS depression 0 - 7,,
+HADS-depression,HADS depression 8 - 10,,
+HADS-depression,HADS depression >=11,1,Symptomer på depression
+T-ILS,T-ILS score <7,,
+T-ILS,T-ILS score >=7,1,Indikation på svær ensomhed

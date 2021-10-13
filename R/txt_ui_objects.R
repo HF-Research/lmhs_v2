@@ -36,7 +36,7 @@ alder og uddannelse."
 
 # READER'S GUIDE ---------------------------------------------------------
 
-ui_guide_title <- "Læsevejledning"
+ui_guide_title <- "Vejledning"
 
 
 guide_text <- list(
@@ -159,11 +159,26 @@ videregående, lang videregående)",
 Region Sjælland, Region Hovedstaden)",
 
     "Den pårørendes relation til den hjertesyge (for pårørendeundersøgelsen)"
-  )
+  ),
+reports=list(
+  "<a href='https://hjerteforeningen.dk/wp-content/uploads/2021/10/LMEH_Rapport_PATIENT_final-2.pdf'>Patientrapport</a>",
+  "<a href='https://hjerteforeningen.dk/wp-content/uploads/2021/10/LMEH_Rapport_PA%CC%8AROeRENDE_final-4.pdf'>Pårørenderapport</a>"
+)
 )
 
 buttet_html_ls <- lapply(bullets, buttit_html)
 
+download_buttons <- list("pat"=htmltools::renderTags(downloadButton(
+  outputId = "download_pat",
+  label = paste0(txt_download),
+  class = "btn radiobtn btn-default",
+))$html %>% as.character(),
+"paar"=htmltools::renderTags(downloadButton(
+  outputId = "download_paar",
+  label = paste0(txt_download),
+  class = "btn radiobtn btn-default",
+))$html %>% as.character()
+)
 # ABOUT TEXT --------------------------------------------------------------
 
 
@@ -314,7 +329,8 @@ defineret: "
   tilstrækkelig information om udleveret medicin, eller at de havde manglet
   hjælp til at håndtere svære følelser.",
 
-    "Se definition af cut-points.",
+    paste0("Se definition af cut-points", download_buttons$pat),
+
 
     "I patientundersøgelsen er de beregnede andele blevet vægtet for såkaldt non-
   respondents (ikke-deltagelse) for at sikre, at de personer som deltog i
@@ -339,7 +355,7 @@ defineret: "
   information om hjertesygdommen, eller at de ikke havde fået tilstrækkelig
   hjælp til at leve bedst muligt som pårørende til en hjertepatient.",
 
-    "Se definition af cut-points.",
+    paste0("Se definition af cut-points", download_buttons$paar),
 
     "Det bemærkes, at antallet af personer ikke er det samme i alle analyser,
   hvilket skyldes, at ikke alle deltagere besvarede alle spørgsmål, samt at
@@ -357,9 +373,9 @@ defineret: "
     "Undersøgelsens resultater er tilgængelige i denne database. Databasen giver
   mulighed for at undersøge mulige sammenhænge ved at stratificere/opdele de
   beregnede andele på en række variable, herunder: ",
-    buttet_html_ls$comm
-
-
+    buttet_html_ls$comm,
+"Udvalgte resultatøer præsenteres desuden i to rapporter, som kan hentes her:",
+buttet_html_ls$reports
   )
 
 )

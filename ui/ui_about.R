@@ -21,7 +21,8 @@ tabPanel(
       9,
       class = "col_about_text_lmhs",
       fluidRow(h3(textOutput("ui_about_section_title"))),
-      fluidRow(uiOutput("ui_about_desc"))
+      fluidRow(uiOutput("ui_about_desc")),
+      fluidRow(DTOutput("table_diag"))
 
 
     )

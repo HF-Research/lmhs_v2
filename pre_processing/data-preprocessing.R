@@ -6,13 +6,18 @@ library(sf)
 library(purrr)
 library(rmapshaper)
 library(data.table)
+library(flextable)
+library(officer)
 # LOAD DATA ---------------------------------------------------------------
 dat <- fread(input = "data/export.txt", encoding = "Latin-1")
 topics <- fread("data/topics.csv", encoding = "UTF-8")
 struc <-
   fread("data/struc.txt", encoding = "Latin-1") %>% split(by = "person_type")
 labels <-
-  fread("data/labels.txt", encoding = "Latin-1") %>% split(by = "person_type")
+  fread("data/labels.txt", encoding = "Latin-1")
+labels[, group:=as.numeric(group)]
+labels <- split(labels, by="person_type")
+
 scales <- fread("data/scales_description.csv", encoding = "UTF-8")
 converted_binary <-
   fread("data/converted_binary.csv", encoding = "UTF-8")
@@ -262,7 +267,6 @@ dat[, `:=`(
   tmp = NULL,
   display = NULL,
   topic_en = NULL,
-  question_number = NULL,
   topic = NULL,
   var_name_new = NULL,
   text = NULL
@@ -409,10 +413,53 @@ saveRDS(max_diff_map_colors, file = "cached_data/max_diff_map_colors.rds")
 
 
 # ABOUT TEXT --------------------------------------------------------------
-source("R/txt_ui_objects.R")
 
+diag <- fread("data/diag_codes.csv", encoding = "UTF-8")
+saveRDS(diag, "cached_data/diag.rds")
 
+cp <- fread("data/Operationalisering_cutpoints_patient.csv", encoding = "UTF-8")
+cp[Group!='', Group:=paste0(`Operationalisering (cut-points)`, ' - ', Group)]
+cp[Group==''&!is.na(`Operationalisering (cut-points)`), Group:=paste0(`Operationalisering (cut-points)`, ' - ', Svarmuligheder)]
+cp
+nm<- names(cp)
 
+setnames(cp, old = nm[3:4], new = nm[4:3])
+cp$Group <- NULL
+cp <- cp[Svarmuligheder!=""]
+border_index <- cp[, .N, by="Spørgsmål"][,N]
+border_index <- cumsum(border_index)
+cp_flex <- cp %>% flextable() %>%
+  merge_v(j = 1) %>%
+  hline(i=border_index) %>%
+  width(j=1:2, width  =2.1) %>%
+  width(j=3, width  =1.8)  %>%
+  font(fontname="Roboto",part = "all")
+
+cp_print <- read_docx() %>%
+  body_add_flextable(cp_flex) %>%
+  print(target="pre_processing/cp.docx")
+
+cp <- fread("data/Operationalisering_cutpoints_paaroerende.csv", encoding = "UTF-8")
+cp[Group!='', Group:=paste0(`Operationalisering (cut-points)`, ' - ', Group)]
+cp[Group==''&!is.na(`Operationalisering (cut-points)`), Group:=paste0(`Operationalisering (cut-points)`, ' - ', Svarmuligheder)]
+cp
+nm<- names(cp)
+
+setnames(cp, old = nm[3:4], new = nm[4:3])
+cp$Group <- NULL
+cp <- cp[Svarmuligheder!=""]
+border_index <- cp[, .N, by="Spørgsmål"][,N]
+border_index <- cumsum(border_index)
+cp_flex <- cp %>% flextable() %>%
+  merge_v(j = 1) %>%
+  hline(i=border_index) %>%
+  width(j=1:2, width  =2.1) %>%
+  width(j=3, width  =1.8)  %>%
+  font(fontname="Roboto",part = "all")
+
+cp_print <- read_docx() %>%
+  body_add_flextable(cp_flex) %>%
+  print(target="pre_processing/cp_paar.docx")
 
 # CSS PREPERATION ---------------------------------------------------------
 

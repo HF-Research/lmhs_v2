@@ -43,14 +43,15 @@ observeEvent(input$question_name_short, {
 observe(label = "tabsMaps", {
   # Shows map tab only when geo data is selected
   shinyjs::toggle(
-    condition = (input$strat=="Region"&&!hq()),
+    condition = (input$strat == "Region" && !hq()),
     selector = paste0("#data_vis_tabs li a[data-value=", txt_tab_title_map, "]")
   )
 })
 
 # Switch tabs when isGeo == FALSE
 observeEvent(label = "forceTabSwitchMap", input$strat, {
-  if (input$data_vis_tabs == txt_tab_title_map && input$strat!="Region")
+  if (input$data_vis_tabs == txt_tab_title_map &&
+      input$strat != "Region")
     updateTabsetPanel(session = session,
                       inputId = "data_vis_tabs",
                       selected = "Grafer")
@@ -93,11 +94,6 @@ case <- reactive({
   case
 })
 # PRETTY TEXT -------------------------------------------------------------
-hq <- reactive({
-  hq <- FALSE
-  hq <- grepl("HeartQol", input$question_name_short)
-  hq
-})
 
 pretty_title <- reactive({
   plot_title <-
@@ -108,7 +104,7 @@ pretty_title <- reactive({
 pretty_title_sub <- reactive({
   plot_title_sub <- ""
   if (hq()) {
-    plot_title_sub <- "Max score er 3, højerer score er bedre"
+    plot_title_sub <- "Max score er 3, højere score er bedre"
   }
   else if (input$strat != "Svarfordeling") {
     plot_title_sub <- plot_data()$response[1]
@@ -142,12 +138,6 @@ output$outcome_title_sub_map <- renderText({
   pretty_title_sub()
 })
 
-large_plot <- reactive({
-  flag_large_plot(x = plot_data(),
-                  input$strat,
-                  input$person_type,
-                  input$question_name_short)
-})
 # HELPER TEXT -------------------------------------------------------------
 output$outcome_description <- renderUI({
   req(input$question_name_short,
@@ -183,7 +173,7 @@ output$helper_weighted <- renderUI({
   req(input$question_name_short,
       input$strat, nrow(plot_data()) > 0)
 
-  if (input$person_type!="pat")
+  if (input$person_type != "pat")
     return(" ")
   out_title <- tags$b(txt_weighted_helper_title)
   tagList(out_title, txt_weighted_helper)
@@ -192,14 +182,44 @@ output$helper_weighted <- renderUI({
 })
 
 
-# PLOT --------------------------------------------------------------------
 
-output$plot <- renderPlotly({
+# HELPER REACTIVES --------------------------------------------------------
+valid_plot <- reactive({
   req(input$topic,
       input$question_name_short,
       input$strat,
       nrow(plot_data()) > 0)
+  TRUE
+})
 
+hq <- reactive({
+  hq <- FALSE
+  hq <- grepl("HeartQol", input$question_name_short)
+  hq
+})
+
+
+response_to_last <- reactive({
+  req(valid_plot())
+  plot_dat <- plot_data()
+  if (input$person_type == "pat") {
+    return(last_response_switch_pat(plot_dat$question_number[1]))
+  }
+   return(last_response_switch_paar(plot_dat$question_number[1]))
+})
+
+large_plot <- reactive({
+  flag_large_plot(x = plot_data(),
+                  input$strat,
+                  input$person_type,
+                  input$question_name_short)
+})
+
+
+# PLOT --------------------------------------------------------------------
+
+output$plot <- renderPlotly({
+  req(valid_plot())
   input$strat
   input$question_name_short
   isolate({
@@ -232,11 +252,21 @@ output$plot <- renderPlotly({
       tick_font_size <- 13
     }
     # Action
+    plot_dat <- plot_data()
+    selected_response <- response_to_last()
+    unique_plot_order <- !is.null(selected_response)
+    if (unique_plot_order) {
+      plot_dat <-
+        re_order_plot(x = plot_dat,
+                      last_response_str = selected_response)
+    }
+
     plot <- make_plotly(
       strat = input$strat,
-      dat = plot_data(),
+      dat = plot_dat,
       q = input$question_name_short,
       large_plot = large_plot,
+      unique_plot_order = unique_plot_order,
       axis_title_x = axis_title_x,
       num_digits = 1,
       hq = hq()
@@ -269,11 +299,9 @@ output$table_rate <- renderDT({
   input$question_name_short
   isolate({
     case <- case()
-
     col_titles1 <- c("Vægtet andel(%)*", "Vægtet antal*")
     col_titles2 <- c("Andel(%)", "Antal")
     col_titles_mean <- c("Vægtet mean*")
-
 
     data_cols <- switch(
       case,
@@ -286,7 +314,6 @@ output$table_rate <- renderDT({
       "paar_age_sex" = col_titles2,
       "paar_strat" = col_titles2
     )
-
 
     dat <- switch(
       case,
@@ -319,8 +346,12 @@ output$table_rate <- renderDT({
     }
 
     names(dat) <- col_titles
-    messageTop = "t"
-    messageBottom = "bottom"
+    top <- ""
+    if (input$strat != "Svarfordeling") {
+      top <- pretty_title_sub()
+    }
+    messageTop = top
+    messageBottom = "Livmedenhjertesygdom.dk"
     n_col <- ncol(dat)
     make_dt_rate(
       dat = dat,
@@ -365,9 +396,10 @@ leaflet_map <- reactive({
   fill_data <-
     c(fill_data, fill_data + d$max_diff_map_colors[[data_var]])
   pal <-
-    colorNumeric(palette = "YlOrRd", domain = fill_data, )
+    colorNumeric(palette = "YlOrRd", domain = fill_data,)
   # This is created so NA doesn't appear on the legend
-  pal_NA <- colorNumeric("YlOrRd", fill_data, na.color = rgb(0, 0, 0, 0))
+  pal_NA <-
+    colorNumeric("YlOrRd", fill_data, na.color = rgb(0, 0, 0, 0))
 
   fill_colors <-
     ~ pal(map_data[[data_var]])
@@ -380,7 +412,7 @@ leaflet_map <- reactive({
       data = map_data[[data_var]],
       percent = !hq()
     )
-  legend_title <- paste0(pretty_title_sub()," (%)") %>%
+  legend_title <- paste0(pretty_title_sub(), " (%)") %>%
     gsub(": ", ": <br>", .)
 
 
@@ -402,9 +434,11 @@ leaflet_map <- reactive({
       opacity = legend_opacity,
       labFormat = labelFormat(big.mark = ".", digits = 0)
     )
-  return(list(map=map,
-              fill_data=fill_data,
-              data_var=data_var))
+  return(list(
+    map = map,
+    fill_data = fill_data,
+    data_var = data_var
+  ))
 })
 
 output$map <- renderLeaflet({
@@ -413,16 +447,8 @@ output$map <- renderLeaflet({
       nrow(plot_data() > 0))
 
   leaflet_map()$map
-
-
-
-
-
 })
 
-
-
-# DOWNLOAD BUTTONS --------------------------------------------------------
 output$download_map <- downloadHandler(
   filename = "map_livetmedhjertesygdom.png",
   content = function(file) {
@@ -431,7 +457,7 @@ output$download_map <- downloadHandler(
       map_obj = map_data_obj(),
       mini_map_lines = d$dk_sf_data$mini_map_lines,
       legend_text = pretty_title_sub(),
-      data_var= leaflet_map()$data_var,
+      data_var = leaflet_map()$data_var,
       plot_title = pretty_title(),
       thousands_sep = ".",
       dec_mark = ","
@@ -443,7 +469,5 @@ output$download_map <- downloadHandler(
       units = "cm",
       scale = 1.61
     )
-
   }
 )
-

@@ -1,0 +1,5 @@
+﻿ Sygdom,Diagnose,Indlæggelser,Ambulant/skadestue,A-diagnose,B-diagnose,Patienttype (pattype)
+Iskæmisk hjertesygdom   ,I20-25   ,Ja,Ja,Ja,Nej   ,0|1|2  
+Hjerteklapsygdom   ,"I05-I08, I34-I37  ",Ja,Ja,Ja,Nej  ,0|1|2  
+Hjertesvigt   ,"I11.0, I13.0, I13.2, I50, I42.0, I42.6, I42.7, I42.9  ",Ja,Ja,Ja,Ja  ,0|1|2  
+Forkammerflimmer (atrieflimmer),I48   ,Ja,Ja,Ja,Ja   ,0|1|2  
