@@ -44,6 +44,7 @@ guide_text <- list(
   ‘Livet med en hjertesygdom’ fra 2020/2021, og den giver dig mulighed for at
   dykke ned i resultaterne fra både patient- og pårørendeundersøgelsen samt
   eventuelt at downloade data eller figurer/tabeller.",
+
   "<b>Sådan bruger du databasen</b>",
 
   "På forsiden vælger du i boksen øverst til venstre, om du vil se
@@ -77,7 +78,15 @@ guide_text <- list(
   Danmark så godt som mulig.",
 
   "Du har under fanen ’Metode’ i den røde menu-bjælke mulighed for at læse
-  mere om undersøgelsen og dens metodiske fremgangsmåder."
+  mere om undersøgelsen og dens metodiske fremgangsmåder.",
+
+  "<b>Kontakt</b>",
+
+  "Hvis du har spørgsmål, feedback eller anbefalinger, skriv venligst til: </br>
+  <b>Nina Føns Johnsen</b>, Seniorforsker og projektleder
+  </br>Telefon:
+  33 18 66 59,
+  </br>e-mail: <b>njohnsen@hjerteforeningen.dk</b>"
 
 )
 # ABOUT SETUP-------------------------------------------------------------------
@@ -208,7 +217,13 @@ Gislason.",
 
     "Undersøgelsen er støttet af Snedkermester Sophus Jacobsen og hustru Astrid
 Jacobsens Fond, Helsefonden, Grete og Sigurd Pedersens Fond, Ingeniør og
-kaptajn Aage Nielsens Familiefond samt Lemvigh-Müller Fonden."
+kaptajn Aage Nielsens Familiefond samt Lemvigh-Müller Fonden.",
+
+    "Hvis du har spørgsmål, skriv venligst til: </br>
+  <b>Nina Føns Johnsen</b>, Seniorforsker og projektleder
+  </br>Telefon:
+  33 18 66 59,
+  </br>e-mail: <b>njohnsen@hjerteforeningen.dk</b>"
   ),
   "pop" = list(
     "De potentielle deltagere til undersøgelsen blev identificeret i

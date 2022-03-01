@@ -16,7 +16,7 @@ shinyServer(function(input, output, session) {
     if (input$check == "TRUE") {
       showModal(
         modalDialog(
-          title = "HjerteTal does not work with Internet Explorer",
+          title = "The LMHS app does not work with Internet Explorer",
           easyClose = TRUE,
           fade = TRUE,
           tags$p(
