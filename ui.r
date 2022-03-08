@@ -36,14 +36,14 @@ ui <- function(request) {
             title = "",
             windowTitle = tags$head(
               tags$link(rel = "icon", type = "image/png", href = "hf-icon.png"),
-              tags$title("LMHS")
+              tags$title("LMH")
             )
           ))
     ),
 
 
     navbarPage(
-      title = 'LMHS',
+      title = 'LMH',
       id = "bar",
       theme = "css-app-specifc.css",
       collapsible = TRUE,
