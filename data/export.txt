@@ -1,12 +1,28 @@
 "strat_level" "count" "percent" "strat" "item" "response" "mean" "patient_data" "Kon" "Alder"
 "Anden" 316 36.8 "Sygdom" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Anden" 119 13.8 "Sygdom" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 60 13.1 "Sygdom" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Anden" 88 19.1 "Sygdom" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Anden" 205 24 "Sygdom" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 109 17.3 "Sygdom" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Anden" 172 20.4 "Sygdom" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 171 20.2 "Sygdom" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 99 11.8 "Sygdom" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 29 3.4 "Sygdom" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 77 9.2 "Sygdom" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 156 18.5 "Sygdom" "s_19" "Nej" NA TRUE NA NA
 "Anden" 89 13 "Sygdom" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 94 13.7 "Sygdom" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 62 7.5 "Sygdom" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Anden" 175 21.4 "Sygdom" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 244 29.9 "Sygdom" "s_239" "Nej" NA TRUE NA NA
 "Anden" 69 12 "Sygdom" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 82 9.9 "Sygdom" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Anden" 241 30.2 "Sygdom" "s_70" "Ja" NA TRUE NA NA
+"Anden" 36 15 "Sygdom" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Anden" 177 21.4 "Sygdom" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Anden" NA NA "Sygdom" "s_205" "Nej" NA TRUE NA NA
+"Anden" 26 18.7 "Sygdom" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Anden" 39 27.9 "Sygdom" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Anden" 210 25.8 "Sygdom" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Anden" 146 17.7 "Sygdom" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -19,12 +35,28 @@
 "Anden" NA NA "Sygdom" "hq_score_emotional" NA 2.4 TRUE NA NA
 "Atrieflimren" 1255 33.2 "Sygdom" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Atrieflimren" 501 13.2 "Sygdom" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 321 15.4 "Sygdom" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Atrieflimren" 357 17.1 "Sygdom" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Atrieflimren" 809 21.5 "Sygdom" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 490 17.9 "Sygdom" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Atrieflimren" 634 17 "Sygdom" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 726 19.5 "Sygdom" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 506 13.6 "Sygdom" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 162 4.4 "Sygdom" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 309 8.3 "Sygdom" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 524 14.2 "Sygdom" "s_19" "Nej" NA TRUE NA NA
 "Atrieflimren" 434 13.6 "Sygdom" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 462 14.5 "Sygdom" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 275 7.5 "Sygdom" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Atrieflimren" 970 26.9 "Sygdom" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 1258 34.9 "Sygdom" "s_239" "Nej" NA TRUE NA NA
 "Atrieflimren" 315 13.5 "Sygdom" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 527 14.5 "Sygdom" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Atrieflimren" 1406 39.6 "Sygdom" "s_70" "Ja" NA TRUE NA NA
+"Atrieflimren" 241 17.1 "Sygdom" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Atrieflimren" 720 19.8 "Sygdom" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Atrieflimren" NA NA "Sygdom" "s_205" "Nej" NA TRUE NA NA
+"Atrieflimren" 88 15.4 "Sygdom" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Atrieflimren" 232 40.4 "Sygdom" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Atrieflimren" 918 25.4 "Sygdom" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Atrieflimren" 615 17.1 "Sygdom" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -35,50 +67,98 @@
 "Atrieflimren" 981 27.3 "Sygdom" "who5" "WHO-1 <50" NA TRUE NA NA
 "Atrieflimren" NA NA "Sygdom" "hq_score_physical" NA 2.1 TRUE NA NA
 "Atrieflimren" NA NA "Sygdom" "hq_score_emotional" NA 2.3 TRUE NA NA
-"Grundskole" 798 28.1 "Uddannelsesniveau" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
-"Grundskole" 390 13.7 "Uddannelsesniveau" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 407 14.4 "Uddannelsesniveau" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 557 19.8 "Uddannelsesniveau" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 297 12.6 "Uddannelsesniveau" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 509 18.8 "Uddannelsesniveau" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 202 10.4 "Uddannelsesniveau" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 522 19.3 "Uddannelsesniveau" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
-"Grundskole" 99 31.7 "Uddannelsesniveau" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 761 28.4 "Uddannelsesniveau" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
-"Grundskole" 493 18.3 "Uddannelsesniveau" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
-"Grundskole" 463 17.2 "Uddannelsesniveau" "s_267" "Ja" NA TRUE NA NA
-"Grundskole" 167 6.3 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
-"Grundskole" 187 7.2 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
-"Grundskole" 165 6.3 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA TRUE NA NA
-"Grundskole" 763 28.9 "Uddannelsesniveau" "who5" "WHO-1 <50" NA TRUE NA NA
-"Grundskole" NA NA "Uddannelsesniveau" "hq_score_physical" NA 1.9 TRUE NA NA
-"Grundskole" NA NA "Uddannelsesniveau" "hq_score_emotional" NA 2.3 TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 1157 29 "Uddannelsesniveau" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 558 14 "Uddannelsesniveau" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 723 18.3 "Uddannelsesniveau" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 667 16.9 "Uddannelsesniveau" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 522 16 "Uddannelsesniveau" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 864 22.8 "Uddannelsesniveau" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 277 10.6 "Uddannelsesniveau" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 774 20.3 "Uddannelsesniveau" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 286 35.6 "Uddannelsesniveau" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 853 22.6 "Uddannelsesniveau" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 683 18.1 "Uddannelsesniveau" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 668 17.7 "Uddannelsesniveau" "s_267" "Ja" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 173 4.6 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 209 5.6 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 178 4.8 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." 978 25.9 "Uddannelsesniveau" "who5" "WHO-1 <50" NA TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." NA NA "Uddannelsesniveau" "hq_score_physical" NA 2.2 TRUE NA NA
-"Gymnasial / erhvervsfaglig udd." NA NA "Uddannelsesniveau" "hq_score_emotional" NA 2.4 TRUE NA NA
+"Grundskole" 798 28.1 "Uddannelse" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
+"Grundskole" 390 13.7 "Uddannelse" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 250 16.3 "Uddannelse" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Grundskole" 285 18.5 "Uddannelse" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
+"Grundskole" 407 14.4 "Uddannelse" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 339 15.9 "Uddannelse" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
+"Grundskole" 557 19.8 "Uddannelse" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 618 22 "Uddannelse" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 371 13.2 "Uddannelse" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 114 4.1 "Uddannelse" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 209 7.5 "Uddannelse" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 426 15.3 "Uddannelse" "s_19" "Nej" NA TRUE NA NA
+"Grundskole" 297 12.6 "Uddannelse" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 305 12.9 "Uddannelse" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 178 6.5 "Uddannelse" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
+"Grundskole" 509 18.8 "Uddannelse" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 750 27.8 "Uddannelse" "s_239" "Nej" NA TRUE NA NA
+"Grundskole" 202 10.4 "Uddannelse" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 272 9.9 "Uddannelse" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 805 30.4 "Uddannelse" "s_70" "Ja" NA TRUE NA NA
+"Grundskole" 152 18.7 "Uddannelse" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 522 19.3 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Grundskole" 2014 74.4 "Uddannelse" "s_205" "Nej" NA TRUE NA NA
+"Grundskole" 50 15.7 "Uddannelse" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 99 31.7 "Uddannelse" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 761 28.4 "Uddannelse" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
+"Grundskole" 493 18.3 "Uddannelse" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
+"Grundskole" 463 17.2 "Uddannelse" "s_267" "Ja" NA TRUE NA NA
+"Grundskole" 167 6.3 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
+"Grundskole" 187 7.2 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
+"Grundskole" 165 6.3 "Uddannelse" "hads_depression" "HADS depression >=11" NA TRUE NA NA
+"Grundskole" 763 28.9 "Uddannelse" "who5" "WHO-1 <50" NA TRUE NA NA
+"Grundskole" NA NA "Uddannelse" "hq_score_physical" NA 1.9 TRUE NA NA
+"Grundskole" NA NA "Uddannelse" "hq_score_emotional" NA 2.3 TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 1157 29 "Uddannelse" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 558 14 "Uddannelse" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 315 13.7 "Uddannelse" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 398 17.3 "Uddannelse" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 723 18.3 "Uddannelse" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 476 16.9 "Uddannelse" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 667 16.9 "Uddannelse" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 813 20.7 "Uddannelse" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 498 12.7 "Uddannelse" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 174 4.5 "Uddannelse" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 321 8.2 "Uddannelse" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 657 16.8 "Uddannelse" "s_19" "Nej" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 522 16 "Uddannelse" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 490 15.1 "Uddannelse" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 286 7.4 "Uddannelse" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 864 22.8 "Uddannelse" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 1183 31.2 "Uddannelse" "s_239" "Nej" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 277 10.6 "Uddannelse" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 395 10.3 "Uddannelse" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 1364 37 "Uddannelse" "s_70" "Ja" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 242 17.7 "Uddannelse" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 774 20.3 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 2331 61.1 "Uddannelse" "s_205" "Nej" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 152 18.9 "Uddannelse" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 286 35.6 "Uddannelse" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 853 22.6 "Uddannelse" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 683 18.1 "Uddannelse" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 668 17.7 "Uddannelse" "s_267" "Ja" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 173 4.6 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 209 5.6 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 178 4.8 "Uddannelse" "hads_depression" "HADS depression >=11" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." 978 25.9 "Uddannelse" "who5" "WHO-1 <50" NA TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." NA NA "Uddannelse" "hq_score_physical" NA 2.2 TRUE NA NA
+"Gymnasial / erhvervsfaglig udd." NA NA "Uddannelse" "hq_score_emotional" NA 2.4 TRUE NA NA
 "Hjerteklapsygdom" 548 28.5 "Sygdom" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Hjerteklapsygdom" 246 12.8 "Sygdom" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 75 11 "Sygdom" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 124 18.3 "Sygdom" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 302 15.9 "Sygdom" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 192 14 "Sygdom" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 333 17.6 "Sygdom" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 353 18.7 "Sygdom" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 209 11.1 "Sygdom" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 59 3.1 "Sygdom" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 134 7.1 "Sygdom" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 342 18.2 "Sygdom" "s_19" "Nej" NA TRUE NA NA
 "Hjerteklapsygdom" 192 12.6 "Sygdom" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 202 13.2 "Sygdom" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 84 4.5 "Sygdom" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 268 14.8 "Sygdom" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 396 21.7 "Sygdom" "s_239" "Nej" NA TRUE NA NA
 "Hjerteklapsygdom" 101 7.1 "Sygdom" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 156 8.5 "Sygdom" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjerteklapsygdom" 490 28.3 "Sygdom" "s_70" "Ja" NA TRUE NA NA
+"Hjerteklapsygdom" 68 13.9 "Sygdom" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 271 14.8 "Sygdom" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Hjerteklapsygdom" NA NA "Sygdom" "s_205" "Nej" NA TRUE NA NA
+"Hjerteklapsygdom" 67 22.6 "Sygdom" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 87 29.3 "Sygdom" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjerteklapsygdom" 393 21.8 "Sygdom" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Hjerteklapsygdom" 259 14.3 "Sygdom" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -91,12 +171,28 @@
 "Hjerteklapsygdom" NA NA "Sygdom" "hq_score_emotional" NA 2.4 TRUE NA NA
 "Hjertesvigt" 361 24.6 "Sygdom" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Hjertesvigt" 254 17.1 "Sygdom" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 158 27.2 "Sygdom" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Hjertesvigt" 111 19.2 "Sygdom" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjertesvigt" 282 19.3 "Sygdom" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 182 16.8 "Sygdom" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjertesvigt" 243 16.6 "Sygdom" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 364 24.9 "Sygdom" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 200 13.7 "Sygdom" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 58 4 "Sygdom" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 112 7.7 "Sygdom" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 210 14.6 "Sygdom" "s_19" "Nej" NA TRUE NA NA
 "Hjertesvigt" 242 19.7 "Sygdom" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 206 16.8 "Sygdom" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 100 7 "Sygdom" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hjertesvigt" 245 17.4 "Sygdom" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 353 25 "Sygdom" "s_239" "Nej" NA TRUE NA NA
 "Hjertesvigt" 109 10.3 "Sygdom" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 147 10.3 "Sygdom" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hjertesvigt" 678 48.4 "Sygdom" "s_70" "Ja" NA TRUE NA NA
+"Hjertesvigt" 115 16.9 "Sygdom" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjertesvigt" 386 27.4 "Sygdom" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Hjertesvigt" NA NA "Sygdom" "s_205" "Nej" NA TRUE NA NA
+"Hjertesvigt" 69 24.9 "Sygdom" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjertesvigt" 75 27.1 "Sygdom" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hjertesvigt" 519 37.2 "Sygdom" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Hjertesvigt" 236 16.9 "Sygdom" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -109,12 +205,28 @@
 "Hjertesvigt" NA NA "Sygdom" "hq_score_emotional" NA 2.1 TRUE NA NA
 "Hovedstaden" 1007 35.9 "Region" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Hovedstaden" 435 15.5 "Region" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 264 16.7 "Region" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Hovedstaden" 330 20.8 "Region" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hovedstaden" 639 23 "Region" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 378 18.9 "Region" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hovedstaden" 513 18.7 "Region" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 595 21.7 "Region" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 354 13 "Region" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 120 4.4 "Region" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 246 9 "Region" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 487 18 "Region" "s_19" "Nej" NA TRUE NA NA
 "Hovedstaden" 323 14.5 "Region" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 325 14.6 "Region" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 235 8.8 "Region" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Hovedstaden" 710 27.1 "Region" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 963 36.7 "Region" "s_239" "Nej" NA TRUE NA NA
 "Hovedstaden" 190 11.5 "Region" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 322 12.1 "Region" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Hovedstaden" 965 37.6 "Region" "s_70" "Ja" NA TRUE NA NA
+"Hovedstaden" 176 18.2 "Region" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hovedstaden" 500 19 "Region" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Hovedstaden" 1641 62.3 "Region" "s_205" "Nej" NA TRUE NA NA
+"Hovedstaden" 66 14.3 "Region" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hovedstaden" 151 32.5 "Region" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Hovedstaden" 610 23.5 "Region" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Hovedstaden" 382 14.6 "Region" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -127,12 +239,28 @@
 "Hovedstaden" NA NA "Region" "hq_score_emotional" NA 2.4 TRUE NA NA
 "Iskæmisk hjertesygdom" 894 28.7 "Sygdom" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 484 15.5 "Sygdom" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 331 15.2 "Sygdom" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 378 17.4 "Sygdom" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 537 17.3 "Sygdom" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 420 18.5 "Sygdom" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 581 18.9 "Sygdom" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 727 23.7 "Sygdom" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 339 11.1 "Sygdom" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 131 4.3 "Sygdom" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 250 8.2 "Sygdom" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 467 15.3 "Sygdom" "s_19" "Nej" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 436 16.9 "Sygdom" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 378 14.6 "Sygdom" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 256 8.5 "Sygdom" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 681 22.9 "Sygdom" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 943 31.8 "Sygdom" "s_239" "Nej" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 219 10.9 "Sygdom" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 284 9.5 "Sygdom" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 1123 38.3 "Sygdom" "s_70" "Ja" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 228 20.3 "Sygdom" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 667 22.5 "Sygdom" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Iskæmisk hjertesygdom" NA NA "Sygdom" "s_205" "Nej" NA TRUE NA NA
+"Iskæmisk hjertesygdom" 117 19 "Sygdom" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 189 30.7 "Sygdom" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 685 23.3 "Sygdom" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Iskæmisk hjertesygdom" 520 17.7 "Sygdom" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -143,50 +271,98 @@
 "Iskæmisk hjertesygdom" 769 26.2 "Sygdom" "who5" "WHO-1 <50" NA TRUE NA NA
 "Iskæmisk hjertesygdom" NA NA "Sygdom" "hq_score_physical" NA 2.2 TRUE NA NA
 "Iskæmisk hjertesygdom" NA NA "Sygdom" "hq_score_emotional" NA 2.4 TRUE NA NA
-"Kort / mellemlang videregående udd." 387 32.7 "Uddannelsesniveau" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 169 14.2 "Uddannelsesniveau" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 283 23.8 "Uddannelsesniveau" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 187 16 "Uddannelsesniveau" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 171 16.7 "Uddannelsesniveau" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 315 27.8 "Uddannelsesniveau" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 95 13.1 "Uddannelsesniveau" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 265 23.3 "Uddannelsesniveau" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 74 33.4 "Uddannelsesniveau" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 262 23.2 "Uddannelsesniveau" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 164 14.6 "Uddannelsesniveau" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 173 15.5 "Uddannelsesniveau" "s_267" "Ja" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 59 5.2 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 71 6.4 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 43 3.9 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA TRUE NA NA
-"Kort / mellemlang videregående udd." 285 25.4 "Uddannelsesniveau" "who5" "WHO-1 <50" NA TRUE NA NA
-"Kort / mellemlang videregående udd." NA NA "Uddannelsesniveau" "hq_score_physical" NA 2.3 TRUE NA NA
-"Kort / mellemlang videregående udd." NA NA "Uddannelsesniveau" "hq_score_emotional" NA 2.4 TRUE NA NA
-"Lang videregående udd." 405 39.8 "Uddannelsesniveau" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
-"Lang videregående udd." 126 12.4 "Uddannelsesniveau" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 283 28 "Uddannelsesniveau" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 169 16.8 "Uddannelsesniveau" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 103 12.9 "Uddannelsesniveau" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 251 25.9 "Uddannelsesniveau" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 61 9.9 "Uddannelsesniveau" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 158 16.2 "Uddannelsesniveau" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
-"Lang videregående udd." 74 35.4 "Uddannelsesniveau" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 179 18.4 "Uddannelsesniveau" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
-"Lang videregående udd." 144 14.8 "Uddannelsesniveau" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
-"Lang videregående udd." 149 15.4 "Uddannelsesniveau" "s_267" "Ja" NA TRUE NA NA
-"Lang videregående udd." 46 4.8 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
-"Lang videregående udd." 40 4.1 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
-"Lang videregående udd." 47 4.8 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA TRUE NA NA
-"Lang videregående udd." 203 21 "Uddannelsesniveau" "who5" "WHO-1 <50" NA TRUE NA NA
-"Lang videregående udd." NA NA "Uddannelsesniveau" "hq_score_physical" NA 2.4 TRUE NA NA
-"Lang videregående udd." NA NA "Uddannelsesniveau" "hq_score_emotional" NA 2.5 TRUE NA NA
+"Kort / mellemlang videregående udd." 387 32.7 "Uddannelse" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 169 14.2 "Uddannelse" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 101 14.1 "Uddannelse" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 110 15.4 "Uddannelse" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 283 23.8 "Uddannelse" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 152 17.9 "Uddannelse" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 187 16 "Uddannelse" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 240 20.6 "Uddannelse" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 120 10.3 "Uddannelse" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 33 2.8 "Uddannelse" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 99 8.5 "Uddannelse" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 140 12 "Uddannelse" "s_19" "Nej" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 171 16.7 "Uddannelse" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 161 15.7 "Uddannelse" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 101 8.8 "Uddannelse" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 315 27.8 "Uddannelse" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 406 35.8 "Uddannelse" "s_239" "Nej" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 95 13.1 "Uddannelse" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 167 14.7 "Uddannelse" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 474 42.9 "Uddannelse" "s_70" "Ja" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 79 16.6 "Uddannelse" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 265 23.3 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 713 62.9 "Uddannelse" "s_205" "Nej" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 39 17.7 "Uddannelse" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 74 33.4 "Uddannelse" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 262 23.2 "Uddannelse" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 164 14.6 "Uddannelse" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 173 15.5 "Uddannelse" "s_267" "Ja" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 59 5.2 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 71 6.4 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 43 3.9 "Uddannelse" "hads_depression" "HADS depression >=11" NA TRUE NA NA
+"Kort / mellemlang videregående udd." 285 25.4 "Uddannelse" "who5" "WHO-1 <50" NA TRUE NA NA
+"Kort / mellemlang videregående udd." NA NA "Uddannelse" "hq_score_physical" NA 2.3 TRUE NA NA
+"Kort / mellemlang videregående udd." NA NA "Uddannelse" "hq_score_emotional" NA 2.4 TRUE NA NA
+"Lang videregående udd." 405 39.8 "Uddannelse" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
+"Lang videregående udd." 126 12.4 "Uddannelse" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 85 13.5 "Uddannelse" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Lang videregående udd." 99 15.8 "Uddannelse" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
+"Lang videregående udd." 283 28 "Uddannelse" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 125 18.2 "Uddannelse" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
+"Lang videregående udd." 169 16.8 "Uddannelse" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 198 19.8 "Uddannelse" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 101 10.1 "Uddannelse" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 41 4.1 "Uddannelse" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 85 8.6 "Uddannelse" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 185 18.8 "Uddannelse" "s_19" "Nej" NA TRUE NA NA
+"Lang videregående udd." 103 12.9 "Uddannelse" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 107 13.4 "Uddannelse" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 67 6.8 "Uddannelse" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
+"Lang videregående udd." 251 25.9 "Uddannelse" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 356 36.7 "Uddannelse" "s_239" "Nej" NA TRUE NA NA
+"Lang videregående udd." 61 9.9 "Uddannelse" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 118 12 "Uddannelse" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 380 40.2 "Uddannelse" "s_70" "Ja" NA TRUE NA NA
+"Lang videregående udd." 67 17.5 "Uddannelse" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 158 16.2 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Lang videregående udd." 502 51.3 "Uddannelse" "s_205" "Nej" NA TRUE NA NA
+"Lang videregående udd." 33 15.9 "Uddannelse" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 74 35.4 "Uddannelse" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 179 18.4 "Uddannelse" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
+"Lang videregående udd." 144 14.8 "Uddannelse" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
+"Lang videregående udd." 149 15.4 "Uddannelse" "s_267" "Ja" NA TRUE NA NA
+"Lang videregående udd." 46 4.8 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
+"Lang videregående udd." 40 4.1 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
+"Lang videregående udd." 47 4.8 "Uddannelse" "hads_depression" "HADS depression >=11" NA TRUE NA NA
+"Lang videregående udd." 203 21 "Uddannelse" "who5" "WHO-1 <50" NA TRUE NA NA
+"Lang videregående udd." NA NA "Uddannelse" "hq_score_physical" NA 2.4 TRUE NA NA
+"Lang videregående udd." NA NA "Uddannelse" "hq_score_emotional" NA 2.5 TRUE NA NA
 "Midtjylland" 306 21.3 "Region" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Midtjylland" 181 12.6 "Region" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 87 10.9 "Region" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Midtjylland" 116 14.4 "Region" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Midtjylland" 215 15.1 "Region" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 133 13.3 "Region" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Midtjylland" 203 14.3 "Region" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 233 16.4 "Region" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 157 11.1 "Region" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 43 3 "Region" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 99 7 "Region" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 219 15.4 "Region" "s_19" "Nej" NA TRUE NA NA
 "Midtjylland" 131 10.9 "Region" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 132 11 "Region" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 72 5.2 "Region" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Midtjylland" 244 17.7 "Region" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 357 25.9 "Region" "s_239" "Nej" NA TRUE NA NA
 "Midtjylland" 61 6 "Region" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 144 10.3 "Region" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Midtjylland" 481 35.8 "Region" "s_70" "Ja" NA TRUE NA NA
+"Midtjylland" 82 17 "Region" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Midtjylland" 309 22.4 "Region" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Midtjylland" 809 58.7 "Region" "s_205" "Nej" NA TRUE NA NA
+"Midtjylland" 49 15.5 "Region" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Midtjylland" 99 31.6 "Region" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Midtjylland" 332 24.2 "Region" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Midtjylland" 248 18.1 "Region" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -199,12 +375,28 @@
 "Midtjylland" NA NA "Region" "hq_score_emotional" NA 2.3 TRUE NA NA
 "Nordjylland" 279 25.5 "Region" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Nordjylland" 114 10.3 "Region" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 64 10.3 "Region" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Nordjylland" 86 13.9 "Region" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Nordjylland" 147 13.4 "Region" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 117 13.9 "Region" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Nordjylland" 172 15.7 "Region" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 200 18.4 "Region" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 104 9.6 "Region" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 30 2.7 "Region" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 76 7 "Region" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 162 14.9 "Region" "s_19" "Nej" NA TRUE NA NA
 "Nordjylland" 142 15.4 "Region" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 130 14.1 "Region" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 42 3.9 "Region" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Nordjylland" 155 14.7 "Region" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 258 24.5 "Region" "s_239" "Nej" NA TRUE NA NA
 "Nordjylland" 89 11.1 "Region" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 92 8.6 "Region" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Nordjylland" 346 33.5 "Region" "s_70" "Ja" NA TRUE NA NA
+"Nordjylland" 61 17.6 "Region" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Nordjylland" 175 16.3 "Region" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Nordjylland" 760 70.9 "Region" "s_205" "Nej" NA TRUE NA NA
+"Nordjylland" 40 25.5 "Region" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Nordjylland" 69 44.5 "Region" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Nordjylland" 260 24.7 "Region" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Nordjylland" 186 17.6 "Region" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -217,12 +409,28 @@
 "Nordjylland" NA NA "Region" "hq_score_emotional" NA 2.4 TRUE NA NA
 "Sjælland" 739 37.4 "Region" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Sjælland" 289 14.7 "Region" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 210 17.3 "Region" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Sjælland" 233 19.2 "Region" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Sjælland" 452 23 "Region" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 268 18.9 "Region" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Sjælland" 449 23 "Region" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 511 26.2 "Region" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 261 13.4 "Region" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 115 5.9 "Region" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 194 10 "Region" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 278 14.4 "Region" "s_19" "Nej" NA TRUE NA NA
 "Sjælland" 296 17.9 "Region" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 263 15.9 "Region" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 148 7.8 "Region" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Sjælland" 546 29.1 "Region" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 618 32.9 "Region" "s_239" "Nej" NA TRUE NA NA
 "Sjælland" 185 14.7 "Region" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 221 11.6 "Region" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Sjælland" 649 35.4 "Region" "s_70" "Ja" NA TRUE NA NA
+"Sjælland" 111 17.1 "Region" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Sjælland" 415 22 "Region" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Sjælland" 1281 67.8 "Region" "s_205" "Nej" NA TRUE NA NA
+"Sjælland" 63 22.5 "Region" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Sjælland" 110 39.8 "Region" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Sjælland" 492 26 "Region" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Sjælland" 318 16.9 "Region" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -235,12 +443,28 @@
 "Sjælland" NA NA "Region" "hq_score_emotional" NA 2.3 TRUE NA NA
 "Syddanmark" 460 24.5 "Region" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 "Syddanmark" 255 13.5 "Region" "s_9" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 147 14.2 "Region" "s_11" "I mindre grad / slet ikke" NA TRUE NA NA
+"Syddanmark" 150 14.4 "Region" "s_12" "I mindre grad / slet ikke" NA TRUE NA NA
 "Syddanmark" 269 14.3 "Region" "s_227" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 214 15.9 "Region" "s_18" "I mindre grad / slet ikke" NA TRUE NA NA
 "Syddanmark" 271 14.5 "Region" "s_162" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 355 19 "Region" "s_164" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 222 11.8 "Region" "s_165" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 64 3.4 "Region" "s_166" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 106 5.7 "Region" "s_167" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 295 15.8 "Region" "s_19" "Nej" NA TRUE NA NA
 "Syddanmark" 218 13.9 "Region" "s_229" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 241 15.4 "Region" "s_230" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 154 8.4 "Region" "s_187" "I mindre grad / slet ikke" NA TRUE NA NA
 "Syddanmark" 321 17.7 "Region" "s_238" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 554 30.7 "Region" "s_239" "Nej" NA TRUE NA NA
 "Syddanmark" 123 9.8 "Region" "s_66" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 187 10.2 "Region" "s_68" "I mindre grad/slet ikke" NA TRUE NA NA
+"Syddanmark" 636 36.1 "Region" "s_70" "Ja" NA TRUE NA NA
+"Syddanmark" 113 17.7 "Region" "s_72" "I mindre grad/slet ikke" NA TRUE NA NA
 "Syddanmark" 345 19.1 "Region" "s_49" "I nogen grad/i høj grad" NA TRUE NA NA
+"Syddanmark" 1169 64.6 "Region" "s_205" "Nej" NA TRUE NA NA
+"Syddanmark" 68 19 "Region" "s_242" "I mindre grad/slet ikke" NA TRUE NA NA
 "Syddanmark" 118 32.8 "Region" "s_89" "I mindre grad/slet ikke" NA TRUE NA NA
 "Syddanmark" 405 22.7 "Region" "s_130" "Dårligt / Mindre godt" NA TRUE NA NA
 "Syddanmark" 371 20.6 "Region" "s_266" "I mindre grad/slet ikke" NA TRUE NA NA
@@ -251,205 +475,349 @@
 "Syddanmark" 436 24.5 "Region" "who5" "WHO-1 <50" NA TRUE NA NA
 "Syddanmark" NA NA "Region" "hq_score_physical" NA 2.1 TRUE NA NA
 "Syddanmark" NA NA "Region" "hq_score_emotional" NA 2.4 TRUE NA NA
-"Grundskole" 69 35.4 "Uddannelsesniveau" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Grundskole" 19 9.2 "Uddannelsesniveau" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Grundskole" 51 24.8 "Uddannelsesniveau" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Grundskole" 39 18.9 "Uddannelsesniveau" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Grundskole" 98 47.6 "Uddannelsesniveau" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Grundskole" 115 55.8 "Uddannelsesniveau" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Grundskole" 72 35 "Uddannelsesniveau" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Grundskole" 64 31.1 "Uddannelsesniveau" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Grundskole" 9 13 "Uddannelsesniveau" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Grundskole" 0 0 "Uddannelsesniveau" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Grundskole" 44 21.7 "Uddannelsesniveau" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Grundskole" 63 36.2 "Uddannelsesniveau" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Grundskole" 66 32 "Uddannelsesniveau" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Grundskole" 7 3.5 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Grundskole" 20 10.1 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Grundskole" 10 5 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Grundskole" 115 60.5 "Uddannelsesniveau" "who5" "WHO-1 <50" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 192 36.9 "Uddannelsesniveau" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 32 5.9 "Uddannelsesniveau" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 135 24.9 "Uddannelsesniveau" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 83 15.3 "Uddannelsesniveau" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 270 49.7 "Uddannelsesniveau" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 338 62.2 "Uddannelsesniveau" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 199 36.6 "Uddannelsesniveau" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 160 29.7 "Uddannelsesniveau" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 36 15.4 "Uddannelsesniveau" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 8 3.4 "Uddannelsesniveau" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 96 17.7 "Uddannelsesniveau" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 155 34.1 "Uddannelsesniveau" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 172 31.7 "Uddannelsesniveau" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 18 3.4 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 44 8.2 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 14 2.6 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Gymnasial / erhvervsfaglig udd." 318 60.9 "Uddannelsesniveau" "who5" "WHO-1 <50" NA FALSE NA NA
+"Grundskole" 69 35.4 "Uddannelse" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 19 9.2 "Uddannelse" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 51 24.8 "Uddannelse" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 60 29.1 "Uddannelse" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 62 30.1 "Uddannelse" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 39 18.9 "Uddannelse" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 98 47.6 "Uddannelse" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 80 38.8 "Uddannelse" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 14 6.8 "Uddannelse" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 85 41.1 "Uddannelse" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 115 55.8 "Uddannelse" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Grundskole" 72 35 "Uddannelse" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Grundskole" 81 39.1 "Uddannelse" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Grundskole" 64 31.1 "Uddannelse" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 9 13 "Uddannelse" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Grundskole" 135 65.9 "Uddannelse" "s_19" "Nej" NA FALSE NA NA
+"Grundskole" 9 12.9 "Uddannelse" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Grundskole" 0 0 "Uddannelse" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 25 13 "Uddannelse" "s_27" "Ja" NA FALSE NA NA
+"Grundskole" 15 7.5 "Uddannelse" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 44 21.7 "Uddannelse" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Grundskole" 46 26.4 "Uddannelse" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 63 36.2 "Uddannelse" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 26 14.9 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Grundskole" 66 32 "Uddannelse" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Grundskole" 7 3.5 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Grundskole" 20 10.1 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Grundskole" 10 5 "Uddannelse" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Grundskole" 115 60.5 "Uddannelse" "who5" "WHO-1 <50" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 192 36.9 "Uddannelse" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 32 5.9 "Uddannelse" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 135 24.9 "Uddannelse" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 189 34.8 "Uddannelse" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 155 28.5 "Uddannelse" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 83 15.3 "Uddannelse" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 270 49.7 "Uddannelse" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 212 39 "Uddannelse" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 30 5.5 "Uddannelse" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 231 42.5 "Uddannelse" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 338 62.2 "Uddannelse" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 199 36.6 "Uddannelse" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 206 37.9 "Uddannelse" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 160 29.7 "Uddannelse" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 36 15.4 "Uddannelse" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 305 56.5 "Uddannelse" "s_19" "Nej" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 21 8.9 "Uddannelse" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 8 3.4 "Uddannelse" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 57 10.8 "Uddannelse" "s_27" "Ja" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 56 10.4 "Uddannelse" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 96 17.7 "Uddannelse" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 120 26.3 "Uddannelse" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 155 34.1 "Uddannelse" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 79 17.3 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 172 31.7 "Uddannelse" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 18 3.4 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 44 8.2 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 14 2.6 "Uddannelse" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Gymnasial / erhvervsfaglig udd." 318 60.9 "Uddannelse" "who5" "WHO-1 <50" NA FALSE NA NA
 "Hovedstaden" 114 34.3 "Region" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
 "Hovedstaden" 18 5.2 "Region" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Hovedstaden" 67 19.6 "Region" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Hovedstaden" 88 25.7 "Region" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Hovedstaden" 77 22.6 "Region" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Hovedstaden" 65 19 "Region" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Hovedstaden" 165 48.1 "Region" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Hovedstaden" 122 35.6 "Region" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Hovedstaden" 14 4.1 "Region" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Hovedstaden" 149 43.4 "Region" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Hovedstaden" 204 59.5 "Region" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Hovedstaden" 123 35.9 "Region" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Hovedstaden" 114 33.2 "Region" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Hovedstaden" 89 26 "Region" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
 "Hovedstaden" 25 16.4 "Region" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Hovedstaden" 187 54.8 "Region" "s_19" "Nej" NA FALSE NA NA
+"Hovedstaden" 13 8.5 "Region" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Hovedstaden" 11 7.3 "Region" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Hovedstaden" 34 10.3 "Region" "s_27" "Ja" NA FALSE NA NA
+"Hovedstaden" 26 7.6 "Region" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
 "Hovedstaden" 57 16.7 "Region" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Hovedstaden" 65 22.3 "Region" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
 "Hovedstaden" 83 28.5 "Region" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Hovedstaden" 51 17.5 "Region" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
 "Hovedstaden" 94 27.4 "Region" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Hovedstaden" 14 4.1 "Region" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
 "Hovedstaden" 30 8.8 "Region" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
 "Hovedstaden" 7 2.1 "Region" "hads_depression" "HADS depression >=11" NA FALSE NA NA
 "Hovedstaden" 201 59.8 "Region" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg er anden familie" 0 0 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg er bror/søster" 5 55.6 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er bror/søster" NA NA "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er bror/søster" NA NA "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er bror/søster" 5 50 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg er bror/søster" 0 0 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er forælder" NA NA "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er forælder" NA NA "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg er forælder" 0 0 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg er søn/datter" 41 29.7 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er søn/datter" 10 7 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er søn/datter" 20 14.1 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er søn/datter" 29 20.4 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er søn/datter" 65 45.8 "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er søn/datter" 85 59.9 "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er søn/datter" 49 34.5 "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er søn/datter" 46 32.4 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er søn/datter" 12 10.3 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg er søn/datter" 0 0 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er søn/datter" 21 14.8 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg er søn/datter" 0 0 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er søn/datter" 55 39 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er søn/datter" 7 5 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg er søn/datter" 17 12.3 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg er søn/datter" 0 0 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg er søn/datter" 74 55.2 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 349 34.4 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 58 5.6 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 237 22.9 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 175 16.9 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 537 51.9 "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 646 62.5 "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 373 36 "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 291 28.3 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 68 16.7 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 23 5.7 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 177 17.2 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 329 31.8 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 312 30.2 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 43 4.2 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 71 6.9 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 31 3 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg er ægtefælle eller partner" 636 63.1 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 5 38.5 "Relation til den hjertesyge" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation til den hjertesyge" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 7 63.6 "Relation til den hjertesyge" "who5" "WHO-1 <50" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 107 32.5 "Uddannelsesniveau" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 16 4.8 "Uddannelsesniveau" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 64 19.3 "Uddannelsesniveau" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 58 17.5 "Uddannelsesniveau" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 174 52.4 "Uddannelsesniveau" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 210 63.3 "Uddannelsesniveau" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 118 35.5 "Uddannelsesniveau" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 95 28.7 "Uddannelsesniveau" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 26 16.5 "Uddannelsesniveau" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 8 5 "Uddannelsesniveau" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 54 16.4 "Uddannelsesniveau" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 81 28.7 "Uddannelsesniveau" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 105 31.8 "Uddannelsesniveau" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 17 5.2 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 22 6.7 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 10 3 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Kort / mellemlang videregående udd." 203 63.2 "Uddannelsesniveau" "who5" "WHO-1 <50" NA FALSE NA NA
-"Lang videregående udd." 37 26.4 "Uddannelsesniveau" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
-"Lang videregående udd." 6 4.2 "Uddannelsesniveau" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Lang videregående udd." 22 15.3 "Uddannelsesniveau" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
-"Lang videregående udd." 36 25 "Uddannelsesniveau" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Lang videregående udd." 76 52.8 "Uddannelsesniveau" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Lang videregående udd." 96 66.7 "Uddannelsesniveau" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Lang videregående udd." 53 36.8 "Uddannelsesniveau" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
-"Lang videregående udd." 37 25.7 "Uddannelsesniveau" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
-"Lang videregående udd." 9 11.5 "Uddannelsesniveau" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
-"Lang videregående udd." 6 7.8 "Uddannelsesniveau" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
-"Lang videregående udd." 20 13.9 "Uddannelsesniveau" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
-"Lang videregående udd." 30 25.4 "Uddannelsesniveau" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
-"Lang videregående udd." 39 27.1 "Uddannelsesniveau" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
-"Lang videregående udd." 9 6.3 "Uddannelsesniveau" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
-"Lang videregående udd." 10 7 "Uddannelsesniveau" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
-"Lang videregående udd." 5 3.5 "Uddannelsesniveau" "hads_depression" "HADS depression >=11" NA FALSE NA NA
-"Lang videregående udd." 88 62.9 "Uddannelsesniveau" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg er anden familie" 0 0 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg er bror/søster" 5 55.6 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" NA NA "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er bror/søster" NA NA "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er bror/søster" 5 50 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg er bror/søster" 5 50 "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg er bror/søster" 0 0 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" NA NA "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" NA NA "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er forælder" NA NA "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg er forælder" NA NA "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg er forælder" 0 0 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg er søn/datter" 41 29.7 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 10 7 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 20 14.1 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 33 23.2 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 26 18.3 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 29 20.4 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 65 45.8 "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 60 42.3 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 5 3.5 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 67 47.2 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 85 59.9 "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er søn/datter" 49 34.5 "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er søn/datter" 47 33.1 "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er søn/datter" 46 32.4 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 12 10.3 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg er søn/datter" 24 16.9 "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg er søn/datter" 8 6.8 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er søn/datter" 0 0 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 12 8.5 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg er søn/datter" 5 3.5 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 21 14.8 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg er søn/datter" 0 0 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 0 0 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 0 0 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er søn/datter" 55 39 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er søn/datter" 7 5 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg er søn/datter" 17 12.3 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg er søn/datter" 0 0 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg er søn/datter" 74 55.2 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 349 34.4 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 58 5.6 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 237 22.9 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 348 33.7 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 286 27.7 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 175 16.9 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 537 51.9 "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 406 39.3 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 56 5.4 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 467 45.1 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 646 62.5 "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 373 36 "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 391 37.8 "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 291 28.3 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 68 16.7 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 621 60.3 "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 47 11.5 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 23 5.7 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 108 10.9 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 99 9.7 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 177 17.2 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 252 24.4 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 329 31.8 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 167 16.2 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 312 30.2 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 43 4.2 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 71 6.9 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 31 3 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg er ægtefælle eller partner" 636 63.1 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 5 38.5 "Relation" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" NA NA "Relation" "s_19" "Nej" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_27" "Ja" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 0 0 "Relation" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Jeg har en anden relation til den hjertesyge (fx nabo, ven/veninde, kollega e.l.)" 7 63.6 "Relation" "who5" "WHO-1 <50" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 107 32.5 "Uddannelse" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 16 4.8 "Uddannelse" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 64 19.3 "Uddannelse" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 105 31.7 "Uddannelse" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 79 23.9 "Uddannelse" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 58 17.5 "Uddannelse" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 174 52.4 "Uddannelse" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 126 38 "Uddannelse" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 10 3 "Uddannelse" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 159 47.9 "Uddannelse" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 210 63.3 "Uddannelse" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 118 35.5 "Uddannelse" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 128 38.6 "Uddannelse" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 95 28.7 "Uddannelse" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 26 16.5 "Uddannelse" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 172 52 "Uddannelse" "s_19" "Nej" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 25 15.7 "Uddannelse" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 8 5 "Uddannelse" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 35 10.9 "Uddannelse" "s_27" "Ja" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 30 9.1 "Uddannelse" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 54 16.4 "Uddannelse" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 65 23 "Uddannelse" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 81 28.7 "Uddannelse" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 44 15.6 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 105 31.8 "Uddannelse" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 17 5.2 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 22 6.7 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 10 3 "Uddannelse" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Kort / mellemlang videregående udd." 203 63.2 "Uddannelse" "who5" "WHO-1 <50" NA FALSE NA NA
+"Lang videregående udd." 37 26.4 "Uddannelse" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 6 4.2 "Uddannelse" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 22 15.3 "Uddannelse" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 39 27.1 "Uddannelse" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 29 20.1 "Uddannelse" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 36 25 "Uddannelse" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 76 52.8 "Uddannelse" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 67 46.5 "Uddannelse" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 11 7.6 "Uddannelse" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 76 52.8 "Uddannelse" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 96 66.7 "Uddannelse" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Lang videregående udd." 53 36.8 "Uddannelse" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Lang videregående udd." 45 31.2 "Uddannelse" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Lang videregående udd." 37 25.7 "Uddannelse" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 9 11.5 "Uddannelse" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Lang videregående udd." 65 45.1 "Uddannelse" "s_19" "Nej" NA FALSE NA NA
+"Lang videregående udd." 0 0 "Uddannelse" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Lang videregående udd." 6 7.8 "Uddannelse" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 11 7.7 "Uddannelse" "s_27" "Ja" NA FALSE NA NA
+"Lang videregående udd." 7 4.9 "Uddannelse" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 20 13.9 "Uddannelse" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Lang videregående udd." 21 17.8 "Uddannelse" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 30 25.4 "Uddannelse" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 18 15.3 "Uddannelse" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
+"Lang videregående udd." 39 27.1 "Uddannelse" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Lang videregående udd." 9 6.3 "Uddannelse" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
+"Lang videregående udd." 10 7 "Uddannelse" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
+"Lang videregående udd." 5 3.5 "Uddannelse" "hads_depression" "HADS depression >=11" NA FALSE NA NA
+"Lang videregående udd." 88 62.9 "Uddannelse" "who5" "WHO-1 <50" NA FALSE NA NA
 "Midtjylland" 77 37.6 "Region" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
 "Midtjylland" 11 5.2 "Region" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Midtjylland" 64 30 "Region" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Midtjylland" 82 38.5 "Region" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Midtjylland" 69 32.4 "Region" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Midtjylland" 34 16 "Region" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Midtjylland" 106 49.8 "Region" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Midtjylland" 97 45.5 "Region" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Midtjylland" 10 4.7 "Region" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Midtjylland" 98 46 "Region" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Midtjylland" 138 64.8 "Region" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Midtjylland" 76 35.8 "Region" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Midtjylland" 78 36.6 "Region" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Midtjylland" 70 32.9 "Region" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
 "Midtjylland" 18 16.8 "Region" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Midtjylland" 103 48.8 "Region" "s_19" "Nej" NA FALSE NA NA
+"Midtjylland" 15 13.9 "Region" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Midtjylland" 5 4.6 "Region" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Midtjylland" 27 13.2 "Region" "s_27" "Ja" NA FALSE NA NA
+"Midtjylland" 18 8.7 "Region" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
 "Midtjylland" 30 14.2 "Region" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Midtjylland" 41 22.5 "Region" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
 "Midtjylland" 55 30.2 "Region" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Midtjylland" 29 15.9 "Region" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
 "Midtjylland" 73 34.4 "Region" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Midtjylland" 5 2.4 "Region" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
 "Midtjylland" 15 7.2 "Region" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
@@ -458,15 +826,27 @@
 "Nordjylland" 44 34.9 "Region" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
 "Nordjylland" 11 8.5 "Region" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Nordjylland" 29 22.5 "Region" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Nordjylland" 43 33.3 "Region" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Nordjylland" 38 29.5 "Region" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Nordjylland" 17 13.2 "Region" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Nordjylland" 66 51.2 "Region" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Nordjylland" 54 41.9 "Region" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Nordjylland" 9 7 "Region" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Nordjylland" 61 47.3 "Region" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Nordjylland" 81 62.8 "Region" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Nordjylland" 44 34.1 "Region" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Nordjylland" 55 42.6 "Region" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Nordjylland" 35 27.3 "Region" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
 "Nordjylland" 9 18.8 "Region" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Nordjylland" 81 62.8 "Region" "s_19" "Nej" NA FALSE NA NA
+"Nordjylland" 0 0 "Region" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Nordjylland" 0 0 "Region" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Nordjylland" 12 9.6 "Region" "s_27" "Ja" NA FALSE NA NA
+"Nordjylland" 11 8.7 "Region" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
 "Nordjylland" 28 21.7 "Region" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Nordjylland" 24 21.2 "Region" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
 "Nordjylland" 43 38.1 "Region" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Nordjylland" 21 18.6 "Region" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
 "Nordjylland" 47 36.7 "Region" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Nordjylland" 7 5.6 "Region" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
 "Nordjylland" 13 10.4 "Region" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
@@ -475,15 +855,27 @@
 "Sjælland" 84 31.6 "Region" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
 "Sjælland" 16 5.8 "Region" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Sjælland" 54 19.6 "Region" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Sjælland" 97 35.3 "Region" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Sjælland" 78 28.4 "Region" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Sjælland" 61 22.2 "Region" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Sjælland" 164 59.9 "Region" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Sjælland" 119 43.4 "Region" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Sjælland" 17 6.2 "Region" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Sjælland" 127 46.2 "Region" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Sjælland" 174 63.5 "Region" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Sjælland" 115 41.8 "Region" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Sjælland" 114 41.5 "Region" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Sjælland" 87 32 "Region" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
 "Sjælland" 15 13 "Region" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Sjælland" 157 57.5 "Region" "s_19" "Nej" NA FALSE NA NA
+"Sjælland" 14 12.1 "Region" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Sjælland" 0 0 "Region" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Sjælland" 28 10.6 "Region" "s_27" "Ja" NA FALSE NA NA
+"Sjælland" 26 9.6 "Region" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
 "Sjælland" 46 16.9 "Region" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Sjælland" 67 29.3 "Region" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
 "Sjælland" 82 35.8 "Region" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Sjælland" 40 17.5 "Region" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
 "Sjælland" 76 27.8 "Region" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Sjælland" 12 4.5 "Region" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
 "Sjælland" 15 5.5 "Region" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
@@ -492,15 +884,27 @@
 "Syddanmark" 87 33.6 "Region" "s_114" "I nogen grad/i høj grad" NA FALSE NA NA
 "Syddanmark" 19 7 "Region" "s_171" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Syddanmark" 58 21.6 "Region" "s_204" "I nogen grad/i høj grad" NA FALSE NA NA
+"Syddanmark" 83 30.9 "Region" "s_205" "I nogen grad/i høj grad" NA FALSE NA NA
+"Syddanmark" 65 24.2 "Region" "s_206" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Syddanmark" 41 15.2 "Region" "s_50" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Syddanmark" 119 44.1 "Region" "s_51" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Syddanmark" 93 34.4 "Region" "s_52" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Syddanmark" 15 5.6 "Region" "s_53" "I mindre grad / Slet ikke" NA FALSE NA NA
+"Syddanmark" 116 43 "Region" "s_54" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Syddanmark" 163 60.4 "Region" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Syddanmark" 86 31.9 "Region" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
+"Syddanmark" 99 36.7 "Region" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Syddanmark" 75 28 "Region" "s_92" "I nogen grad/i høj grad" NA FALSE NA NA
 "Syddanmark" 13 11.1 "Region" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE NA NA
+"Syddanmark" 152 56.5 "Region" "s_19" "Nej" NA FALSE NA NA
+"Syddanmark" 12 10.3 "Region" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE NA NA
 "Syddanmark" 5 4.3 "Region" "s_25" "I nogen grad/i høj grad" NA FALSE NA NA
+"Syddanmark" 27 10.4 "Region" "s_27" "Ja" NA FALSE NA NA
+"Syddanmark" 27 10.1 "Region" "s_26" "I nogen grad/i høj grad" NA FALSE NA NA
 "Syddanmark" 54 20.1 "Region" "s_207" "Mindre godt / Dårligt" NA FALSE NA NA
+"Syddanmark" 55 25.1 "Region" "s_47" "I nogen grad/i høj grad" NA FALSE NA NA
 "Syddanmark" 66 30.3 "Region" "s_48" "I nogen grad/i høj grad" NA FALSE NA NA
+"Syddanmark" 26 11.9 "Region" "s_49" "I nogen grad/i høj grad" NA FALSE NA NA
 "Syddanmark" 93 34.4 "Region" "s_208" "I mindre grad / Slet ikke" NA FALSE NA NA
 "Syddanmark" 13 4.9 "Region" "t_ils_hi_score" "T-ILS score >=7" NA FALSE NA NA
 "Syddanmark" 23 8.7 "Region" "hads_anxiety" "HADS anxiety >=11" NA FALSE NA NA
@@ -516,14 +920,14 @@ NA 1450.51933784016 15.7957760192342 "non_stratified" "s_7" "Ja, på nogle afdeli
 NA 2790.77972917566 30.3908609634376 "non_stratified" "s_7" "Nej, på ingen afdelinger" NA TRUE NA NA
 NA 853.560023452177 9.27737134588841 "non_stratified" "s_9" "I mindre grad" NA TRUE NA NA
 NA 4126.43587764135 44.8503642626612 "non_stratified" "s_9" "Ja, i høj grad" NA TRUE NA NA
-NA 3030.63924209154 32.9401153894133 "non_stratified" "s_9" "Ja, i nogen grad" NA TRUE NA NA
+NA 3030.63924209154 32.9401153894134 "non_stratified" "s_9" "Ja, i nogen grad" NA TRUE NA NA
 NA 697.424421168225 7.58032846325238 "non_stratified" "s_9" "Jeg har ikke været indlagt på grund af min hjertesygdom" NA TRUE NA NA
 NA 419.598194800929 4.56062627381324 "non_stratified" "s_9" "Nej, slet ikke" NA TRUE NA NA
 NA 72.793442257062 0.79119426497144 "non_stratified" "s_9" "Ved ikke" NA TRUE NA NA
-NA 5295.24424706207 57.5773983342288 "non_stratified" "s_10" "Ja" NA TRUE NA NA
-NA 3465.72659884725 37.6842902024915 "non_stratified" "s_10" "Nej" NA TRUE NA NA
-NA 435.770236978639 4.73831146327976 "non_stratified" "s_10" "Ved ikke" NA TRUE NA NA
-NA 499.207215501669 9.49055211112659 "non_stratified" "s_11" "I mindre grad" NA TRUE NA NA
+NA 5295.24424706206 57.5773983342288 "non_stratified" "s_10" "Ja" NA TRUE NA NA
+NA 3465.72659884725 37.6842902024914 "non_stratified" "s_10" "Nej" NA TRUE NA NA
+NA 435.77023697864 4.73831146327976 "non_stratified" "s_10" "Ved ikke" NA TRUE NA NA
+NA 499.207215501668 9.49055211112658 "non_stratified" "s_11" "I mindre grad" NA TRUE NA NA
 NA 2528.17008842641 48.063668202172 "non_stratified" "s_11" "Ja, i høj grad" NA TRUE NA NA
 NA 1633.97561687449 31.0639154617863 "non_stratified" "s_11" "Ja, i nogen grad" NA TRUE NA NA
 NA 242.472741796924 4.60970939540387 "non_stratified" "s_11" "Jeg blev ikke behandlet ambulant" NA TRUE NA NA
@@ -533,14 +937,14 @@ NA 473.242858063763 8.99145947052124 "non_stratified" "s_12" "I mindre grad" NA 
 NA 2623.01990510622 49.8365200134838 "non_stratified" "s_12" "Ja, i høj grad" NA TRUE NA NA
 NA 1578.02353185732 29.9819308172467 "non_stratified" "s_12" "Ja, i nogen grad" NA TRUE NA NA
 NA 441.833578971169 8.39469344405688 "non_stratified" "s_12" "Nej, slet ikke" NA TRUE NA NA
-NA 147.128652175771 2.79539625469133 "non_stratified" "s_12" "Ved ikke" NA TRUE NA NA
+NA 147.128652175772 2.79539625469133 "non_stratified" "s_12" "Ved ikke" NA TRUE NA NA
 NA 1009.90203891661 11.0439760472928 "non_stratified" "s_227" "I mindre grad" NA TRUE NA NA
 NA 4225.14407008275 46.2048675101328 "non_stratified" "s_227" "Ja, i høj grad" NA TRUE NA NA
-NA 2659.66282275223 29.0852492384919 "non_stratified" "s_227" "Ja, i nogen grad" NA TRUE NA NA
-NA 712.18259196492 7.78820834483821 "non_stratified" "s_227" "Nej, slet ikke" NA TRUE NA NA
+NA 2659.66282275223 29.0852492384918 "non_stratified" "s_227" "Ja, i nogen grad" NA TRUE NA NA
+NA 712.182591964921 7.78820834483821 "non_stratified" "s_227" "Nej, slet ikke" NA TRUE NA NA
 NA 537.478534602919 5.8776988592443 "non_stratified" "s_227" "Ved ikke" NA TRUE NA NA
 NA 605.384835098495 6.46986037296671 "non_stratified" "s_17" "Astma" NA TRUE NA NA
-NA 445.527840008154 4.76143892281878 "non_stratified" "s_17" "Allergi (ikke astma)" NA TRUE NA NA
+NA 445.527840008153 4.76143892281878 "non_stratified" "s_17" "Allergi (ikke astma)" NA TRUE NA NA
 NA 1338.28332307639 14.3024828799444 "non_stratified" "s_17" "Sukkersyge (diabetes)" NA TRUE NA NA
 NA 3778.21217063106 40.3784564564611 "non_stratified" "s_17" "Forhøjet blodtryk" NA TRUE NA NA
 NA 554.956825160537 5.93092684792708 "non_stratified" "s_17" "Hjerneblødning, blodprop i hjernen" NA TRUE NA NA
@@ -550,35 +954,35 @@ NA 329.237642291155 3.51862394240841 "non_stratified" "s_17" "Leddegigt" NA TRUE
 NA 424.16097534318 4.53308726454184 "non_stratified" "s_17" "Knogleskørhed (Osteoporose)" NA TRUE NA NA
 NA 646.680913501854 6.91119924657319 "non_stratified" "s_17" "Kræft" NA TRUE NA NA
 NA 293.039822377629 3.13177110588468 "non_stratified" "s_17" "Migræne eller hyppig hovedpine" NA TRUE NA NA
-NA 496.032890142862 5.30119579077549 "non_stratified" "s_17" "Angst" NA TRUE NA NA
+NA 496.032890142862 5.30119579077548 "non_stratified" "s_17" "Angst" NA TRUE NA NA
 NA 549.377340657198 5.8712978588992 "non_stratified" "s_17" "Depression" NA TRUE NA NA
 NA 629.318838207107 6.72564751744263 "non_stratified" "s_17" "Diskusprolaps eller andre rygsygdomme" NA TRUE NA NA
 NA 1065.78121553807 11.3902021538748 "non_stratified" "s_17" "Anden længerevarende sygdom:" NA TRUE NA NA
 NA 2479.42729074301 26.4981007881053 "non_stratified" "s_17" "Jeg har ikke haft andre længerevarende sygdomme" NA TRUE NA NA
-NA 446.089747297588 6.74071186481252 "non_stratified" "s_18" "I mindre grad" NA TRUE NA NA
+NA 446.089747297587 6.74071186481252 "non_stratified" "s_18" "I mindre grad" NA TRUE NA NA
 NA 1174.1839027615 17.7426973221519 "non_stratified" "s_18" "Ikke relevant - det var ikke nødvendigt eller relevant at tage hensyn til andre sygdomme" NA TRUE NA NA
 NA 2105.31590952227 31.8127193383538 "non_stratified" "s_18" "Ja, i høj grad" NA TRUE NA NA
-NA 1146.60841371381 17.3260133985068 "non_stratified" "s_18" "Ja, i nogen grad" NA TRUE NA NA
+NA 1146.60841371381 17.3260133985069 "non_stratified" "s_18" "Ja, i nogen grad" NA TRUE NA NA
 NA 663.91680767754 10.0322231790165 "non_stratified" "s_18" "Nej, slet ikke" NA TRUE NA NA
 NA 1081.72850092516 16.3456348971585 "non_stratified" "s_18" "Ved ikke" NA TRUE NA NA
-NA 875.069646210211 9.62755272268255 "non_stratified" "s_162" "I mindre grad" NA TRUE NA NA
+NA 875.069646210212 9.62755272268255 "non_stratified" "s_162" "I mindre grad" NA TRUE NA NA
 NA 2930.89523717816 32.2458315664322 "non_stratified" "s_162" "Ja, i høj grad" NA TRUE NA NA
 NA 1836.73053642743 20.2077859212684 "non_stratified" "s_162" "Ja, i meget høj grad" NA TRUE NA NA
 NA 2082.32384524641 22.9098137418344 "non_stratified" "s_162" "Ja, i nogen grad" NA TRUE NA NA
-NA 733.359797849596 8.06845506420037 "non_stratified" "s_162" "Nej, slet ikke" NA TRUE NA NA
-NA 630.843000225221 6.94056098358207 "non_stratified" "s_162" "Ved ikke" NA TRUE NA NA
+NA 733.359797849597 8.06845506420037 "non_stratified" "s_162" "Nej, slet ikke" NA TRUE NA NA
+NA 630.843000225221 6.94056098358206 "non_stratified" "s_162" "Ved ikke" NA TRUE NA NA
 NA 974.835948442858 10.7554440087407 "non_stratified" "s_164" "I mindre grad" NA TRUE NA NA
 NA 2670.51045006712 29.4639581832547 "non_stratified" "s_164" "Ja, i høj grad" NA TRUE NA NA
 NA 1914.00534821385 21.1173760959749 "non_stratified" "s_164" "Ja, i meget høj grad" NA TRUE NA NA
 NA 2006.11673873344 22.1336485312326 "non_stratified" "s_164" "Ja, i nogen grad" NA TRUE NA NA
-NA 918.796661571137 10.1371580159013 "non_stratified" "s_164" "Nej, slet ikke" NA TRUE NA NA
-NA 579.3862247851 6.39241516489588 "non_stratified" "s_164" "Ved ikke/havde ikke behov" NA TRUE NA NA
+NA 918.796661571138 10.1371580159013 "non_stratified" "s_164" "Nej, slet ikke" NA TRUE NA NA
+NA 579.386224785101 6.39241516489588 "non_stratified" "s_164" "Ved ikke/havde ikke behov" NA TRUE NA NA
 NA 598.683404398542 6.61737952053093 "non_stratified" "s_165" "I mindre grad" NA TRUE NA NA
 NA 3593.165380226 39.7160482924624 "non_stratified" "s_165" "Ja, i høj grad" NA TRUE NA NA
 NA 1818.07552268479 20.0955891581454 "non_stratified" "s_165" "Ja, i meget høj grad" NA TRUE NA NA
 NA 1855.52515542584 20.5095281965943 "non_stratified" "s_165" "Ja, i nogen grad" NA TRUE NA NA
 NA 499.665093084656 5.52290831816924 "non_stratified" "s_165" "Nej, slet ikke" NA TRUE NA NA
-NA 682.022646165943 7.53854651409778 "non_stratified" "s_165" "Ved ikke" NA TRUE NA NA
+NA 682.022646165942 7.53854651409778 "non_stratified" "s_165" "Ved ikke" NA TRUE NA NA
 NA 267.110854919025 2.95421998674839 "non_stratified" "s_166" "I mindre grad" NA TRUE NA NA
 NA 4252.23518107817 47.0293061062755 "non_stratified" "s_166" "Ja, i høj grad" NA TRUE NA NA
 NA 2750.62562590493 30.4216509754874 "non_stratified" "s_166" "Ja, i meget høj grad" NA TRUE NA NA
@@ -600,12 +1004,12 @@ NA 1087.38664897208 11.6211034409755 "non_stratified" "s_231" "Andre fejl eller 
 NA 6238.80324623006 66.6752511085824 "non_stratified" "s_231" "Nej, jeg har ikke oplevet fejl eller utilsigtede hændelser" NA TRUE NA NA
 NA 7573.90203503511 84.0214044430855 "non_stratified" "s_19" "Ja" NA TRUE NA NA
 NA 1440.35104159077 15.9785955569145 "non_stratified" "s_19" "Nej" NA TRUE NA NA
-NA 782.340221435456 10.3371133347989 "non_stratified" "s_229" "I mindre grad" NA TRUE NA NA
-NA 4267.43046482821 56.3858423159724 "non_stratified" "s_229" "Ja, i høj grad" NA TRUE NA NA
-NA 2032.4677504544 26.8551314506384 "non_stratified" "s_229" "Ja, i nogen grad" NA TRUE NA NA
+NA 782.340221435456 10.3371133347988 "non_stratified" "s_229" "I mindre grad" NA TRUE NA NA
+NA 4267.43046482822 56.3858423159724 "non_stratified" "s_229" "Ja, i høj grad" NA TRUE NA NA
+NA 2032.46775045439 26.8551314506384 "non_stratified" "s_229" "Ja, i nogen grad" NA TRUE NA NA
 NA 327.734608321741 4.33037915875229 "non_stratified" "s_229" "Nej, slet ikke" NA TRUE NA NA
 NA 158.2928343889 2.09153373983802 "non_stratified" "s_229" "Ved ikke" NA TRUE NA NA
-NA 819.035703252984 10.824379402558 "non_stratified" "s_230" "I mindre grad" NA TRUE NA NA
+NA 819.035703252985 10.824379402558 "non_stratified" "s_230" "I mindre grad" NA TRUE NA NA
 NA 3621.30540670353 47.8591879438324 "non_stratified" "s_230" "Ja, i høj grad" NA TRUE NA NA
 NA 2413.86981642374 31.9017139516358 "non_stratified" "s_230" "Ja, i nogen grad" NA TRUE NA NA
 NA 272.64422056776 3.60326720021944 "non_stratified" "s_230" "Nej, slet ikke" NA TRUE NA NA
@@ -615,7 +1019,7 @@ NA 6943.93004938384 78.1574822721241 "non_stratified" "s_187" "Ja, i høj grad" N
 NA 1087.59096249906 12.2413922326861 "non_stratified" "s_187" "Ja, i nogen grad" NA TRUE NA NA
 NA 127.126869383263 1.43087789903856 "non_stratified" "s_187" "Jeg har ingen pårørende" NA TRUE NA NA
 NA 248.665125242811 2.79885309610587 "non_stratified" "s_187" "Nej, slet ikke" NA TRUE NA NA
-NA 75.0622088008892 0.844863530009572 "non_stratified" "s_187" "Ved ikke" NA TRUE NA NA
+NA 75.0622088008891 0.844863530009572 "non_stratified" "s_187" "Ved ikke" NA TRUE NA NA
 NA 802.115131440492 9.17120985227134 "non_stratified" "s_238" "I mindre grad" NA TRUE NA NA
 NA 4333.80324476689 49.5517631550382 "non_stratified" "s_238" "Ja, i høj grad" NA TRUE NA NA
 NA 1970.90350283077 22.5348817327213 "non_stratified" "s_238" "Ja, i nogen grad" NA TRUE NA NA
@@ -626,16 +1030,16 @@ NA 2751.23504122051 31.4830309505381 "non_stratified" "s_239" "Nej" NA TRUE NA N
 NA 465.088341657553 7.77997777262228 "non_stratified" "s_66" "I mindre grad" NA TRUE NA NA
 NA 3420.38465471592 57.2160473699891 "non_stratified" "s_66" "Ja, i høj grad" NA TRUE NA NA
 NA 1674.92521720076 28.0180769833641 "non_stratified" "s_66" "Ja, i nogen grad" NA TRUE NA NA
-NA 182.478014717495 3.05248438056885 "non_stratified" "s_66" "Nej, slet ikke" NA TRUE NA NA
+NA 182.478014717494 3.05248438056885 "non_stratified" "s_66" "Nej, slet ikke" NA TRUE NA NA
 NA 235.14010093478 3.93341349345568 "non_stratified" "s_66" "Ved ikke" NA TRUE NA NA
 NA 688.564162011089 7.77560612158125 "non_stratified" "s_68" "I mindre grad" NA TRUE NA NA
 NA 4667.64699419879 52.7093719711888 "non_stratified" "s_68" "Ja, i høj grad" NA TRUE NA NA
 NA 2846.34363453021 32.142316155601 "non_stratified" "s_68" "Ja, i nogen grad" NA TRUE NA NA
 NA 276.800959075935 3.12577294985001 "non_stratified" "s_68" "Jeg har ikke været i medicinsk behandling for min hjertesygdom" NA TRUE NA NA
-NA 277.695693430146 3.13587673146634 "non_stratified" "s_68" "Nej, slet ikke" NA TRUE NA NA
+NA 277.695693430147 3.13587673146634 "non_stratified" "s_68" "Nej, slet ikke" NA TRUE NA NA
 NA 98.3889075706634 1.11105607031262 "non_stratified" "s_68" "Ved ikke" NA TRUE NA NA
 NA 3076.9939721341 36.0327398601629 "non_stratified" "s_70" "Ja" NA TRUE NA NA
-NA 5462.44539349674 63.9672601398371 "non_stratified" "s_70" "Nej" NA TRUE NA NA
+NA 5462.44539349673 63.9672601398371 "non_stratified" "s_70" "Nej" NA TRUE NA NA
 NA 401.470235095836 12.9976017451751 "non_stratified" "s_72" "I mindre grad" NA TRUE NA NA
 NA 1337.05249474015 43.287084121882 "non_stratified" "s_72" "Ja, i høj grad" NA TRUE NA NA
 NA 824.694012130931 26.6994745668994 "non_stratified" "s_72" "Ja, i nogen grad" NA TRUE NA NA
@@ -649,14 +1053,14 @@ NA 143.231391648573 7.40702144526199 "non_stratified" "s_172" "Tidspunktet på da
 NA 93.2632523255176 4.82298539502371 "non_stratified" "s_172" "På grund af transport og/eller økonomi" NA TRUE NA NA
 NA 0 0 "non_stratified" "s_172" "På grund af barrierer i forhold til sprog, religion/kultur o.l." NA TRUE NA NA
 NA 155.338192705503 8.03310860415959 "non_stratified" "s_172" "Andre årsager - skriv venligst" NA TRUE NA NA
-NA 1179.06326102682 26.7392953847244 "non_stratified" "s_45" "0-2 uger" NA TRUE NA NA
+NA 1179.06326102682 26.7392953847245 "non_stratified" "s_45" "0-2 uger" NA TRUE NA NA
 NA 1340.78069655647 30.4067917951559 "non_stratified" "s_45" "3-5 uger" NA TRUE NA NA
 NA 817.588941544507 18.5416278615991 "non_stratified" "s_45" "6-8 uger" NA TRUE NA NA
 NA 589.739908076244 13.3743710990349 "non_stratified" "s_45" "9 eller flere uger" NA TRUE NA NA
 NA 227.165977239775 5.1517661244775 "non_stratified" "s_45" "Jeg har ikke modtaget fysisk træning" NA TRUE NA NA
-NA 255.138892744308 5.78614773500808 "non_stratified" "s_45" "Ved ikke" NA TRUE NA NA
-NA 790.899674956499 8.9832816378144 "non_stratified" "s_47" "Ja, men jeg er holdt op" NA TRUE NA NA
-NA 620.13721351199 7.04370910681441 "non_stratified" "s_47" "Ja, og jeg ryger stadig dagligt" NA TRUE NA NA
+NA 255.138892744308 5.78614773500809 "non_stratified" "s_45" "Ved ikke" NA TRUE NA NA
+NA 790.899674956498 8.9832816378144 "non_stratified" "s_47" "Ja, men jeg er holdt op" NA TRUE NA NA
+NA 620.13721351199 7.04370910681442 "non_stratified" "s_47" "Ja, og jeg ryger stadig dagligt" NA TRUE NA NA
 NA 342.003654309211 3.88458264063687 "non_stratified" "s_47" "Ja, og jeg ryger stadig lejlighedsvist" NA TRUE NA NA
 NA 7051.0881358476 80.0884266147343 "non_stratified" "s_47" "Nej" NA TRUE NA NA
 NA 893.664992942572 93.0074883453142 "non_stratified" "s_203" "Ja" NA TRUE NA NA
@@ -666,21 +1070,21 @@ NA 238.861267293216 24.8593004194676 "non_stratified" "s_241" "Ja, og jeg fik rå
 NA 312.775227632473 32.5518382933901 "non_stratified" "s_241" "Nej" NA TRUE NA NA
 NA 65.7535604200473 6.84325060590514 "non_stratified" "s_241" "Ved ikke" NA TRUE NA NA
 NA 1566.9456934371 17.835698465537 "non_stratified" "s_49" "I mindre grad" NA TRUE NA NA
-NA 480.617950420256 5.47061514430473 "non_stratified" "s_49" "Ja, i høj grad" NA TRUE NA NA
+NA 480.617950420255 5.47061514430473 "non_stratified" "s_49" "Ja, i høj grad" NA TRUE NA NA
 NA 1264.34726053495 14.3913835617139 "non_stratified" "s_49" "Ja, i nogen grad" NA TRUE NA NA
 NA 4893.55848228929 55.700739265656 "non_stratified" "s_49" "Nej, slet ikke" NA TRUE NA NA
-NA 579.976815298277 6.60156356278835 "non_stratified" "s_49" "Ved ikke" NA TRUE NA NA
+NA 579.976815298277 6.60156356278836 "non_stratified" "s_49" "Ved ikke" NA TRUE NA NA
 NA 3124.81779925917 35.5669481995675 "non_stratified" "s_205" "Ja" NA TRUE NA NA
 NA 5660.91715254411 64.4330518004325 "non_stratified" "s_205" "Nej" NA TRUE NA NA
 NA 165.692069471904 5.34506801499539 "non_stratified" "s_81" "Ja, jeg blev fyret" NA TRUE NA NA
 NA 196.118786509532 6.32660486559712 "non_stratified" "s_81" "Ja, jeg har måttet stoppe med at arbejde i en periode" NA TRUE NA NA
 NA 182.297394925198 5.8807399650282 "non_stratified" "s_81" "Ja, jeg er holdt op med at arbejde pga. min hjertesygdom" NA TRUE NA NA
 NA 107.524921400303 3.46865133632184 "non_stratified" "s_81" "Ja, jeg har skiftet arbejde/karrierevej" NA TRUE NA NA
-NA 218.640704083468 7.05314043030153 "non_stratified" "s_81" "Ja, jeg har valgt at gå ned i tid" NA TRUE NA NA
-NA 89.2589853046772 2.87940967195097 "non_stratified" "s_81" "Ja, jeg er kommet i fleksjob" NA TRUE NA NA
+NA 218.640704083469 7.05314043030154 "non_stratified" "s_81" "Ja, jeg har valgt at gå ned i tid" NA TRUE NA NA
+NA 89.2589853046771 2.87940967195097 "non_stratified" "s_81" "Ja, jeg er kommet i fleksjob" NA TRUE NA NA
 NA 12.2558059865858 0.395360603471711 "non_stratified" "s_81" "Ja, den fysiske indretning af arbejdspladsen er blevet ændret/jeg har fået hjælpemidler" NA TRUE NA NA
 NA 133.379507256632 4.30269559892339 "non_stratified" "s_81" "Ja, jeg har fået andre arbejdsopgaver end tidligere" NA TRUE NA NA
-NA 300.535514684224 9.69498885510155 "non_stratified" "s_81" "Jeg er holdt op med at arbejde, men ikke pga. min hjertesygdom" NA TRUE NA NA
+NA 300.535514684225 9.69498885510156 "non_stratified" "s_81" "Jeg er holdt op med at arbejde, men ikke pga. min hjertesygdom" NA TRUE NA NA
 NA 1747.65227259833 56.3775942528335 "non_stratified" "s_81" "Nej, min arbejdssituation er den samme" NA TRUE NA NA
 NA 351.519876525897 11.2492919302122 "non_stratified" "s_81" "Andet ? skriv venligst" NA TRUE NA NA
 NA 1579.89961993135 50.8431847414219 "non_stratified" "s_206" "Ja, men jeg er tilbage i arbejde" NA TRUE NA NA
@@ -690,7 +1094,7 @@ NA 224.509698186776 14.2303172386467 "non_stratified" "s_242" "I mindre grad" NA
 NA 555.850312727512 35.2320026760401 "non_stratified" "s_242" "Ja, i høj grad" NA TRUE NA NA
 NA 734.695655746148 46.567931539534 "non_stratified" "s_242" "Ja, i nogen grad" NA TRUE NA NA
 NA 62.6301601674656 3.96974854577923 "non_stratified" "s_242" "Nej, slet ikke" NA TRUE NA NA
-NA 894.415388725083 50.2150011370565 "non_stratified" "s_84" "For at komme tilbage til den hverdag jeg havde, før jeg blev syg" NA TRUE NA NA
+NA 894.415388725084 50.2150011370566 "non_stratified" "s_84" "For at komme tilbage til den hverdag jeg havde, før jeg blev syg" NA TRUE NA NA
 NA 769.840463255699 43.2210136644007 "non_stratified" "s_84" "Jeg følte mig fysisk klar til at vende tilbage til arbejdet" NA TRUE NA NA
 NA 623.779742847157 35.0207530988385 "non_stratified" "s_84" "Jeg følte mig psykisk klar til at vende tilbage til arbejdet" NA TRUE NA NA
 NA 482.875231844493 27.1099766638526 "non_stratified" "s_84" "Jeg havde behov for at føle, at jeg kunne bidrage og være til nytte" NA TRUE NA NA
@@ -701,7 +1105,7 @@ NA 134.004420746613 7.45862666687138 "non_stratified" "s_84" "Andet - skriv gern
 NA 225.316198654166 12.5409997550587 "non_stratified" "s_85" "Ja, jeg har følt mig presset af jobcenteret (kommunen)" NA TRUE NA NA
 NA 108.690396517455 6.04965929766463 "non_stratified" "s_85" "Ja, jeg har følt mig presset af min arbejdsgiver" NA TRUE NA NA
 NA 0 0 "non_stratified" "s_85" "Ja, jeg har følt mig presset af mine kolleger" NA TRUE NA NA
-NA 9.0390753145714 0.503110925814923 "non_stratified" "s_85" "Ja, jeg har følt mig presset af mine pårørende" NA TRUE NA NA
+NA 9.0390753145714 0.503110925814922 "non_stratified" "s_85" "Ja, jeg har følt mig presset af mine pårørende" NA TRUE NA NA
 NA 167.18491692986 9.30543837855624 "non_stratified" "s_85" "Ja, jeg har følt mig presset af økonomiske årsager" NA TRUE NA NA
 NA 77.1065963725015 4.29171897980211 "non_stratified" "s_85" "Ja, jeg har følt mig presset af andre årsager, skriv gerne:" NA TRUE NA NA
 NA 1098.91077776888 61.1648868441265 "non_stratified" "s_85" "Nej, jeg har ikke følt mig presset" NA TRUE NA NA
@@ -749,43 +1153,43 @@ NA 455.777519005686 7.62154899159817 "non_stratified" "s_263" "Fordi kosttilskud
 NA 1534.74439550292 25.6641214455343 "non_stratified" "s_263" "Jeg har fået det anbefalet af en læge, tandlæge eller sygeplejerske" NA TRUE NA NA
 NA 798.822565347665 13.3579763448478 "non_stratified" "s_263" "Jeg har fået det anbefalet af familie, ven/veninde, kollega, nabo, en anden hjertepatient e.a." NA TRUE NA NA
 NA 625.376363124451 10.457594749602 "non_stratified" "s_263" "Andet" NA TRUE NA NA
-NA 572.44050026639 9.57239691653339 "non_stratified" "s_264" "Hvilken virkning du gerne vil opnå med kosttilskuddene/naturlægemidlerne" NA TRUE NA NA
+NA 572.44050026639 9.57239691653338 "non_stratified" "s_264" "Hvilken virkning du gerne vil opnå med kosttilskuddene/naturlægemidlerne" NA TRUE NA NA
 NA 827.830522227794 13.8430497749511 "non_stratified" "s_264" "Hvilke produkter og hvilken dosis, du med fordel kunne tage" NA TRUE NA NA
 NA 376.106331255898 6.28928086661799 "non_stratified" "s_264" "Hvordan produkterne påvirker den lægeordinerede medicin, du eventuelt får" NA TRUE NA NA
 NA 233.378472885124 3.90257393247197 "non_stratified" "s_264" "Hvordan du skal forholde dig i tilfælde af operation" NA TRUE NA NA
 NA 59.3411094363843 0.992306890809043 "non_stratified" "s_264" "Hvordan du indberetter eventuelle bivirkninger eller allergiske reaktioner" NA TRUE NA NA
-NA 4365.34859155195 72.9977165800102 "non_stratified" "s_264" "Nej, jeg har ikke talt med egen læge eller hjertelægen" NA TRUE NA NA
+NA 4365.34859155195 72.9977165800101 "non_stratified" "s_264" "Nej, jeg har ikke talt med egen læge eller hjertelægen" NA TRUE NA NA
 NA 346.648408339182 3.98443570880152 "non_stratified" "s_130" "Dårligt" NA TRUE NA NA
-NA 498.899887006561 5.73444007555046 "non_stratified" "s_130" "Fremragende" NA TRUE NA NA
+NA 498.899887006561 5.73444007555047 "non_stratified" "s_130" "Fremragende" NA TRUE NA NA
 NA 3959.17058539294 45.5073794605194 "non_stratified" "s_130" "Godt" NA TRUE NA NA
 NA 1751.29390908635 20.129669775211 "non_stratified" "s_130" "Mindre godt" NA TRUE NA NA
 NA 2144.04999631667 24.6440749799176 "non_stratified" "s_130" "Vældig godt" NA TRUE NA NA
-NA 808.803722167336 9.31307517419925 "non_stratified" "s_132" "Aldrig" NA TRUE NA NA
+NA 808.803722167336 9.31307517419924 "non_stratified" "s_132" "Aldrig" NA TRUE NA NA
 NA 616.563628428939 7.09950172564581 "non_stratified" "s_132" "Altid" NA TRUE NA NA
 NA 2249.70671736865 25.904539265239 "non_stratified" "s_132" "Ofte" NA TRUE NA NA
 NA 2224.34102179404 25.6124626794647 "non_stratified" "s_132" "Sjældent" NA TRUE NA NA
 NA 2785.18915791242 32.0704211554512 "non_stratified" "s_132" "Sommetider" NA TRUE NA NA
-NA 686.208308797294 7.91194626308411 "non_stratified" "s_133" "Aldrig" NA TRUE NA NA
+NA 686.208308797295 7.91194626308411 "non_stratified" "s_133" "Aldrig" NA TRUE NA NA
 NA 621.867620416527 7.17010145812875 "non_stratified" "s_133" "Altid" NA TRUE NA NA
 NA 2167.7010662183 24.9934810326169 "non_stratified" "s_133" "Ofte" NA TRUE NA NA
 NA 2415.67509301493 27.8526087195058 "non_stratified" "s_133" "Sjældent" NA TRUE NA NA
 NA 2781.61375375961 32.0718625266644 "non_stratified" "s_133" "Sommetider" NA TRUE NA NA
 NA 328.186990505346 3.77454122441805 "non_stratified" "s_134" "Aldrig" NA TRUE NA NA
-NA 834.981388644914 9.6032803378619 "non_stratified" "s_134" "Altid" NA TRUE NA NA
+NA 834.981388644914 9.60328033786191 "non_stratified" "s_134" "Altid" NA TRUE NA NA
 NA 2593.0078885307 29.8226786973778 "non_stratified" "s_134" "Ofte" NA TRUE NA NA
 NA 1555.54290614713 17.8905958964506 "non_stratified" "s_134" "Sjældent" NA TRUE NA NA
 NA 3383.03261169374 38.9089038438916 "non_stratified" "s_134" "Sommetider" NA TRUE NA NA
 NA 5017.22296354645 57.5324670783856 "non_stratified" "s_266" "I høj grad" NA TRUE NA NA
-NA 591.695217022964 6.78496567546389 "non_stratified" "s_266" "I mindre grad" NA TRUE NA NA
+NA 591.695217022963 6.78496567546388 "non_stratified" "s_266" "I mindre grad" NA TRUE NA NA
 NA 1959.251299906 22.4667234701583 "non_stratified" "s_266" "I nogen grad" NA TRUE NA NA
 NA 913.173984483093 10.4713608665252 "non_stratified" "s_266" "Slet ikke" NA TRUE NA NA
 NA 239.337601456898 2.74448290946703 "non_stratified" "s_266" "Ved ikke" NA TRUE NA NA
 NA 1490.0003683806 17.0990162986053 "non_stratified" "s_267" "Ja" NA TRUE NA NA
-NA 6859.09558174713 78.7139316438258 "non_stratified" "s_267" "Nej" NA TRUE NA NA
+NA 6859.09558174713 78.7139316438259 "non_stratified" "s_267" "Nej" NA TRUE NA NA
 NA 364.85777890715 4.18705205756882 "non_stratified" "s_267" "Ved ikke" NA TRUE NA NA
 NA 8231.74820102201 94.7582847061766 "non_stratified" "t_ils_hi_score" "T-ILS score <7" NA TRUE NA NA
-NA 455.35311845285 5.24171529382342 "non_stratified" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
-NA 7098.11740297716 83.0482277913831 "non_stratified" "hads_anxiety" "HADS anxiety 0 - 7" NA TRUE NA NA
+NA 455.353118452851 5.24171529382343 "non_stratified" "t_ils_hi_score" "T-ILS score >=7" NA TRUE NA NA
+NA 7098.11740297715 83.048227791383 "non_stratified" "hads_anxiety" "HADS anxiety 0 - 7" NA TRUE NA NA
 NA 924.437546776207 10.8159524004741 "non_stratified" "hads_anxiety" "HADS anxiety 8 - 10" NA TRUE NA NA
 NA 524.427438368885 6.13581980814284 "non_stratified" "hads_anxiety" "HADS anxiety >=11" NA TRUE NA NA
 NA 7247.22606324198 84.7093611133511 "non_stratified" "hads_depression" "HADS depression 0 - 7" NA TRUE NA NA
@@ -991,27 +1395,27 @@ NA 115 10.1321585903084 "non_stratified" "s_1" "Anden" NA FALSE NA NA
 NA 915.824995901134 10.3425970244366 "converted_binary" "s_52" "Undersøgelser og behandlingsforløb" NA TRUE NA NA
 NA 2415.39183171921 27.3226125019145 "converted_binary" "s_52" "Betydning for din fremtid" NA TRUE NA NA
 NA 2533.41346209135 28.6726271740903 "converted_binary" "s_52" "Dine fysiske symptomer/reaktioner" NA TRUE NA NA
-NA 4260.36016659339 48.1924040799282 "converted_binary" "s_52" "Dine følelsesmæssige reaktioner" NA TRUE NA NA
+NA 4260.36016659339 48.1924040799283 "converted_binary" "s_52" "Dine følelsesmæssige reaktioner" NA TRUE NA NA
 NA 4682.01757336602 52.9898402380568 "converted_binary" "s_52" "Pårørendes følelsesmæssige reaktioner" NA TRUE NA NA
 NA 4781.47516591509 54.0797250972565 "converted_binary" "s_52" "Betydning for dit forhold til familie, venner m.fl." NA TRUE NA NA
-NA 5298.65661166429 60.3707072662736 "converted_binary" "s_52" "Betydning for dit sex- og samliv" NA TRUE NA NA
+NA 5298.6566116643 60.3707072662736 "converted_binary" "s_52" "Betydning for dit sex- og samliv" NA TRUE NA NA
 NA 2132.25413738089 24.2187393818325 "converted_binary" "s_52" "Hvad du selv kan gøre for at få det bedre" NA TRUE NA NA
 NA 1823.87293590757 20.7006133318388 "converted_binary" "s_52" "Hvor du skal henvende dig i tilfælde af forværring" NA TRUE NA NA
 NA 3514.05726105876 39.9353195223893 "converted_binary" "s_52" "Hvad du kan holde til rent fysisk" NA TRUE NA NA
 NA 3435.41780279251 38.9863046701371 "converted_binary" "s_52" "Mulige årsager til din hjertesygdom" NA TRUE NA NA
 NA 978.430121606723 11.5052591847369 "converted_binary" "s_168" "Hvorfor du fik/får medicin" NA TRUE NA NA
-NA 3891.46528788362 45.8458379415545 "converted_binary" "s_168" "Mulige bivirkninger af medicin" NA TRUE NA NA
+NA 3891.46528788362 45.8458379415546 "converted_binary" "s_168" "Mulige bivirkninger af medicin" NA TRUE NA NA
 NA 1987.79951236225 23.4058002974566 "converted_binary" "s_168" "Hvor lang tid du skal/skulle tage medicin" NA TRUE NA NA
 NA 2851.87820118929 32.5306057946959 "converted_binary" "s_28" "Fysisk træning" NA TRUE NA NA
-NA 3846.77894375133 43.9396594063197 "converted_binary" "s_28" "Rådgivning om kost" NA TRUE NA NA
+NA 3846.77894375133 43.9396594063198 "converted_binary" "s_28" "Rådgivning om kost" NA TRUE NA NA
 NA 5962.97884351744 68.1002437052277 "converted_binary" "s_28" "Psykisk støtte" NA TRUE NA NA
 NA 4842.72573560291 55.2969120715192 "converted_binary" "s_28" "Undervisning i din sygdom" NA TRUE NA NA
 NA 6198.22145725519 70.7551883722052 "converted_binary" "s_28" "Rådgivning om sex og samliv" NA TRUE NA NA
-NA 4439.04879766052 50.7093606508519 "converted_binary" "s_28" "Individuel samtale om medicin" NA TRUE NA NA
+NA 4439.04879766053 50.7093606508519 "converted_binary" "s_28" "Individuel samtale om medicin" NA TRUE NA NA
 NA 4694.21059562483 53.6625059910296 "converted_binary" "s_28" "Rådgivning om arbejdsmarkedstilknytning" NA TRUE NA NA
 NA 5928.20639070209 67.7725500489509 "converted_binary" "s_28" "Undervisning i de psykiske reaktioner på sygdommen" NA TRUE NA NA
 NA 447.221354092283 10.1808373675915 "converted_binary" "s_219" "Fysisk træning" NA TRUE NA NA
-NA 501.446676431747 15.0984930969533 "converted_binary" "s_219" "Rådgivning om kost" NA TRUE NA NA
+NA 501.446676431747 15.0984930969532 "converted_binary" "s_219" "Rådgivning om kost" NA TRUE NA NA
 NA 152.444685726552 22.7347159640842 "converted_binary" "s_219" "Psykisk støtte" NA TRUE NA NA
 NA 304.429774515332 13.6748805919478 "converted_binary" "s_219" "Undervisning i din sygdom" NA TRUE NA NA
 NA 163.344874127601 22.2092084633773 "converted_binary" "s_219" "Rådgivning om sex og samliv" NA TRUE NA NA
@@ -1019,26 +1423,26 @@ NA 352.428354006051 12.5692562958082 "converted_binary" "s_219" "Individuel samt
 NA 102.033623958619 18.2027706041718 "converted_binary" "s_219" "Rådgivning om arbejdsmarkedstilknytning" NA TRUE NA NA
 NA 136.692455655205 15.1726672769469 "converted_binary" "s_219" "Undervisning i de psykiske reaktioner på sygdommen" NA TRUE NA NA
 NA 217.897526099673 9.04356208201597 "converted_binary" "s_95" "Sygedagpenge" NA TRUE NA NA
-NA 107.414422935238 6.89671934154653 "converted_binary" "s_95" "Fleksjob" NA TRUE NA NA
+NA 107.414422935238 6.89671934154652 "converted_binary" "s_95" "Fleksjob" NA TRUE NA NA
 NA 193.478996991195 11.9612961502335 "converted_binary" "s_95" "Førtidspension" NA TRUE NA NA
 NA 192.122715506049 9.66586676061049 "converted_binary" "s_95" "Hjælpemidler" NA TRUE NA NA
 NA 340.47241215937 17.5366424623783 "converted_binary" "s_95" "Hjemmehjælp" NA TRUE NA NA
 NA 571.300633346625 18.8455152485392 "converted_binary" "s_95" "Tilskud til medicin" NA TRUE NA NA
-NA 163.754017232355 9.71487522028234 "converted_binary" "s_95" "Tilskud til psykolog" NA TRUE NA NA
+NA 163.754017232355 9.71487522028233 "converted_binary" "s_95" "Tilskud til psykolog" NA TRUE NA NA
 NA 109.161224799832 7.26568075344978 "converted_binary" "s_95" "Ansøgning om merudgifter på grund af nedsat fysisk/psykisk funktionsevne" NA TRUE NA NA
 NA 1435.2954409964 16.6031966619271 "converted_binary" "s_248" "Ikke at få den rette behandling" NA TRUE NA NA
-NA 2800.07330475267 32.3709148193344 "converted_binary" "s_248" "Om din hjertesygdom forværres" NA TRUE NA NA
+NA 2800.07330475267 32.3709148193345 "converted_binary" "s_248" "Om din hjertesygdom forværres" NA TRUE NA NA
 NA 3275.22965211448 37.8373731491537 "converted_binary" "s_248" "At dine nærmeste bekymrer sig" NA TRUE NA NA
-NA 1711.91374582081 19.7834645831551 "converted_binary" "s_248" "At være en byrde for din familie" NA TRUE NA NA
+NA 1711.91374582081 19.783464583155 "converted_binary" "s_248" "At være en byrde for din familie" NA TRUE NA NA
 NA 2071.78218382333 23.9473858615757 "converted_binary" "s_248" "Hvordan det skal gå din familie i fremtiden" NA TRUE NA NA
-NA 1869.85515203128 21.5927028914913 "converted_binary" "s_248" "Hvordan du får talt med dine nærmeste om din sygdom" NA TRUE NA NA
+NA 1869.85515203128 21.5927028914912 "converted_binary" "s_248" "Hvordan du får talt med dine nærmeste om din sygdom" NA TRUE NA NA
 NA 274.083031705404 3.17388539886557 "converted_binary" "s_248" "Hvordan du skal komme tilbage på arbejde igen" NA TRUE NA NA
 NA 956.660201599797 11.0605302591564 "converted_binary" "s_248" "Ikke at have nogen at snakke med" NA TRUE NA NA
 NA 2355.31039895205 27.2158151169871 "converted_binary" "s_248" "Hvor længe du kan leve med din hjertesygdom" NA TRUE NA NA
 NA 2636.19283071211 30.5912745118238 "converted_binary" "s_127" "Manglende eller nedsat lyst til sex" NA TRUE NA NA
-NA 1445.96924578753 16.8095769420479 "converted_binary" "s_127" "Nervøsitet for at have sex" NA TRUE NA NA
+NA 1445.96924578753 16.8095769420478 "converted_binary" "s_127" "Nervøsitet for at have sex" NA TRUE NA NA
 NA 2983.68507388142 34.6648676314914 "converted_binary" "s_127" "Fysiske problemer i forhold til at have sex" NA TRUE NA NA
-NA 2463.27744926428 28.4582678831032 "converted_binary" "s_268" "Bekymringer er begyndt at styre mit liv" NA TRUE NA NA
+NA 2463.27744926428 28.4582678831033 "converted_binary" "s_268" "Bekymringer er begyndt at styre mit liv" NA TRUE NA NA
 NA 1234.87049904371 14.2821666514742 "converted_binary" "s_268" "Jeg undgår nødvendig kontakt med læge eller sygehus" NA TRUE NA NA
 NA 1239.16223181834 14.3497994770436 "converted_binary" "s_268" "Mine bekymringer påvirker andre" NA TRUE NA NA
 NA 700.976937188207 8.1033321789773 "converted_binary" "s_268" "Mine bekymringer påvirker min søvn og evnen til at fungere" NA TRUE NA NA
@@ -1062,8 +1466,7 @@ NA 70 5.7660626029654 "converted_binary" "s_195" "Gav flere konflikter med den h
 NA 110 9.0684253915911 "converted_binary" "s_195" "Gjorde at dine drømme om fremtiden er bristet" NA FALSE NA NA
 NA 659 54.3281121187139 "converted_binary" "s_195" "Gav dig øget opmærksomhed på de vigtige ting i livet" NA FALSE NA NA
 NA 900 74.318744838976 "converted_binary" "s_87" "Samtaler med en psykolog" NA FALSE NA NA
-NA 134 28.3898305084746 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
-NA 134 28.3898305084746 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
+NA 873 72.0891824938068 "converted_binary" "s_87" "Samtalegrupper med andre pårørende" NA FALSE NA NA
 NA 844 69.6944673823287 "converted_binary" "s_87" "Samtaler med socialrådgiver" NA FALSE NA NA
 NA 787 64.9876135425268 "converted_binary" "s_87" "Rådgivning eller kurser om kost, motion, medicin, sygdommen, rollen som pårørende, sex og samliv, psykiske reaktioner m.m." NA FALSE NA NA
 NA 864 71.345995045417 "converted_binary" "s_87" "Aflastning ift. praktiske opgaver" NA FALSE NA NA
@@ -1100,6 +1503,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 757 12.1 "Kon/alder" "s_9" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 361 16 "Kon/alder" "s_9" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 396 9.9 "Kon/alder" "s_9" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 772 14.7 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "Total" "Total"
+"female-Total" 318 19.9 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 92 24.4 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 226 18.5 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 455 12.4 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 237 17.6 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 217 9.4 "Kon/alder" "s_11" "I mindre grad / slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 915 17.4 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "Total" "Total"
+"female-Total" 343 21.4 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 79 21.1 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 263 21.5 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 572 15.6 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 246 18.2 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 326 14.1 "Kon/alder" "s_12" "I mindre grad / slet ikke" NA TRUE "male" "Alder >65"
 "Total-Total" 1722 18.8 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 657 22.5 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 196 29.2 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1107,6 +1524,13 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 1065 17.1 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 438 19.6 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 627 15.7 "Kon/alder" "s_227" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 1110 16.8 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "Total" "Total"
+"female-Total" 465 20.7 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 107 21.4 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 358 20.5 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 645 14.8 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 231 15.8 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 414 14.2 "Kon/alder" "s_18" "I mindre grad / slet ikke" NA TRUE "male" "Alder >65"
 "Total-Total" 1608 17.7 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 653 22.6 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 130 19.5 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1114,6 +1538,41 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 956 15.4 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 323 14.5 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 633 15.9 "Kon/alder" "s_162" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 1894 20.9 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 681 23.6 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 194 29 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 487 21.9 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 1213 19.6 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 494 22.3 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 718 18.1 "Kon/alder" "s_164" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 1098 12.1 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 412 14.3 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 108 16.2 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 304 13.7 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 687 11.1 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 316 14.3 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 371 9.4 "Kon/alder" "s_165" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 371 4.1 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 121 4.2 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 35 5.2 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 86 3.9 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 250 4.1 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 107 4.8 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 143 3.6 "Kon/alder" "s_166" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 722 8 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 281 9.7 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 82 12.3 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 199 9 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 441 7.2 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 182 8.3 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 260 6.6 "Kon/alder" "s_167" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 1440 16 "Kon/alder" "s_19" "Nej" NA TRUE "Total" "Total"
+"female-Total" 502 17.4 "Kon/alder" "s_19" "Nej" NA TRUE "female" "Total"
+"female-Alder <=65" 92 13.9 "Kon/alder" "s_19" "Nej" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 410 18.5 "Kon/alder" "s_19" "Nej" NA TRUE "female" "Alder >65"
+"male-Total" 938 15.3 "Kon/alder" "s_19" "Nej" NA TRUE "male" "Total"
+"male-Alder <=65" 291 13.3 "Kon/alder" "s_19" "Nej" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 647 16.4 "Kon/alder" "s_19" "Nej" NA TRUE "male" "Alder >65"
 "Total-Total" 1110 14.7 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 375 15.8 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 82 14.5 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1121,6 +1580,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 735 14.2 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 323 17.1 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 412 12.5 "Kon/alder" "s_229" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 1092 14.4 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 322 13.6 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 97 17 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 225 12.5 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 769 14.8 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 371 19.6 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 398 12.1 "Kon/alder" "s_230" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 651 7.3 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "Total" "Total"
+"female-Total" 238 8.4 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 57 8.8 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 180 8.3 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 413 6.8 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 189 8.8 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 225 5.7 "Kon/alder" "s_187" "I mindre grad / slet ikke" NA TRUE "male" "Alder >65"
 "Total-Total" 1976 22.6 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 788 28.1 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 221 33.8 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1128,6 +1601,13 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 1188 20 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 468 22.2 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 720 18.8 "Kon/alder" "s_238" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 2751 31.5 "Kon/alder" "s_239" "Nej" NA TRUE "Total" "Total"
+"female-Total" 936 33.4 "Kon/alder" "s_239" "Nej" NA TRUE "female" "Total"
+"female-Alder <=65" 216 33.2 "Kon/alder" "s_239" "Nej" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 720 33.5 "Kon/alder" "s_239" "Nej" NA TRUE "female" "Alder >65"
+"male-Total" 1815 30.6 "Kon/alder" "s_239" "Nej" NA TRUE "male" "Total"
+"male-Alder <=65" 710 33.8 "Kon/alder" "s_239" "Nej" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 1105 28.8 "Kon/alder" "s_239" "Nej" NA TRUE "male" "Alder >65"
 "Total-Total" 648 10.8 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 284 15.2 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 78 17.8 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1135,6 +1615,27 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 364 8.8 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "male" "Total"
 "male-Alder <=65" 144 10.4 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 220 8.1 "Kon/alder" "s_66" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 966 10.9 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 387 13.7 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 103 15.7 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 284 13.1 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 580 9.6 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 282 13.2 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 298 7.6 "Kon/alder" "s_68" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
+"Total-Total" 3077 36 "Kon/alder" "s_70" "Ja" NA TRUE "Total" "Total"
+"female-Total" 995 37 "Kon/alder" "s_70" "Ja" NA TRUE "female" "Total"
+"female-Alder <=65" 298 47.1 "Kon/alder" "s_70" "Ja" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 697 33.9 "Kon/alder" "s_70" "Ja" NA TRUE "female" "Alder >65"
+"male-Total" 2082 35.6 "Kon/alder" "s_70" "Ja" NA TRUE "male" "Total"
+"male-Alder <=65" 953 45.5 "Kon/alder" "s_70" "Ja" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 1129 30.1 "Kon/alder" "s_70" "Ja" NA TRUE "male" "Alder >65"
+"Total-Total" 543 17.6 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 213 21.2 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" 76 25.3 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 137 19.5 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 331 15.8 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 159 16.7 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 172 15.2 "Kon/alder" "s_72" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
 "Total-Total" 1745 19.9 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "Total" "Total"
 "female-Total" 763 27.4 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "female" "Total"
 "female-Alder <=65" 281 43.1 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "female" "Alder <=65"
@@ -1142,6 +1643,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 982 16.4 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "male" "Total"
 "male-Alder <=65" 538 25.5 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "male" "Alder <=65"
 "male-Alder >65" 444 11.4 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA TRUE "male" "Alder >65"
+"Total-Total" 5661 64.4 "Kon/alder" "s_205" "Nej" NA TRUE "Total" "Total"
+"female-Total" 2155 77.3 "Kon/alder" "s_205" "Nej" NA TRUE "female" "Total"
+"female-Alder <=65" 161 24.7 "Kon/alder" "s_205" "Nej" NA TRUE "female" "Alder <=65"
+"female-Alder >65" 1994 93.4 "Kon/alder" "s_205" "Nej" NA TRUE "female" "Alder >65"
+"male-Total" 3506 58.4 "Kon/alder" "s_205" "Nej" NA TRUE "male" "Total"
+"male-Alder <=65" 317 15 "Kon/alder" "s_205" "Nej" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 3189 82 "Kon/alder" "s_205" "Nej" NA TRUE "male" "Alder >65"
+"Total-Total" 287 18.2 "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
+"female-Total" 84 27.7 "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "female" "Total"
+"female-Alder <=65" NA NA "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
+"female-Alder >65" NA NA "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "female" "Alder >65"
+"male-Total" 203 15.9 "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "male" "Total"
+"male-Alder <=65" 187 18.2 "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "male" "Alder <=65"
+"male-Alder >65" 16 6.4 "Kon/alder" "s_242" "I mindre grad/slet ikke" NA TRUE "male" "Alder >65"
 "Total-Total" 547 34.8 "Kon/alder" "s_89" "I mindre grad/slet ikke" NA TRUE "Total" "Total"
 "female-Total" 109 36.5 "Kon/alder" "s_89" "I mindre grad/slet ikke" NA TRUE "female" "Total"
 "female-Alder <=65" 94 35.4 "Kon/alder" "s_89" "I mindre grad/slet ikke" NA TRUE "female" "Alder <=65"
@@ -1200,18 +1715,18 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Alder >65" 753 19.6 "Kon/alder" "who5" "WHO-1 <50" NA TRUE "male" "Alder >65"
 "Total-Total" NA NA "Kon/alder" "hq_score_physical" NA 2.1 TRUE "Total" "Total"
 "female-Total" NA NA "Kon/alder" "hq_score_physical" NA 1.9 TRUE "female" "Total"
-"female-Alder <=65" NA NA "Kon/alder" "hq_score_physical" NA 2 TRUE "female" "Alder <=65"
 "female-Alder >65" NA NA "Kon/alder" "hq_score_physical" NA 1.8 TRUE "female" "Alder >65"
+"female-Alder <=65" NA NA "Kon/alder" "hq_score_physical" NA 2 TRUE "female" "Alder <=65"
 "male-Total" NA NA "Kon/alder" "hq_score_physical" NA 2.2 TRUE "male" "Total"
-"male-Alder <=65" NA NA "Kon/alder" "hq_score_physical" NA 2.3 TRUE "male" "Alder <=65"
 "male-Alder >65" NA NA "Kon/alder" "hq_score_physical" NA 2.2 TRUE "male" "Alder >65"
+"male-Alder <=65" NA NA "Kon/alder" "hq_score_physical" NA 2.3 TRUE "male" "Alder <=65"
 "Total-Total" NA NA "Kon/alder" "hq_score_emotional" NA 2.3 TRUE "Total" "Total"
 "female-Total" NA NA "Kon/alder" "hq_score_emotional" NA 2.2 TRUE "female" "Total"
-"female-Alder <=65" NA NA "Kon/alder" "hq_score_emotional" NA 2 TRUE "female" "Alder <=65"
 "female-Alder >65" NA NA "Kon/alder" "hq_score_emotional" NA 2.3 TRUE "female" "Alder >65"
+"female-Alder <=65" NA NA "Kon/alder" "hq_score_emotional" NA 2 TRUE "female" "Alder <=65"
 "male-Total" NA NA "Kon/alder" "hq_score_emotional" NA 2.4 TRUE "male" "Total"
-"male-Alder <=65" NA NA "Kon/alder" "hq_score_emotional" NA 2.3 TRUE "male" "Alder <=65"
 "male-Alder >65" NA NA "Kon/alder" "hq_score_emotional" NA 2.5 TRUE "male" "Alder >65"
+"male-Alder <=65" NA NA "Kon/alder" "hq_score_emotional" NA 2.3 TRUE "male" "Alder <=65"
 "Total-Total" 406 34.2 "Kon/alder" "s_114" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
 "female-Total" 329 36 "Kon/alder" "s_114" "I nogen grad/i høj grad" NA FALSE "female" "Total"
 "female-Alder <=65" 182 41.5 "Kon/alder" "s_114" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
@@ -1233,6 +1748,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 68 23.5 "Kon/alder" "s_204" "I nogen grad/i høj grad" NA FALSE "male" "Total"
 "male-Alder <=65" 23 25.3 "Kon/alder" "s_204" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
 "male-Alder >65" 45 22.7 "Kon/alder" "s_204" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
+"Total-Total" 393 32 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
+"female-Total" 333 35.5 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "female" "Total"
+"female-Alder <=65" 171 38.1 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 162 33.1 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "female" "Alder >65"
+"male-Total" 60 20.8 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "male" "Total"
+"male-Alder <=65" 20 22 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 40 20.2 "Kon/alder" "s_205" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
+"Total-Total" 327 26.7 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
+"female-Total" 244 26 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
+"female-Alder <=65" 131 29.2 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 113 23.1 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "female" "Alder >65"
+"male-Total" 83 28.7 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "male" "Total"
+"male-Alder <=65" 26 28.6 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 57 28.8 "Kon/alder" "s_206" "I mindre grad / Slet ikke" NA FALSE "male" "Alder >65"
 "Total-Total" 218 17.8 "Kon/alder" "s_50" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
 "female-Total" 158 16.8 "Kon/alder" "s_50" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
 "female-Alder <=65" 84 18.7 "Kon/alder" "s_50" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"
@@ -1247,6 +1776,27 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 152 52.6 "Kon/alder" "s_51" "I mindre grad / Slet ikke" NA FALSE "male" "Total"
 "male-Alder <=65" 44 48.4 "Kon/alder" "s_51" "I mindre grad / Slet ikke" NA FALSE "male" "Alder <=65"
 "male-Alder >65" 108 54.5 "Kon/alder" "s_51" "I mindre grad / Slet ikke" NA FALSE "male" "Alder >65"
+"Total-Total" 485 39.5 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
+"female-Total" 366 38.9 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
+"female-Alder <=65" 196 43.6 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 170 34.7 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "female" "Alder >65"
+"male-Total" 119 41.2 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "male" "Total"
+"male-Alder <=65" 40 44 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 79 39.9 "Kon/alder" "s_52" "I mindre grad / Slet ikke" NA FALSE "male" "Alder >65"
+"Total-Total" 65 5.3 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
+"female-Total" 44 4.7 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
+"female-Alder <=65" 21 4.7 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 23 4.7 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "female" "Alder >65"
+"male-Total" 21 7.3 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "male" "Total"
+"male-Alder <=65" 6 6.6 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 15 7.6 "Kon/alder" "s_53" "I mindre grad / Slet ikke" NA FALSE "male" "Alder >65"
+"Total-Total" 551 44.8 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
+"female-Total" 417 44.3 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
+"female-Alder <=65" 199 44.2 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 218 44.4 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "female" "Alder >65"
+"male-Total" 134 46.4 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "male" "Total"
+"male-Alder <=65" 37 40.7 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 97 49 "Kon/alder" "s_54" "I mindre grad / Slet ikke" NA FALSE "male" "Alder >65"
 "Total-Total" 760 61.8 "Kon/alder" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE "Total" "Total"
 "female-Total" 588 62.6 "Kon/alder" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Total"
 "female-Alder <=65" 289 64.2 "Kon/alder" "s_172" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Alder <=65"
@@ -1261,6 +1811,13 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 107 37 "Kon/alder" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Total"
 "male-Alder <=65" 34 37.4 "Kon/alder" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder <=65"
 "male-Alder >65" 73 36.9 "Kon/alder" "s_173" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder >65"
+"Total-Total" 460 37.4 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "Total" "Total"
+"female-Total" 348 37 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Total"
+"female-Alder <=65" 169 37.6 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 179 36.5 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Alder >65"
+"male-Total" 112 38.8 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Total"
+"male-Alder <=65" 33 36.3 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 79 39.9 "Kon/alder" "s_58" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder >65"
 "Total-Total" 356 29.1 "Kon/alder" "s_92" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
 "female-Total" 286 30.6 "Kon/alder" "s_92" "I nogen grad/i høj grad" NA FALSE "female" "Total"
 "female-Alder <=65" 175 39.1 "Kon/alder" "s_92" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
@@ -1275,6 +1832,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 10 8.9 "Kon/alder" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE "male" "Total"
 "male-Alder <=65" NA NA "Kon/alder" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE "male" "Alder <=65"
 "male-Alder >65" NA NA "Kon/alder" "s_112" "Ja, én enkelt gang / flere gange / jeg har været langtidssygemeldt (mere end 30 dage)" NA FALSE "male" "Alder >65"
+"Total-Total" 680 55.6 "Kon/alder" "s_19" "Nej" NA FALSE "Total" "Total"
+"female-Total" 505 54 "Kon/alder" "s_19" "Nej" NA FALSE "female" "Total"
+"female-Alder <=65" 69 15.4 "Kon/alder" "s_19" "Nej" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 436 89.5 "Kon/alder" "s_19" "Nej" NA FALSE "female" "Alder >65"
+"male-Total" 175 60.8 "Kon/alder" "s_19" "Nej" NA FALSE "male" "Total"
+"male-Alder <=65" 10 11 "Kon/alder" "s_19" "Nej" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 165 83.8 "Kon/alder" "s_19" "Nej" NA FALSE "male" "Alder >65"
+"Total-Total" 57 10.5 "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "Total" "Total"
+"female-Total" 46 10.7 "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Total"
+"female-Alder <=65" 39 10.3 "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 7 13.7 "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "female" "Alder >65"
+"male-Total" 11 9.7 "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Total"
+"male-Alder <=65" NA NA "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder <=65"
+"male-Alder >65" NA NA "Kon/alder" "s_22" "Kun nogle gange / Sjældent/aldrig" NA FALSE "male" "Alder >65"
 "Total-Total" 26 4.8 "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
 "female-Total" 20 4.7 "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "female" "Total"
 "female-Alder <=65" NA NA "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
@@ -1282,6 +1853,20 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 6 5.4 "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "male" "Total"
 "male-Alder <=65" NA NA "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
 "male-Alder >65" NA NA "Kon/alder" "s_25" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
+"Total-Total" 128 10.8 "Kon/alder" "s_27" "Ja" NA FALSE "Total" "Total"
+"female-Total" 99 10.9 "Kon/alder" "s_27" "Ja" NA FALSE "female" "Total"
+"female-Alder <=65" 52 11.7 "Kon/alder" "s_27" "Ja" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 47 10.2 "Kon/alder" "s_27" "Ja" NA FALSE "female" "Alder >65"
+"male-Total" 29 10.5 "Kon/alder" "s_27" "Ja" NA FALSE "male" "Total"
+"male-Alder <=65" 9 10.1 "Kon/alder" "s_27" "Ja" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 20 10.6 "Kon/alder" "s_27" "Ja" NA FALSE "male" "Alder >65"
+"Total-Total" 108 8.9 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
+"female-Total" 81 8.7 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "female" "Total"
+"female-Alder <=65" 53 11.8 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 28 5.8 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "female" "Alder >65"
+"male-Total" 27 9.4 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "male" "Total"
+"male-Alder <=65" 15 16.5 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 12 6.2 "Kon/alder" "s_26" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
 "Total-Total" 215 17.6 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "Total" "Total"
 "female-Total" 170 18.2 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "female" "Total"
 "female-Alder <=65" 73 16.3 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "female" "Alder <=65"
@@ -1289,6 +1874,13 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 45 15.7 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "male" "Total"
 "male-Alder <=65" 12 13.3 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "male" "Alder <=65"
 "male-Alder >65" 33 16.8 "Kon/alder" "s_207" "Mindre godt / Dårligt" NA FALSE "male" "Alder >65"
+"Total-Total" 252 24.4 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
+"female-Total" 205 25.5 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "female" "Total"
+"female-Alder <=65" 94 27.6 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 111 23.9 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "female" "Alder >65"
+"male-Total" 47 20.4 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "male" "Total"
+"male-Alder <=65" 21 42 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 26 14.4 "Kon/alder" "s_47" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
 "Total-Total" 329 31.8 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
 "female-Total" 273 34 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "female" "Total"
 "female-Alder <=65" 119 35 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
@@ -1296,6 +1888,13 @@ NA 103 8.4983498349835 "converted_binary" "s_209" "Mine bekymringer giver mig ve
 "male-Total" 56 24.3 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "male" "Total"
 "male-Alder <=65" 23 46 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
 "male-Alder >65" 33 18.3 "Kon/alder" "s_48" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
+"Total-Total" 167 16.2 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "Total" "Total"
+"female-Total" 138 17.2 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "female" "Total"
+"female-Alder <=65" 73 21.5 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "female" "Alder <=65"
+"female-Alder >65" 65 14 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "female" "Alder >65"
+"male-Total" 29 12.6 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "male" "Total"
+"male-Alder <=65" 11 22 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "male" "Alder <=65"
+"male-Alder >65" 18 10 "Kon/alder" "s_49" "I nogen grad/i høj grad" NA FALSE "male" "Alder >65"
 "Total-Total" 383 31.2 "Kon/alder" "s_208" "I mindre grad / Slet ikke" NA FALSE "Total" "Total"
 "female-Total" 301 32.1 "Kon/alder" "s_208" "I mindre grad / Slet ikke" NA FALSE "female" "Total"
 "female-Alder <=65" 170 37.9 "Kon/alder" "s_208" "I mindre grad / Slet ikke" NA FALSE "female" "Alder <=65"

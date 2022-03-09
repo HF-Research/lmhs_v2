@@ -73,6 +73,12 @@ input[type="month"] {
 }
 
 /***************END COPY FROM BOOTSTRAP ************************/
+
+  
+  /**** list style *****/
+  ul{
+  list-style-type:disc  
+  }
   
   
   /**** NAVBAR STYLING *****/
