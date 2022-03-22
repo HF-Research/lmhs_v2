@@ -228,8 +228,8 @@ setorder(dat, q_pos1, q_pos2, q_pos3)
 dat[, ui_order := 1:nrow(dat)]
 
 # SETUP UI CHOICES --------------------------------------------------------
-# List topics that should be shown depending on person_type selected
 
+# List topics that should be shown depending on person_type selected
 topics_by_person <-
   split(dat, by = "person_type") %>% map(
     .x = .,

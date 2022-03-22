@@ -1,6 +1,7 @@
-# Flags when plots should be large (and thus sorted by higest to lowest and
-# fliped x-y axis)
+
 flag_large_plot <- function(x, strat, person_type, q) {
+  # Flags when plots should be large (and thus sorted by higest to lowest and
+  # fliped x-y axis)
   never_large <-
     strat == "Køn/alder" |
     (

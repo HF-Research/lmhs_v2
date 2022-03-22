@@ -1,5 +1,7 @@
 # UI INPUT ----------------------------------------------------------------
 
+# These observeEvents are needed to check and update the possible question to
+# show in the question dropdown menu
 observeEvent(input$person_type, {
   topic_choices <- d$topics_by_person[[input$person_type]]
   updateSelectizeInput(
@@ -63,6 +65,8 @@ observeEvent(label = "forceTabSwitchMap", input$strat, {
 plot_data <- reactive({
   x <- input$strat
   y <- input$question_name_short
+  # I can't remember why an isolate() is needed here, but I guess it is to stop
+  # needless invalidations of some of the inputs
   isolate(d$dat[person_type == input$person_type &
                   topic_dk == input$topic &
                   question_name_short == input$question_name_short &
@@ -71,6 +75,9 @@ plot_data <- reactive({
 })
 # CASE --------------------------------------------------------------------
 case <- reactive({
+
+  # This is to simplify the logic around switching between the differnt types of
+  # results that are shown
   req(input$question_name_short)
   case <- "pat_svar"
   if (input$person_type == "paar")
@@ -193,6 +200,8 @@ valid_plot <- reactive({
 })
 
 hq <- reactive({
+  # HeartQol plots are different in a couple ways, so this is a simple reactive
+  # to flag those items
   hq <- FALSE
   hq <- grepl("HeartQol", input$question_name_short)
   hq
@@ -200,6 +209,9 @@ hq <- reactive({
 
 
 response_to_last <- reactive({
+  # For some of the battery items, we want to move a specific response to the
+  # bottom of the plot. This is usually because we want the equivilant of a NA
+  # resopnse to be shown at the bottom.
   req(valid_plot())
   plot_dat <- plot_data()
   if (input$person_type == "pat") {
@@ -397,6 +409,7 @@ leaflet_map <- reactive({
     c(fill_data, fill_data + d$max_diff_map_colors[[data_var]])
   pal <-
     colorNumeric(palette = "YlOrRd", domain = fill_data,)
+
   # This is created so NA doesn't appear on the legend
   pal_NA <-
     colorNumeric("YlOrRd", fill_data, na.color = rgb(0, 0, 0, 0))
@@ -452,6 +465,12 @@ output$map <- renderLeaflet({
 output$download_map <- downloadHandler(
   filename = "map_livetmedhjertesygdom.png",
   content = function(file) {
+
+    # To download a map, we need a static map (in this case a ggplot) for the
+    # user. We can't really download a leaflet - I think I tried implementations
+    # that would transform a leaflet map on the fly for download, but they did
+    # not work very well, for reasons I can't remember
+    #
     make_static_map(
       dat = leaflet_map()$fill_data,
       map_obj = map_data_obj(),
