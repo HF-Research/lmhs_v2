@@ -45,6 +45,7 @@ aboutEduDT <- reactive({
 })
 # TEXT --------------------------------------------------------------------
 
+
 output$ui_about_section_title <- renderText({
   inx <- purrr::map_lgl(about_choices, function(i) {
     i == input$about_selection
@@ -52,6 +53,7 @@ output$ui_about_section_title <- renderText({
   names(about_choices[inx])
 })
 
+# Pulls the text from txt_ui_objects.R
 output$ui_about_desc <- renderUI({
   x <- about_text[[input$about_selection]]
 

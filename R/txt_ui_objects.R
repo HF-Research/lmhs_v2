@@ -272,7 +272,9 @@ defineret: "
   11 hjertepatienter med henblik på at teste spørgeskemaet og sikre
   forståelighed, kvalitet, relevans mv. Spørgeskemaet blev justeret derefter,
   og det endelige spørgeskema indeholdt i alt 51 spørgsmål eller
-  spørgsmålsbatterier."
+  spørgsmålsbatterier.",
+
+    "Se patientspørgeskema <a href='https://hjerteforeningen.dk/wp-content/uploads/2022/03/LMH_Spoergeskema_A5_Patient_v10.pdf'>her</a>."
   ),
 
   "paar" = list(
@@ -297,7 +299,9 @@ defineret: "
     "Der blev endvidere gennemført kvalitative kognitive enkelt-interviews med
   syv pårørende med henblik på at teste spørgeskemaet og sikre forståelighed,
   kvalitet, relevans mv. Spørgeskemaet blev justeret derefter, og det endelige
-  spørgeskema indeholdt i alt 50 spørgsmål eller spørgsmålsbatterier."
+  spørgeskema indeholdt i alt 50 spørgsmål eller spørgsmålsbatterier.",
+
+    "Se pårørendespørgeskema <a href='https://hjerteforeningen.dk/wp-content/uploads/2022/03/LMH_Spoergeskema_A5_Pa%CC%8Aroerende_v10.pdf'>her</a>."
 
   ),
 
